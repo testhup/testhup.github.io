@@ -116,6 +116,9 @@
     var p = location.pathname;
     if (p.indexOf('/consulting') > -1) return 'consulting';
     if (p.indexOf('/marketing-management') > -1) return 'management';
+    if (p.indexOf('/audit') > -1) return 'audit';
+    if (p.indexOf('/proposal') > -1) return 'proposal';
+    if (p.indexOf('/book') > -1) return 'consultation';
     return 'general';
   }
   function waLink(type) {
@@ -129,9 +132,14 @@
   function showFor(form) {
     var type = (form.elements.lead_type && form.elements.lead_type.value) || form.getAttribute('data-default-type');
     form.querySelectorAll('[data-for]').forEach(function (g) {
-      var on = g.getAttribute('data-for') === type;
+      var on = g.getAttribute('data-for').split(' ').indexOf(type) > -1;
       g.hidden = !on;
       g.querySelectorAll('input,select,textarea').forEach(function (el) { el.disabled = !on; });
+    });
+    form.querySelectorAll('[data-req-for]').forEach(function (el) {
+      el.required = !el.disabled && el.getAttribute('data-req-for').split(' ').indexOf(type) > -1;
+      var lb = form.querySelector('label[for="' + el.id + '"] .req');
+      if (lb) lb.hidden = !el.required;
     });
   }
   function setErr(form, name, msg) {
@@ -142,9 +150,10 @@
   }
   function validate(form) {
     var ok = true, first = null, e = KS.err || {};
-    ['name', 'email', 'whatsapp', 'country', 'service', 'budget', 'message', 'consent', 'lead_type'].forEach(function (n) {
-      var inp = form.elements[n];
-      if (!inp || inp.disabled || inp.type === 'hidden') { if (inp) setErr(form, n, ''); return; }
+    Array.prototype.forEach.call(form.elements, function (inp) {
+      var n = inp.name;
+      if (!n || n === 'hp_url' || inp.type === 'hidden' || inp.type === 'submit' || inp.tagName === 'BUTTON') return;
+      if (inp.disabled) { setErr(form, n, ''); return; }
       var msg = '', v = (inp.type === 'checkbox' ? (inp.checked ? 'y' : '') : (inp.value || '').trim());
       if (inp.required && !v) msg = n === 'consent' ? e.consent : e.required;
       else if (n === 'email' && v && !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) msg = e.email;
@@ -184,12 +193,29 @@
     else { opts.mode = 'no-cors'; opts.headers = { 'Content-Type': 'text/plain;charset=utf-8' }; }
     return fetch(url, opts).then(function (r) { if (t) clearTimeout(t); return r; }, function (err) { if (t) clearTimeout(t); throw err; });
   }
+  function buildMessage(form, type, data) {
+    var lines = [], title = (KS.typeLabels && KS.typeLabels[type]) || type, skip = { lead_type: 1, consent: 1, hp_url: 1 };
+    lines.push('*' + title + '*');
+    Array.prototype.forEach.call(form.elements, function (el) {
+      if (!el.name || skip[el.name] || el.disabled || el.type === 'hidden' || el.type === 'submit' || el.tagName === 'BUTTON') return;
+      var v = el.tagName === 'SELECT' ? (el.selectedIndex > -1 ? el.options[el.selectedIndex].text : '') : (el.value || '');
+      v = v.trim(); if (!v) return;
+      if (el.name === 'message' && v.length > 700) v = v.slice(0, 700) + '…';
+      var lb = form.querySelector('label[for="' + el.id + '"]');
+      var t = lb ? lb.textContent.replace(/\*/g, '').replace(/\s+/g, ' ').replace(/\(.*?\)/g, '').trim() : el.name;
+      lines.push(t + ': ' + v);
+    });
+    var src = [data.utm_source || data.referrer, data.utm_medium, data.utm_campaign].filter(Boolean).join(' / ');
+    lines.push('');
+    lines.push(KS.refLabel + ': ' + REF + (src ? ' | ' + src : ''));
+    return lines.join('\n');
+  }
   d.querySelectorAll('form.lead-form').forEach(function (form) {
     var started = false, btn = form.querySelector('button[type="submit"]'), status = form.querySelector('.form-status');
     showFor(form);
     var qType = new URLSearchParams(location.search).get('type');
     var sel = form.elements.lead_type && form.elements.lead_type.tagName === 'SELECT' ? form.elements.lead_type : null;
-    if (sel && qType && /^(general|consulting|management)$/.test(qType)) { sel.value = qType; showFor(form); }
+    if (sel && qType && /^(general|consultation|audit|proposal|consulting|management)$/.test(qType)) { sel.value = qType; showFor(form); }
     if (sel) sel.addEventListener('change', function () { showFor(form); });
     form.addEventListener('focusin', function () { if (!started) { started = true; track('form_start', { form_id: form.id, lead_type: form.elements.lead_type.value }); } });
     form.addEventListener('submit', function (ev) {
@@ -198,21 +224,19 @@
       if (form.elements.hp_url && form.elements.hp_url.value) return; /* bot */
       if (Date.now() - LOADED < 2500) { status.textContent = (KS.err || {}).network || ''; status.className = 'form-status bad'; return; }
       if (!validate(form)) { track('form_error', { form_id: form.id }); return; }
-      if (!KS.endpoint && !KS.sheets) { status.textContent = (KS.err || {}).unconfigured || ''; status.className = 'form-status bad'; track('form_error', { form_id: form.id, reason: 'unconfigured' }); return; }
+      if (!KS.wa && !KS.endpoint) { status.textContent = (KS.err || {}).unconfigured || ''; status.className = 'form-status bad'; track('form_error', { form_id: form.id, reason: 'unconfigured' }); return; }
       var data = payload(form), type = data.lead_type || 'general';
       btn.disabled = true; btn.textContent = btn.getAttribute('data-sending');
-      var jobs = [];
-      if (KS.endpoint) jobs.push(post(KS.endpoint, data, true).then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return 'primary'; }));
-      if (KS.sheets) jobs.push(post(KS.sheets, data, false).then(function () { return 'sheets'; }));
-      var rest = jobs.slice(1).map(function (j) { return j['catch'](function () { return null; }); });
-      Promise.all([jobs[0]].concat(rest)).then(function () {
-        track('generate_lead', { lead_type: type, form_id: form.id, ref_id: data.ref_id, service: data.service || '', country: data.country || '', utm_source: data.utm_source, utm_medium: data.utm_medium, utm_campaign: data.utm_campaign });
-        setTimeout(function () { location.href = KS.thanks + '?type=' + encodeURIComponent(type) + '&ref=' + encodeURIComponent(data.ref_id); }, 150);
-      }).catch(function () {
-        btn.disabled = false; btn.textContent = btn.getAttribute('data-label');
-        status.textContent = (KS.err || {}).network || ''; status.className = 'form-status bad';
-        track('form_error', { form_id: form.id, reason: 'network' });
-      });
+      var link = '';
+      if (KS.wa) {
+        link = 'https://wa.me/' + KS.wa + '?text=' + encodeURIComponent(buildMessage(form, type, data));
+        sset('ks_wa_link', link, true);
+      }
+      /* optional extra copy to a form endpoint, never blocks the WhatsApp step */
+      if (KS.endpoint) { try { post(KS.endpoint, data, true)['catch'](function () {}); } catch (e) {} }
+      track('generate_lead', { lead_type: type, form_id: form.id, ref_id: data.ref_id, service: data.service || '', country: data.country || '', utm_source: data.utm_source, utm_medium: data.utm_medium, utm_campaign: data.utm_campaign, method: 'whatsapp' });
+      if (link) { try { w.open(link, '_blank'); } catch (e) {} }
+      setTimeout(function () { location.href = KS.thanks + '?type=' + encodeURIComponent(type) + '&ref=' + encodeURIComponent(data.ref_id); }, 400);
     });
   });
 
@@ -220,12 +244,12 @@
   var thx = d.querySelector('[data-thanks]');
   if (thx) {
     var q = new URLSearchParams(location.search), type = q.get('type'), ref = q.get('ref') || REF;
-    if (!/^(general|consulting|management)$/.test(type || '')) type = 'general';
+    if (!/^(general|consultation|audit|proposal|consulting|management)$/.test(type || '')) type = 'general';
     thx.querySelectorAll('.thx').forEach(function (el) { el.hidden = el.getAttribute('data-type') !== type; });
     var refEl = d.getElementById('thx-ref');
     if (refEl) { refEl.textContent = ref.replace(/[^A-Za-z0-9\-]/g, '').slice(0, 20); refEl.parentNode.hidden = false; }
     var wa = d.getElementById('thx-wa');
-    if (wa && KS.wa) { wa.href = waLink(type); wa.hidden = false; }
+    if (wa && KS.wa) { wa.href = sget('ks_wa_link', true) || waLink(type); wa.hidden = false; wa.setAttribute('target', '_blank'); wa.setAttribute('rel', 'noopener'); }
     var bk = d.getElementById('thx-book');
     if (bk && type === 'consulting') bk.hidden = false;
     if (!sget('ks_thx_' + ref, true)) { sset('ks_thx_' + ref, '1', true); track('thank_you_view', { lead_type: type, ref_id: ref }); }
