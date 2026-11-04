@@ -1,0 +1,28 @@
+{
+ "insights": {
+  "title": {
+   "en": "Insights & Articles",
+   "ar": "أفكار ومقالات"
+  },
+  "description": {
+   "en": "Short notes on growth, lead quality, funnels and honest marketing reporting.",
+   "ar": "ملاحظات قصيرة عن النمو وجودة العملاء المحتملين ومسارات التحويل والتقارير التسويقية الصادقة."
+  },
+  "lead": {
+   "en": "Notes on growth, lead quality, funnels and honest reporting.",
+   "ar": "ملاحظات عن النمو وجودة العملاء المحتملين ومسارات التحويل والتقارير الصادقة."
+  },
+  "read": {
+   "en": "Read",
+   "ar": "اقرأ"
+  },
+  "min": {
+   "en": "min read",
+   "ar": "دقائق قراءة"
+  },
+  "back": {
+   "en": "All insights",
+   "ar": "كل المقالات"
+  }
+ }
+}

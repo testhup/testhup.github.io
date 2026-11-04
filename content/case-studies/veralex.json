@@ -1,0 +1,386 @@
+{
+ "slug": "veralex",
+ "clientId": "veralex",
+ "order": 3,
+ "kind": "results",
+ "emoji": "📈",
+ "tag": {
+  "en": "Lead Generation · Sales Tracking",
+  "ar": "توليد العملاء · تتبّع المبيعات"
+ },
+ "title": {
+  "en": "Veralex: following the ad spend all the way to confirmed sales",
+  "ar": "فيرالكس: تتبّع الإنفاق الإعلاني حتى المبيعات المؤكدة"
+ },
+ "summary": {
+  "en": "A July 2026 ads report for a Saudi company-formation service that connects spend, leads and confirmed sales in one sheet.",
+  "ar": "تقرير إعلانات يوليو 2026 لخدمة تأسيس شركات في السعودية يربط الإنفاق بالعملاء المحتملين والمبيعات المؤكدة في ملف واحد."
+ },
+ "services": [
+  "Paid Campaigns",
+  "Lead Tracking",
+  "Funnel Analysis",
+  "Reporting"
+ ],
+ "period": {
+  "en": "July 2026",
+  "ar": "يوليو 2026"
+ },
+ "source": {
+  "en": "Ads report workbook (spend, leads, confirmed sales)",
+  "ar": "ملف تقرير الإعلانات (الإنفاق والعملاء والمبيعات المؤكدة)"
+ },
+ "results": [
+  {
+   "v": {
+    "en": "EGP 10,368.77",
+    "ar": "10,368.77 جنيه"
+   },
+   "l": {
+    "en": "Total ad spend in the report",
+    "ar": "إجمالي الإنفاق الإعلاني في التقرير"
+   }
+  },
+  {
+   "v": {
+    "en": "109",
+    "ar": "109"
+   },
+   "l": {
+    "en": "Leads and conversations across four campaigns",
+    "ar": "عميل محتمل ومحادثة عبر أربع حملات"
+   }
+  },
+  {
+   "v": {
+    "en": "EGP 95.13",
+    "ar": "95.13 جنيه"
+   },
+   "l": {
+    "en": "Average cost per lead",
+    "ar": "متوسط تكلفة العميل المحتمل"
+   }
+  },
+  {
+   "v": {
+    "en": "2",
+    "ar": "2"
+   },
+   "l": {
+    "en": "Confirmed sales, both from the sales campaign",
+    "ar": "مبيعات مؤكدة، كلتاهما من حملة المبيعات"
+   }
+  },
+  {
+   "v": {
+    "en": "SAR 41,000",
+    "ar": "41,000 ريال"
+   },
+   "l": {
+    "en": "Revenue from those two sales",
+    "ar": "إيراد هاتين العمليتين"
+   }
+  }
+ ],
+ "sections": {
+  "overview": {
+   "en": "Veralex offers company formation, licensing and government procedures in Saudi Arabia, alongside Amazon and digital growth services. The ads in this report promote company formation to Arabic-speaking investors.",
+   "ar": "تقدم فيرالكس خدمات تأسيس الشركات والتراخيص والإجراءات الحكومية في السعودية، إضافة إلى خدمات أمازون والنمو الرقمي. وتروّج إعلانات هذا التقرير لتأسيس الشركات للمستثمرين الناطقين بالعربية."
+  },
+  "industry": {
+   "en": "Business setup and professional services, Saudi Arabia",
+   "ar": "تأسيس الأعمال والخدمات المهنية، السعودية"
+  },
+  "challenge": {
+   "en": "A high-ticket service where one confirmed client matters more than a hundred inquiries.",
+   "ar": "خدمة عالية القيمة يهم فيها عميل مؤكد واحد أكثر من مئة استفسار."
+  },
+  "problem": {
+   "en": "Platforms report leads and conversations, not sales, so the cheapest result can hide the campaign that actually earns.",
+   "ar": "تعرض المنصات العملاء والمحادثات لا المبيعات، فقد تخفي أرخص نتيجة الحملة التي تحقق الدخل فعلاً."
+  },
+  "approach": {
+   "en": "Record every campaign’s spend, leads, confirmed sales and revenue in one workbook so decisions rest on sales, not on cost per lead alone.",
+   "ar": "تسجيل إنفاق كل حملة وعملائها المحتملين ومبيعاتها المؤكدة وإيرادها في ملف واحد، لتستند القرارات إلى المبيعات لا إلى تكلفة العميل المحتمل وحدها."
+  },
+  "strategy": {
+   "en": [
+    "Test different objectives side by side: engagement, sales messages and website leads",
+    "Write each ad around one clear promise, such as full foreign ownership or registration in weeks",
+    "Compare lead-to-sale conversion by campaign",
+    "Spend on what sells, not on what is cheapest"
+   ],
+   "ar": [
+    "اختبار أهداف مختلفة جنباً إلى جنب: تفاعل ورسائل مبيعات وعملاء من الموقع",
+    "بناء كل إعلان على وعد واحد واضح مثل التملك الأجنبي الكامل أو السجل خلال أسابيع",
+    "مقارنة تحويل العميل المحتمل إلى مبيعات لكل حملة",
+    "الإنفاق على ما يبيع لا على ما هو أرخص"
+   ]
+  },
+  "execution": {
+   "en": [
+    "Four campaigns launched in July, mostly video creative",
+    "Weekly capture of spend, reach, frequency and link clicks",
+    "Sales confirmed with the team and entered against the campaign that produced them",
+    "A funnel sheet showing cost per lead, lead-to-sale rate and revenue per sale"
+   ],
+   "ar": [
+    "أربع حملات أُطلقت في يوليو، معظم المواد فيها فيديو",
+    "تسجيل أسبوعي للإنفاق والوصول والتكرار ونقرات الروابط",
+    "تأكيد المبيعات مع الفريق وإدخالها مقابل الحملة التي أنتجتها",
+    "ورقة مسار تعرض تكلفة العميل المحتمل ونسبة التحويل إلى بيع وإيراد كل عملية"
+   ]
+  },
+  "campaign": {
+   "en": [
+    "Sales campaign: three ways to set up a company, WhatsApp messages",
+    "Engagement campaign: setting up an online store in Saudi Arabia, video",
+    "Two website-lead campaigns: foreign ownership, and registration within weeks"
+   ],
+   "ar": [
+    "حملة مبيعات: ثلاث طرق لتأسيس شركتك، رسائل واتساب",
+    "حملة تفاعل: تأسيس متجرك الإلكتروني في السعودية، فيديو",
+    "حملتا عملاء من الموقع: الملكية الأجنبية، والسجل خلال أسابيع"
+   ]
+  },
+  "creative": {
+   "en": [
+    "Short videos, each built on one promise",
+    "Direct headlines: full foreign ownership, clear pricing from the first consultation",
+    "Calls to action matched to the objective: WhatsApp message, learn more, get a quote"
+   ],
+   "ar": [
+    "فيديوهات قصيرة يقوم كل منها على وعد واحد",
+    "عناوين مباشرة: ملكية أجنبية كاملة وتسعير واضح من أول استشارة",
+    "دعوات إلى الإجراء تناسب الهدف: رسالة واتساب أو اعرف المزيد أو اطلب عرضاً"
+   ]
+  },
+  "solution": {
+   "en": "A single sheet that follows each campaign from spend to confirmed sale, which shows at once which campaign pays and which only produces activity.",
+   "ar": "ملف واحد يتتبع كل حملة من الإنفاق إلى البيع المؤكد، فيكشف فوراً أي الحملات تُدرّ دخلاً وأيها تنتج نشاطاً فقط."
+  },
+  "impact": {
+   "en": "July 2026: EGP 10,368.77 spent, 109 leads and conversations, 2 confirmed sales and SAR 41,000 in revenue. Both sales came from the sales campaign, which cost EGP 3,704.92 for 31 conversations. The engagement video produced the most conversations (70) and no sales, and the two website-lead campaigns cost EGP 265–396 per lead. ROAS is not stated here because spend is in EGP and revenue in SAR.",
+   "ar": "يوليو 2026: إنفاق 10,368.77 جنيهاً و109 عملاء ومحادثات ومبيعتان مؤكدتان وإيراد 41,000 ريال. جاءت المبيعتان من حملة المبيعات التي كلفت 3,704.92 جنيهاً مقابل 31 محادثة. أنتج فيديو التفاعل أكبر عدد من المحادثات (70) دون مبيعات، وتراوحت تكلفة العميل المحتمل في حملتي الموقع بين 265 و396 جنيهاً. لا يُذكر عائد الإنفاق الإعلاني هنا لأن الإنفاق بالجنيه والإيراد بالريال."
+  },
+  "learnings": {
+   "en": [
+    "Volume of conversations did not predict sales",
+    "The cheapest lead was not the one that paid",
+    "Two sales is a small sample: the next month should confirm the pattern"
+   ],
+   "ar": [
+    "حجم المحادثات لم يتنبأ بالمبيعات",
+    "أرخص عميل محتمل لم يكن من دفع",
+    "مبيعتان عينة صغيرة: ينبغي أن يؤكد الشهر التالي النمط"
+   ]
+  }
+ },
+ "visuals": [
+  {
+   "type": "table",
+   "title": {
+    "en": "Campaign funnel, July 2026",
+    "ar": "مسار الحملات، يوليو 2026"
+   },
+   "cols": [
+    {
+     "en": "Campaign",
+     "ar": "الحملة"
+    },
+    {
+     "en": "Objective",
+     "ar": "الهدف"
+    },
+    {
+     "en": "Spend (EGP)",
+     "ar": "الإنفاق (جنيه)"
+    },
+    {
+     "en": "Leads",
+     "ar": "العملاء"
+    },
+    {
+     "en": "Cost per lead (EGP)",
+     "ar": "تكلفة العميل (جنيه)"
+    },
+    {
+     "en": "Sales",
+     "ar": "المبيعات"
+    }
+   ],
+   "rows": [
+    {
+     "cells": [
+      {
+       "en": "Online store video",
+       "ar": "فيديو المتجر الإلكتروني"
+      },
+      {
+       "en": "Engagement (WhatsApp)",
+       "ar": "تفاعل (واتساب)"
+      },
+      {
+       "en": "4,018.24",
+       "ar": "4,018.24"
+      },
+      {
+       "en": "70",
+       "ar": "70"
+      },
+      {
+       "en": "57.40",
+       "ar": "57.40"
+      },
+      {
+       "en": "0",
+       "ar": "0"
+      }
+     ]
+    },
+    {
+     "cells": [
+      {
+       "en": "Three ways to set up a company",
+       "ar": "ثلاث طرق لتأسيس شركتك"
+      },
+      {
+       "en": "Sales (WhatsApp)",
+       "ar": "مبيعات (واتساب)"
+      },
+      {
+       "en": "3,704.92",
+       "ar": "3,704.92"
+      },
+      {
+       "en": "31",
+       "ar": "31"
+      },
+      {
+       "en": "119.51",
+       "ar": "119.51"
+      },
+      {
+       "en": "2",
+       "ar": "2"
+      }
+     ]
+    },
+    {
+     "cells": [
+      {
+       "en": "Foreign ownership",
+       "ar": "الملكية الأجنبية"
+      },
+      {
+       "en": "Leads (website)",
+       "ar": "عملاء (الموقع)"
+      },
+      {
+       "en": "1,583.63",
+       "ar": "1,583.63"
+      },
+      {
+       "en": "4",
+       "ar": "4"
+      },
+      {
+       "en": "395.91",
+       "ar": "395.91"
+      },
+      {
+       "en": "0",
+       "ar": "0"
+      }
+     ]
+    },
+    {
+     "cells": [
+      {
+       "en": "Registration in weeks",
+       "ar": "السجل خلال أسابيع"
+      },
+      {
+       "en": "Leads (website)",
+       "ar": "عملاء (الموقع)"
+      },
+      {
+       "en": "1,061.98",
+       "ar": "1,061.98"
+      },
+      {
+       "en": "4",
+       "ar": "4"
+      },
+      {
+       "en": "265.50",
+       "ar": "265.50"
+      },
+      {
+       "en": "0",
+       "ar": "0"
+      }
+     ]
+    },
+    {
+     "cells": [
+      {
+       "en": "Total",
+       "ar": "الإجمالي"
+      },
+      {
+       "en": "",
+       "ar": ""
+      },
+      {
+       "en": "10,368.77",
+       "ar": "10,368.77"
+      },
+      {
+       "en": "109",
+       "ar": "109"
+      },
+      {
+       "en": "95.13",
+       "ar": "95.13"
+      },
+      {
+       "en": "2",
+       "ar": "2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "channels": {
+  "en": [
+   "Meta Ads",
+   "WhatsApp",
+   "Website lead forms"
+  ],
+  "ar": [
+   "إعلانات ميتا",
+   "واتساب",
+   "نماذج العملاء في الموقع"
+  ]
+ },
+ "layout": "data",
+ "role": {
+  "en": "Marketing manager: responsible for the ad structure and the sheet that follows each campaign from spend to confirmed sale, and for reporting the results.",
+  "ar": "مديرة التسويق: مسؤولة عن هيكلة الإعلانات وعن الملف الذي يتتبّع كل حملة من الإنفاق إلى البيع المؤكد، وعن تقديم النتائج."
+ },
+ "screens": [
+  {
+   "src": "/images/reports/veralex-funnel-sheet.webp",
+   "alt": {
+    "en": "Veralex funnel sheet, July 2026",
+    "ar": "ورقة مسار الحملات لفيرالكس، يوليو 2026"
+   },
+   "caption": {
+    "en": "Campaign funnel sheet from the July 2026 report workbook",
+    "ar": "ورقة مسار الحملات من ملف تقرير يوليو 2026"
+   }
+  }
+ ]
+}

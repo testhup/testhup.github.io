@@ -1,0 +1,216 @@
+{
+ "slug": "consulting",
+ "title": {
+  "en": "Marketing Consulting: Audits, Strategy Sessions & Growth Projects",
+  "ar": "استشارات تسويقية: مراجعات وجلسات استراتيجية ومشاريع نمو"
+ },
+ "description": {
+  "en": "Paid marketing consulting for business owners in Egypt, Saudi Arabia and the GCC: marketing audits, one-hour strategy sessions and growth strategy projects.",
+  "ar": "استشارات تسويقية مدفوعة لأصحاب الأعمال في مصر والسعودية ودول الخليج: مراجعة تسويقية، وجلسات استراتيجية، ومشاريع استراتيجية نمو."
+ },
+ "eyebrow": {
+  "en": "Paid consulting",
+  "ar": "استشارات مدفوعة"
+ },
+ "h1": {
+  "en": "Paid consulting for owners who want a clear growth plan",
+  "ar": "استشارة مدفوعة تمنحك خطة نمو واضحة قبل أن تنفق أكثر"
+ },
+ "lead": {
+  "en": "I review your marketing the way an owner reviews a P&L: where the money goes, what comes back, and what to fix first.",
+  "ar": "أراجع تسويقك بعين صاحب العمل: أين يذهب المال، وماذا يعود منه، وما الذي يجب إصلاحه أولاً."
+ },
+ "offersTitle": {
+  "en": "Three ways to work together",
+  "ar": "ثلاث صيغ للعمل معاً"
+ },
+ "offers": [
+  {
+   "t": {
+    "en": "Marketing Audit",
+    "ar": "المراجعة التسويقية"
+   },
+   "for": {
+    "en": "Businesses that already spend on marketing and cannot see what it returns.",
+    "ar": "أعمال تنفق على التسويق بالفعل ولا ترى بوضوح ما يعود منه."
+   },
+   "get": {
+    "en": [
+     "Review of ads, landing pages, tracking and follow-up",
+     "Findings ranked by business impact",
+     "A written action list with priorities"
+    ],
+    "ar": [
+     "مراجعة الإعلانات وصفحات الهبوط والتتبّع والمتابعة",
+     "نتائج مرتّبة حسب أثرها على العمل",
+     "قائمة إجراءات مكتوبة بالأولويات"
+    ]
+   },
+   "service": "Marketing Audit"
+  },
+  {
+   "t": {
+    "en": "Strategy Session (one hour)",
+    "ar": "جلسة استراتيجية (ساعة واحدة)"
+   },
+   "for": {
+    "en": "Owners facing one specific decision: a budget, a channel, an offer or a hire.",
+    "ar": "أصحاب أعمال أمامهم قرار محدد: ميزانية أو قناة أو عرض أو توظيف."
+   },
+   "get": {
+    "en": [
+     "One focused hour on your decision",
+     "A clear recommendation with reasons",
+     "Written next steps after the session"
+    ],
+    "ar": [
+     "ساعة واحدة مركّزة على قرارك",
+     "توصية واضحة مع أسبابها",
+     "خطوات تالية مكتوبة بعد الجلسة"
+    ]
+   },
+   "service": "Strategy Session"
+  },
+  {
+   "t": {
+    "en": "Growth Strategy Project",
+    "ar": "مشروع استراتيجية نمو"
+   },
+   "for": {
+    "en": "Businesses planning a launch, a new market or a rebuild of their marketing.",
+    "ar": "أعمال تخطط لإطلاق أو لدخول سوق جديدة أو لإعادة بناء تسويقها."
+   },
+   "get": {
+    "en": [
+     "A growth plan tied to margins and goals",
+     "Priorities across channels, offers and funnel",
+     "A measurement plan and a roadmap"
+    ],
+    "ar": [
+     "خطة نمو مرتبطة بهوامش الربح والأهداف",
+     "أولويات القنوات والعروض ومسار التحويل",
+     "خطة قياس وخارطة طريق"
+    ]
+   },
+   "service": "Growth Strategy Project"
+  }
+ ],
+ "offersNote": {
+  "en": "Scope and fee are agreed in writing after a short brief, before any work starts.",
+  "ar": "يُتفق على النطاق والأتعاب كتابةً بعد نبذة قصيرة، وقبل بدء أي عمل."
+ },
+ "forLabel": {
+  "en": "Best for",
+  "ar": "مناسبة لـ"
+ },
+ "getLabel": {
+  "en": "What you get",
+  "ar": "ما تحصل عليه"
+ },
+ "processTitle": {
+  "en": "How it works",
+  "ar": "كيف تسير الأمور"
+ },
+ "process": {
+  "en": [
+   "Send a short brief",
+   "We agree scope and fee in writing",
+   "We do the work: audit, session or project",
+   "You receive written findings and next steps"
+  ],
+  "ar": [
+   "أرسل نبذة قصيرة عن عملك",
+   "نتفق كتابةً على النطاق والأتعاب",
+   "ننفّذ العمل: مراجعة أو جلسة أو مشروع",
+   "تصلك النتائج والخطوات التالية مكتوبة"
+  ]
+ },
+ "fitYesTitle": {
+  "en": "This is for you if",
+  "ar": "هذه الخدمة مناسبة لك إذا"
+ },
+ "fitNoTitle": {
+  "en": "It is not for you if",
+  "ar": "وليست مناسبة إذا"
+ },
+ "fitYes": {
+  "en": [
+   "You spend, or plan to spend, on marketing in Egypt or the GCC",
+   "You want an honest outside view before spending more",
+   "You can act on recommendations yourself or with your team"
+  ],
+  "ar": [
+   "كنت تنفق أو تخطط للإنفاق على التسويق في مصر أو الخليج",
+   "أردت رأياً خارجياً صريحاً قبل أن تنفق أكثر",
+   "كنت قادراً على تنفيذ التوصيات بنفسك أو مع فريقك"
+  ]
+ },
+ "fitNo": {
+  "en": [
+   "You want guaranteed results or a fixed number of leads",
+   "You only need someone to run a plan you already have (see Marketing Management)"
+  ],
+  "ar": [
+   "أردت نتائج مضمونة أو عدداً ثابتاً من العملاء المحتملين",
+   "احتجت فقط من ينفّذ خطة جاهزة لديك (راجع إدارة التسويق الشهرية)"
+  ]
+ },
+ "faqTitle": {
+  "en": "Questions",
+  "ar": "أسئلة شائعة"
+ },
+ "faq": [
+  {
+   "q": {
+    "en": "How is consulting priced?",
+    "ar": "كيف تُحدَّد الأتعاب؟"
+   },
+   "a": {
+    "en": "Fees depend on the format and scope. I share the fee in writing after your brief and before any work starts.",
+    "ar": "تعتمد الأتعاب على نوع الخدمة ونطاقها. أرسل إليك الأتعاب كتابةً بعد استلام نبذتك وقبل بدء أي عمل."
+   }
+  },
+  {
+   "q": {
+    "en": "Which markets do you work in?",
+    "ar": "في أي أسواق تعملين؟"
+   },
+   "a": {
+    "en": "Egypt, Saudi Arabia and the wider GCC, in Arabic and English.",
+    "ar": "في مصر والسعودية ودول الخليج، بالعربية والإنجليزية."
+   }
+  },
+  {
+   "q": {
+    "en": "Do you guarantee results?",
+    "ar": "هل تضمنين النتائج؟"
+   },
+   "a": {
+    "en": "No. I do not promise results or lead numbers. I give recommendations based on your data and your market, and I am clear about what the data can and cannot tell us.",
+    "ar": "لا. لا أعد بنتائج ولا بأعداد محددة من العملاء المحتملين. أقدّم توصيات مبنية على بياناتك وسوقك، وأوضح ما تقوله البيانات وما لا تستطيع قوله."
+   }
+  },
+  {
+   "q": {
+    "en": "Can consulting lead to monthly management?",
+    "ar": "هل يمكن أن تتحول الاستشارة إلى إدارة شهرية؟"
+   },
+   "a": {
+    "en": "Yes, if it makes sense after the work. Marketing Management covers ongoing execution and oversight.",
+    "ar": "نعم، إذا كان ذلك مناسباً بعد انتهاء العمل. وتغطي إدارة التسويق الشهرية التنفيذ والمتابعة المستمرين."
+   }
+  }
+ ],
+ "formTitle": {
+  "en": "Request a consultation",
+  "ar": "اطلب استشارة"
+ },
+ "formLead": {
+  "en": "Tell me about your business. I reply with the next step and the fee, not a sales script.",
+  "ar": "حدّثني عن عملك. أرد عليك بالخطوة التالية والأتعاب، لا بنص مبيعات."
+ },
+ "bookLabel": {
+  "en": "Book a time",
+  "ar": "احجز موعداً"
+ }
+}

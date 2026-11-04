@@ -1,0 +1,615 @@
+{
+ "form": {
+  "whatFor": {
+   "en": "What is this about?",
+   "ar": "بشأن ماذا تتواصل؟"
+  },
+  "types": {
+   "general": {
+    "en": "General inquiry",
+    "ar": "استفسار عام"
+   },
+   "consultation": {
+    "en": "Book a consultation",
+    "ar": "حجز استشارة"
+   },
+   "audit": {
+    "en": "Marketing audit",
+    "ar": "مراجعة تسويقية"
+   },
+   "proposal": {
+    "en": "Custom proposal",
+    "ar": "عرض تعاون مخصّص"
+   },
+   "consulting": {
+    "en": "Paid consulting",
+    "ar": "استشارة مدفوعة"
+   },
+   "management": {
+    "en": "Monthly marketing management",
+    "ar": "إدارة التسويق الشهرية"
+   }
+  },
+  "name": {
+   "en": "Full name",
+   "ar": "الاسم الكامل"
+  },
+  "email": {
+   "en": "Email (optional)",
+   "ar": "البريد الإلكتروني (اختياري)"
+  },
+  "whatsapp": {
+   "en": "WhatsApp number (with country code)",
+   "ar": "رقم واتساب (مع مفتاح الدولة)"
+  },
+  "company": {
+   "en": "Company or brand",
+   "ar": "اسم الشركة أو العلامة"
+  },
+  "website": {
+   "en": "Website or social page",
+   "ar": "الموقع أو الصفحة على وسائل التواصل"
+  },
+  "country": {
+   "en": "Country",
+   "ar": "الدولة"
+  },
+  "pick": {
+   "en": "Select…",
+   "ar": "اختر…"
+  },
+  "service": {
+   "en": "Which service?",
+   "ar": "أي خدمة تحتاج؟"
+  },
+  "serviceOpts": [
+   {
+    "v": "Marketing Audit",
+    "l": {
+     "en": "Marketing Audit",
+     "ar": "مراجعة تسويقية"
+    }
+   },
+   {
+    "v": "Strategy Session",
+    "l": {
+     "en": "Strategy Session (one hour)",
+     "ar": "جلسة استراتيجية (ساعة)"
+    }
+   },
+   {
+    "v": "Growth Strategy Project",
+    "l": {
+     "en": "Growth Strategy Project",
+     "ar": "مشروع استراتيجية نمو"
+    }
+   },
+   {
+    "v": "Not sure yet",
+    "l": {
+     "en": "Not sure yet",
+     "ar": "لم أحدد بعد"
+    }
+   }
+  ],
+  "budget": {
+   "en": "Approximate monthly marketing budget (optional)",
+   "ar": "الميزانية التسويقية الشهرية التقريبية (اختياري)"
+  },
+  "budgetOpts": [
+   {
+    "v": "Under $500",
+    "l": {
+     "en": "Under $500",
+     "ar": "أقل من 500$"
+    }
+   },
+   {
+    "v": "$500-$2,000",
+    "l": {
+     "en": "$500 to $2,000",
+     "ar": "من 500$ إلى 2,000$"
+    }
+   },
+   {
+    "v": "$2,000-$5,000",
+    "l": {
+     "en": "$2,000 to $5,000",
+     "ar": "من 2,000$ إلى 5,000$"
+    }
+   },
+   {
+    "v": "Above $5,000",
+    "l": {
+     "en": "Above $5,000",
+     "ar": "أكثر من 5,000$"
+    }
+   },
+   {
+    "v": "Not sure yet",
+    "l": {
+     "en": "Not sure yet",
+     "ar": "لم أحدد بعد"
+    }
+   }
+  ],
+  "setup": {
+   "en": "Current marketing setup",
+   "ar": "الوضع التسويقي الحالي"
+  },
+  "setupOpts": [
+   {
+    "v": "In-house team",
+    "l": {
+     "en": "In-house team",
+     "ar": "فريق داخلي"
+    }
+   },
+   {
+    "v": "Agency",
+    "l": {
+     "en": "Agency",
+     "ar": "وكالة"
+    }
+   },
+   {
+    "v": "Freelancers",
+    "l": {
+     "en": "Freelancers",
+     "ar": "مستقلون"
+    }
+   },
+   {
+    "v": "Nobody yet",
+    "l": {
+     "en": "Nobody yet",
+     "ar": "لا أحد حتى الآن"
+    }
+   }
+  ],
+  "message": {
+   "en": "Tell me about your business and what you want to fix or grow",
+   "ar": "حدّثني عن عملك وما تريد إصلاحه أو تنميته"
+  },
+  "consent": {
+   "en": "I agree to the privacy policy and to be contacted about my request.",
+   "ar": "أوافق على سياسة الخصوصية وعلى التواصل معي بشأن طلبي."
+  },
+  "privacyLink": {
+   "en": "Privacy policy",
+   "ar": "سياسة الخصوصية"
+  },
+  "send": {
+   "en": "Continue on WhatsApp",
+   "ar": "أكمل عبر واتساب"
+  },
+  "sending": {
+   "en": "Opening WhatsApp…",
+   "ar": "جارٍ فتح واتساب…"
+  },
+  "errRequired": {
+   "en": "Please fill in this field.",
+   "ar": "يرجى تعبئة هذا الحقل."
+  },
+  "errEmail": {
+   "en": "Please enter a valid email address.",
+   "ar": "يرجى إدخال بريد إلكتروني صحيح."
+  },
+  "errWhatsapp": {
+   "en": "Please enter a valid number, digits only, with the country code.",
+   "ar": "يرجى إدخال رقم صحيح، أرقام فقط مع مفتاح الدولة."
+  },
+  "errConsent": {
+   "en": "Please accept to continue.",
+   "ar": "يرجى الموافقة للمتابعة."
+  },
+  "errNetwork": {
+   "en": "We could not send your request. Please try again, or contact me on WhatsApp or by email.",
+   "ar": "تعذّر إرسال طلبك. حاول مرة أخرى، أو تواصل معي عبر واتساب أو البريد الإلكتروني."
+  },
+  "errUnconfigured": {
+   "en": "WhatsApp is not connected yet. Please contact me by email.",
+   "ar": "واتساب غير مفعّل بعد. يرجى التواصل معي عبر البريد الإلكتروني."
+  },
+  "note": {
+   "en": "Your request opens in WhatsApp as a ready message. Press Send there to deliver it to me.",
+   "ar": "يُفتح طلبك في واتساب كرسالة جاهزة. اضغط إرسال هناك ليصلني."
+  },
+  "topic": {
+   "en": "What do you want to discuss?",
+   "ar": "ما الذي تريد مناقشته؟"
+  },
+  "topicOpts": [
+   {
+    "v": "A budget or channel decision",
+    "l": {
+     "en": "A budget or channel decision",
+     "ar": "قرار يخص الميزانية أو القنوات"
+    }
+   },
+   {
+    "v": "A review of my current marketing",
+    "l": {
+     "en": "A review of my current marketing",
+     "ar": "مراجعة لتسويقي الحالي"
+    }
+   },
+   {
+    "v": "A growth plan or new market",
+    "l": {
+     "en": "A growth plan or new market",
+     "ar": "خطة نمو أو سوق جديدة"
+    }
+   },
+   {
+    "v": "Something else",
+    "l": {
+     "en": "Something else",
+     "ar": "موضوع آخر"
+    }
+   }
+  ],
+  "preferred": {
+   "en": "Preferred days and times",
+   "ar": "الأيام والأوقات المفضلة"
+  },
+  "goal": {
+   "en": "Main goal",
+   "ar": "الهدف الرئيسي"
+  },
+  "goalOpts": [
+   {
+    "v": "More leads",
+    "l": {
+     "en": "More leads",
+     "ar": "عملاء محتملون أكثر"
+    }
+   },
+   {
+    "v": "More sales",
+    "l": {
+     "en": "More sales",
+     "ar": "مبيعات أكثر"
+    }
+   },
+   {
+    "v": "Better lead quality",
+    "l": {
+     "en": "Better lead quality",
+     "ar": "جودة أفضل للعملاء المحتملين"
+    }
+   },
+   {
+    "v": "Clearer reporting",
+    "l": {
+     "en": "Clearer reporting",
+     "ar": "تقارير أوضح"
+    }
+   },
+   {
+    "v": "Something else",
+    "l": {
+     "en": "Something else",
+     "ar": "هدف آخر"
+    }
+   }
+  ],
+  "adPlatforms": {
+   "en": "Where do you advertise now?",
+   "ar": "أين تعلن حالياً؟"
+  },
+  "adOpts": [
+   {
+    "v": "Meta (Facebook & Instagram)",
+    "l": {
+     "en": "Meta (Facebook & Instagram)",
+     "ar": "ميتا (فيسبوك وإنستجرام)"
+    }
+   },
+   {
+    "v": "Google",
+    "l": {
+     "en": "Google",
+     "ar": "جوجل"
+    }
+   },
+   {
+    "v": "Both",
+    "l": {
+     "en": "Both",
+     "ar": "كلاهما"
+    }
+   },
+   {
+    "v": "Other platforms",
+    "l": {
+     "en": "Other platforms",
+     "ar": "منصات أخرى"
+    }
+   },
+   {
+    "v": "Not advertising yet",
+    "l": {
+     "en": "Not advertising yet",
+     "ar": "لا أعلن بعد"
+    }
+   }
+  ],
+  "projectType": {
+   "en": "What do you need?",
+   "ar": "ماذا تحتاج؟"
+  },
+  "projectOpts": [
+   {
+    "v": "Growth strategy",
+    "l": {
+     "en": "Growth strategy",
+     "ar": "استراتيجية نمو"
+    }
+   },
+   {
+    "v": "Monthly marketing management",
+    "l": {
+     "en": "Monthly marketing management",
+     "ar": "إدارة تسويق شهرية"
+    }
+   },
+   {
+    "v": "Funnel and landing pages",
+    "l": {
+     "en": "Funnel and landing pages",
+     "ar": "مسار تحويل وصفحات هبوط"
+    }
+   },
+   {
+    "v": "Performance optimization",
+    "l": {
+     "en": "Performance optimization",
+     "ar": "تحسين الأداء"
+    }
+   },
+   {
+    "v": "New-market launch",
+    "l": {
+     "en": "New-market launch",
+     "ar": "دخول سوق جديدة"
+    }
+   },
+   {
+    "v": "Something else",
+    "l": {
+     "en": "Something else",
+     "ar": "شيء آخر"
+    }
+   }
+  ],
+  "timeline": {
+   "en": "When do you want to start?",
+   "ar": "متى تريد أن تبدأ؟"
+  },
+  "timelineOpts": [
+   {
+    "v": "As soon as possible",
+    "l": {
+     "en": "As soon as possible",
+     "ar": "في أقرب وقت"
+    }
+   },
+   {
+    "v": "In the coming months",
+    "l": {
+     "en": "In the coming months",
+     "ar": "خلال الأشهر القادمة"
+    }
+   },
+   {
+    "v": "Just exploring",
+    "l": {
+     "en": "Just exploring",
+     "ar": "أستكشف فقط"
+    }
+   }
+  ],
+  "messageOpt": {
+   "en": "Anything we should know? (optional)",
+   "ar": "أي شيء تود أن أعرفه؟ (اختياري)"
+  }
+ },
+ "countries": [
+  {
+   "v": "Egypt",
+   "l": {
+    "en": "Egypt",
+    "ar": "مصر"
+   }
+  },
+  {
+   "v": "Saudi Arabia",
+   "l": {
+    "en": "Saudi Arabia",
+    "ar": "السعودية"
+   }
+  },
+  {
+   "v": "United Arab Emirates",
+   "l": {
+    "en": "United Arab Emirates",
+    "ar": "الإمارات"
+   }
+  },
+  {
+   "v": "Kuwait",
+   "l": {
+    "en": "Kuwait",
+    "ar": "الكويت"
+   }
+  },
+  {
+   "v": "Qatar",
+   "l": {
+    "en": "Qatar",
+    "ar": "قطر"
+   }
+  },
+  {
+   "v": "Bahrain",
+   "l": {
+    "en": "Bahrain",
+    "ar": "البحرين"
+   }
+  },
+  {
+   "v": "Oman",
+   "l": {
+    "en": "Oman",
+    "ar": "عُمان"
+   }
+  },
+  {
+   "v": "Jordan",
+   "l": {
+    "en": "Jordan",
+    "ar": "الأردن"
+   }
+  },
+  {
+   "v": "Other",
+   "l": {
+    "en": "Other",
+    "ar": "أخرى"
+   }
+  }
+ ],
+ "thanks": {
+  "title": {
+   "en": "One last step",
+   "ar": "خطوة أخيرة"
+  },
+  "description": {
+   "en": "Send your request in WhatsApp.",
+   "ar": "أرسل طلبك عبر واتساب."
+  },
+  "lead": {
+   "consultation": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   },
+   "audit": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   },
+   "proposal": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   },
+   "consulting": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   },
+   "management": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   },
+   "general": {
+    "en": "Your request is ready in WhatsApp. Press Send there to deliver it to me.",
+    "ar": "طلبك جاهز في واتساب. اضغط إرسال هناك ليصلني."
+   }
+  },
+  "next": {
+   "en": "What happens next",
+   "ar": "ماذا يحدث بعد ذلك"
+  },
+  "steps": {
+   "consultation": {
+    "en": [
+     "Press Send in WhatsApp",
+     "I reply to confirm the format, fee and time",
+     "We meet for one hour"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "أرد عليك لأؤكد الصيغة والأتعاب والموعد",
+     "نلتقي لمدة ساعة"
+    ]
+   },
+   "audit": {
+    "en": [
+     "Press Send in WhatsApp",
+     "I reply with scope, fee and what I need from you",
+     "I deliver the findings and walk you through them"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "أرد عليك بالنطاق والأتعاب وما أحتاجه منك",
+     "أسلّم النتائج وأشرحها لك"
+    ]
+   },
+   "proposal": {
+    "en": [
+     "Press Send in WhatsApp",
+     "We set a short call",
+     "I send a written proposal"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "نحدد مكالمة قصيرة",
+     "أرسل عرضاً مكتوباً"
+    ]
+   },
+   "consulting": {
+    "en": [
+     "Press Send in WhatsApp",
+     "I reply with the format and the fee",
+     "We agree and book a time"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "أرد عليك بالصيغة والأتعاب",
+     "نتفق ونحدد موعداً"
+    ]
+   },
+   "management": {
+    "en": [
+     "Press Send in WhatsApp",
+     "I reply and we set a short call",
+     "If it fits, I send a written scope"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "أرد عليك ونحدد مكالمة قصيرة",
+     "إذا كان مناسباً أرسل نطاق العمل مكتوباً"
+    ]
+   },
+   "general": {
+    "en": [
+     "Press Send in WhatsApp",
+     "I reply as soon as I can"
+    ],
+    "ar": [
+     "اضغط إرسال في واتساب",
+     "أرد عليك في أقرب وقت"
+    ]
+   }
+  },
+  "ref": {
+   "en": "Your reference",
+   "ar": "رقمك المرجعي"
+  },
+  "wa": {
+   "en": "Open WhatsApp",
+   "ar": "افتح واتساب"
+  },
+  "book": {
+   "en": "Book a time",
+   "ar": "احجز موعداً"
+  },
+  "home": {
+   "en": "Back to home",
+   "ar": "العودة للرئيسية"
+  },
+  "hint": {
+   "en": "If WhatsApp did not open, tap the button.",
+   "ar": "إذا لم يُفتح واتساب، اضغط الزر."
+  }
+ }
+}

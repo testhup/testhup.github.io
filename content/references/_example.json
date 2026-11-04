@@ -1,0 +1,17 @@
+{
+ "order": 1,
+ "name": "Client name",
+ "role": {
+  "en": "Role, Company",
+  "ar": "المسمى، الشركة"
+ },
+ "clientId": "",
+ "quote": {
+  "en": "Write the client’s real words here.",
+  "ar": "اكتب كلام العميل الحقيقي هنا."
+ },
+ "source": {
+  "en": "WhatsApp message, 12 Nov 2026",
+  "ar": "رسالة واتساب، 12 نوفمبر 2026"
+ }
+}

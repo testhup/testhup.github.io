@@ -1,0 +1,219 @@
+{
+ "slug": "nawa",
+ "clientId": "nawa",
+ "order": 5,
+ "emoji": "🎓",
+ "tag": {
+  "en": "Education & Enrollment",
+  "ar": "التعليم والتسجيل"
+ },
+ "title": {
+  "en": "NAWA: from first ad to enrolled student",
+  "ar": "نوا: من الإعلان الأول إلى الطالب المسجَّل"
+ },
+ "summary": {
+  "en": "An enrollment-funnel approach for a healthcare training academy in Saudi Arabia: paid campaigns, landing pages, analytics and lead follow-up as one system.",
+  "ar": "منهج لمسار التسجيل في أكاديمية تدريب صحي بالسعودية: حملات مدفوعة وصفحات هبوط وتحليلات ومتابعة للعملاء المحتملين كمنظومة واحدة."
+ },
+ "services": [
+  "Paid Campaigns",
+  "Landing Pages",
+  "Analytics",
+  "Enrollment Funnel",
+  "CRM & Automation"
+ ],
+ "sections": {
+  "overview": {
+   "en": "NAWA is a healthcare training organization serving the Saudi market. Its audience is professionals and aspiring professionals comparing programs, price and credibility.",
+   "ar": "نوا جهة تدريب صحي تخدم السوق السعودي. جمهورها مهنيون وطامحون إلى المهنة يقارنون بين البرامج والأسعار والمصداقية."
+  },
+  "industry": {
+   "en": "Education and training: healthcare programs",
+   "ar": "التعليم والتدريب: برامج صحية"
+  },
+  "challenge": {
+   "en": "Course enrollment is a considered decision. People ask questions, compare, disappear and return. A campaign that only counts clicks misses most of that journey.",
+   "ar": "التسجيل في دورة قرار مدروس. يسأل الناس ويقارنون ويختفون ثم يعودون. والحملة التي تعدّ النقرات فقط تفوّتها معظم هذه الرحلة."
+  },
+  "problem": {
+   "en": "Interest and enrollment are separated by weak follow-up: slow replies, no status tracking, and landing pages that do not answer the questions people actually ask.",
+   "ar": "تفصل بين الاهتمام والتسجيل متابعة ضعيفة: ردود بطيئة، وغياب تتبّع للحالات، وصفحات هبوط لا تجيب عن الأسئلة التي يطرحها الناس فعلاً."
+  },
+  "approach": {
+   "en": "Map the journey from ad to registration, find where people drop, and fix those points in order of impact. Measure enrollments, not only leads.",
+   "ar": "رسم الرحلة من الإعلان إلى التسجيل، وتحديد مواضع التسرّب، ومعالجتها بحسب الأثر. قياس التسجيلات لا العملاء المحتملين فقط."
+  },
+  "strategy": {
+   "en": [
+    "One landing page per program, answering price, duration, accreditation and next intake",
+    "Paid campaigns split by program and by stage",
+    "Fast first response through WhatsApp",
+    "A simple status pipeline: new, contacted, interested, registered, lost"
+   ],
+   "ar": [
+    "صفحة هبوط لكل برنامج تجيب عن السعر والمدة والاعتماد والدفعة القادمة",
+    "حملات مدفوعة مقسّمة حسب البرنامج والمرحلة",
+    "رد أول سريع عبر واتساب",
+    "مسار حالات بسيط: جديد، تم التواصل، مهتم، مسجَّل، مفقود"
+   ]
+  },
+  "execution": {
+   "en": [
+    "Audit tracking: pixels, events, UTM naming",
+    "Build or rebuild program landing pages",
+    "Launch campaigns by program with a fixed testing calendar",
+    "Set up lead statuses and follow-up templates",
+    "Review enrollments and drop-off points every week"
+   ],
+   "ar": [
+    "مراجعة التتبّع: البكسل والأحداث وتسمية UTM",
+    "بناء صفحات هبوط البرامج أو إعادة بنائها",
+    "إطلاق الحملات لكل برنامج بجدول اختبار ثابت",
+    "إعداد حالات العملاء المحتملين وقوالب المتابعة",
+    "مراجعة التسجيلات ومواضع التسرّب أسبوعياً"
+   ]
+  },
+  "campaign": {
+   "en": [
+    "Program campaigns: one per course",
+    "Retargeting: visitors and form starters",
+    "Brand and credibility campaign for trust",
+    "Search campaigns for high-intent queries"
+   ],
+   "ar": [
+    "حملات البرامج: حملة لكل دورة",
+    "إعادة استهداف: الزوار ومن بدأوا النموذج",
+    "حملة هوية ومصداقية لبناء الثقة",
+    "حملات بحث للاستعلامات عالية النية"
+   ]
+  },
+  "creative": {
+   "en": [
+    "Trainer and curriculum visibility",
+    "Career outcome framing without guarantees",
+    "Arabic copy in neutral, formal language suited to the Saudi audience"
+   ],
+   "ar": [
+    "إبراز المدرّبين والمنهج",
+    "عرض الأفق المهني دون وعود مضمونة",
+    "نصوص عربية بلغة رسمية محايدة تناسب الجمهور السعودي"
+   ]
+  },
+  "solution": {
+   "en": "A connected enrollment funnel: program pages, tracked campaigns, quick WhatsApp response and a status pipeline, so no interested person is left unanswered.",
+   "ar": "مسار تسجيل متصل: صفحات برامج، وحملات متتبَّعة، ورد سريع عبر واتساب، ومسار حالات، حتى لا يُترك مهتم دون إجابة."
+  },
+  "impact": {
+   "en": "This approach is designed to make enrollment measurable end to end and to show which programs and messages actually fill seats. No performance figures are published here.",
+   "ar": "صُمم هذا المنهج ليجعل التسجيل قابلاً للقياس من البداية إلى النهاية، وليبيّن البرامج والرسائل التي تملأ المقاعد فعلاً. لا تُنشر هنا أي أرقام أداء."
+  },
+  "learnings": {
+   "en": [
+    "Follow-up speed is a marketing lever",
+    "Each program deserves its own page and message",
+    "Track registrations, or you are optimizing the wrong thing"
+   ],
+   "ar": [
+    "سرعة المتابعة رافعة تسويقية",
+    "كل برنامج يستحق صفحته ورسالته",
+    "تتبّع التسجيلات، وإلا فأنت تحسّن الشيء الخطأ"
+   ]
+  }
+ },
+ "visuals": [
+  {
+   "type": "journey",
+   "title": {
+    "en": "Customer journey map",
+    "ar": "خريطة رحلة العميل"
+   },
+   "stages": [
+    {
+     "t": {
+      "en": "Discover",
+      "ar": "الاكتشاف"
+     },
+     "d": {
+      "en": "Sees a program ad",
+      "ar": "يرى إعلان برنامج"
+     }
+    },
+    {
+     "t": {
+      "en": "Compare",
+      "ar": "المقارنة"
+     },
+     "d": {
+      "en": "Reads the program page",
+      "ar": "يقرأ صفحة البرنامج"
+     }
+    },
+    {
+     "t": {
+      "en": "Ask",
+      "ar": "السؤال"
+     },
+     "d": {
+      "en": "Messages on WhatsApp",
+      "ar": "يراسل عبر واتساب"
+     }
+    },
+    {
+     "t": {
+      "en": "Decide",
+      "ar": "القرار"
+     },
+     "d": {
+      "en": "Gets answers and next intake",
+      "ar": "يحصل على الإجابات والدفعة"
+     }
+    },
+    {
+     "t": {
+      "en": "Register",
+      "ar": "التسجيل"
+     },
+     "d": {
+      "en": "Completes enrollment",
+      "ar": "يكمل التسجيل"
+     }
+    }
+   ]
+  },
+  {
+   "type": "funnel",
+   "title": {
+    "en": "Enrollment funnel",
+    "ar": "مسار التسجيل"
+   },
+   "steps": [
+    {
+     "en": "Ad reach",
+     "ar": "وصول الإعلان"
+    },
+    {
+     "en": "Program page view",
+     "ar": "زيارة صفحة البرنامج"
+    },
+    {
+     "en": "Inquiry",
+     "ar": "استفسار"
+    },
+    {
+     "en": "Follow-up",
+     "ar": "متابعة"
+    },
+    {
+     "en": "Registered",
+     "ar": "مسجَّل"
+    }
+   ]
+  }
+ ],
+ "kind": "concept",
+ "layout": "concept",
+ "role": {
+  "en": "Strategy concept written by Karma Shawky. It shows how I would approach the project; it is not a report of delivered results.",
+  "ar": "تصوّر استراتيجي كتبته كارما شوقي. يوضح كيف أتناول المشروع، وليس تقريراً بنتائج منفّذة."
+ }
+}

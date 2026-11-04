@@ -1,0 +1,25 @@
+{
+  "slug": "funnel-before-ads",
+  "emoji": "🪜",
+  "min": 2,
+  "title": {
+    "en": "Fix the funnel before you raise the budget",
+    "ar": "أصلح مسار التحويل قبل رفع الميزانية"
+  },
+  "summary": {
+    "en": "More traffic into a leaking funnel just leaks faster.",
+    "ar": "زيادة الزيارات في مسار متسرّب تزيد التسرّب فقط."
+  },
+  "body": {
+    "en": [
+      "When results stall, the instinct is to spend more. But a funnel that loses most people at the landing page or the first reply will lose more people at a higher budget.",
+      "Walk the journey as a customer: the ad, the page on a phone, the first message, the follow-up. Note where you would give up.",
+      "Then fix the biggest drop first. Often it is a slow reply, not a creative problem."
+    ],
+    "ar": [
+      "عندما تتوقف النتائج يكون الميل إلى الإنفاق أكثر. لكن المسار الذي يفقد معظم الناس عند صفحة الهبوط أو الرد الأول سيفقد عدداً أكبر مع ميزانية أعلى.",
+      "امشِ في الرحلة كعميل: الإعلان، والصفحة على الهاتف، والرسالة الأولى، والمتابعة. وسجّل أين كنت ستتوقف.",
+      "ثم أصلح أكبر نقطة تسرّب أولاً. وغالباً تكون ردّاً بطيئاً لا مشكلة في الإبداع."
+    ]
+  }
+}

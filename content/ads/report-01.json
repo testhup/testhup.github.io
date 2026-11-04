@@ -1,0 +1,15 @@
+{
+ "slug": "report-01",
+ "order": 100,
+ "group": "reports",
+ "image": "/images/reports/dr-tariq-may-campaigns.webp",
+ "platform": "Meta Ads",
+ "alt": {
+  "en": "Ads Manager campaign table, May 2026",
+  "ar": "جدول الحملات في مدير الإعلانات، مايو 2026"
+ },
+ "caption": {
+  "en": "Dr. Tariq Hatamleh: Ads Manager campaign table, May 2026",
+  "ar": "د. طارق حتاملة: جدول الحملات في مدير الإعلانات، مايو 2026"
+ }
+}

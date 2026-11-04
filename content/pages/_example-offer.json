@@ -1,0 +1,65 @@
+{
+ "slug": "example-offer",
+ "type": "offer",
+ "order": 1,
+ "title": {
+  "en": "Offer title",
+  "ar": "عنوان العرض"
+ },
+ "description": {
+  "en": "One or two sentences for search results and the page header.",
+  "ar": "جملة أو جملتان لنتائج البحث ورأس الصفحة."
+ },
+ "blocks": [
+  {
+   "type": "text",
+   "h": {
+    "en": "Heading",
+    "ar": "عنوان"
+   },
+   "p": {
+    "en": "Paragraph.",
+    "ar": "فقرة."
+   }
+  },
+  {
+   "type": "list",
+   "h": {
+    "en": "What is included",
+    "ar": "ما يتضمنه"
+   },
+   "items": {
+    "en": [
+     "Item one",
+     "Item two"
+    ],
+    "ar": [
+     "البند الأول",
+     "البند الثاني"
+    ]
+   }
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": {
+      "en": "Question?",
+      "ar": "سؤال؟"
+     },
+     "a": {
+      "en": "Answer.",
+      "ar": "إجابة."
+     }
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "href": "book",
+  "label": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  }
+ }
+}

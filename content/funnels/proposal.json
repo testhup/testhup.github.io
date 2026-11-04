@@ -1,0 +1,103 @@
+{
+ "slug": "proposal",
+ "title": {
+  "en": "Request a Custom Proposal: growth partnership, market entry or marketing rebuild",
+  "ar": "اطلب عرض تعاون مخصّصاً: شراكة نمو أو دخول سوق أو إعادة بناء التسويق"
+ },
+ "description": {
+  "en": "Request a custom proposal from Karma Shawky for a growth partnership, a new-market launch, a marketing rebuild or monthly management with a custom scope.",
+  "ar": "اطلب عرض تعاون مخصّصاً من كارما شوقي لشراكة نمو أو دخول سوق جديدة أو إعادة بناء التسويق أو إدارة شهرية بنطاق مخصّص."
+ },
+ "eyebrow": {
+  "en": "Custom proposal",
+  "ar": "عرض تعاون مخصّص"
+ },
+ "h1": {
+  "en": "Tell me what you want to achieve, and I will propose how",
+  "ar": "أخبرني بما تريد تحقيقه، وأقترح عليك كيف"
+ },
+ "lead": {
+  "en": "For projects that do not fit a single package: a growth partnership, a new-market launch, a marketing rebuild, or monthly management with a custom scope.",
+  "ar": "للمشاريع التي لا تناسبها صيغة واحدة جاهزة: شراكة نمو، أو دخول سوق جديدة، أو إعادة بناء التسويق، أو إدارة شهرية بنطاق مخصّص."
+ },
+ "whenTitle": {
+  "en": "Typical situations",
+  "ar": "حالات شائعة"
+ },
+ "when": {
+  "en": [
+   "You are launching or entering a new market, for example Saudi Arabia or the GCC",
+   "You want a marketing lead on a monthly basis, with a defined scope",
+   "Your marketing needs a rebuild: strategy, funnel and reporting",
+   "You have an agency or a team and need someone to lead and align them"
+  ],
+  "ar": [
+   "تطلق عملاً أو تدخل سوقاً جديدة، مثل السعودية أو دول الخليج",
+   "تريد قيادة تسويقية بتعاقد شهري ونطاق محدد",
+   "يحتاج تسويقك إلى إعادة بناء: استراتيجية ومسار تحويل وتقارير",
+   "لديك وكالة أو فريق وتحتاج من يقوده وينسّق بين أفراده"
+  ]
+ },
+ "processTitle": {
+  "en": "How it works",
+  "ar": "كيف تسير الأمور"
+ },
+ "process": {
+  "en": [
+   "You send the brief",
+   "We have a short call",
+   "I send a written proposal: scope, deliverables, timeline and fee",
+   "We agree and start"
+  ],
+  "ar": [
+   "ترسل النبذة",
+   "نجري مكالمة قصيرة",
+   "أرسل عرضاً مكتوباً: النطاق والمخرجات والجدول الزمني والأتعاب",
+   "نتفق ونبدأ"
+  ]
+ },
+ "faqTitle": {
+  "en": "Questions",
+  "ar": "أسئلة شائعة"
+ },
+ "faq": [
+  {
+   "q": {
+    "en": "What should the brief include?",
+    "ar": "ماذا ينبغي أن تتضمن النبذة؟"
+   },
+   "a": {
+    "en": "Your business, your goal, your current marketing, and a budget range if you have one.",
+    "ar": "عملك وهدفك وتسويقك الحالي، ونطاق الميزانية إن كان لديك."
+   }
+  },
+  {
+   "q": {
+    "en": "How soon do I get the proposal?",
+    "ar": "متى يصلني العرض؟"
+   },
+   "a": {
+    "en": "After a short call I send the written proposal. I confirm timing on the call.",
+    "ar": "بعد مكالمة قصيرة أرسل العرض مكتوباً. وأؤكد المدة خلال المكالمة."
+   }
+  },
+  {
+   "q": {
+    "en": "Do you guarantee results?",
+    "ar": "هل تضمنين النتائج؟"
+   },
+   "a": {
+    "en": "No. I propose goals and a way to measure them, and I report honestly against them.",
+    "ar": "لا. أقترح أهدافاً وطريقة لقياسها، وأقدّم تقريراً صادقاً مقابلها."
+   }
+  }
+ ],
+ "formTitle": {
+  "en": "Request a custom proposal",
+  "ar": "اطلب عرض تعاون مخصّصاً"
+ },
+ "formLead": {
+  "en": "Tell me what you want to achieve. I reply with the next step.",
+  "ar": "أخبرني بما تريد تحقيقه. أرد عليك بالخطوة التالية."
+ }
+}

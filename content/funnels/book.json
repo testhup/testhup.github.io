@@ -1,0 +1,69 @@
+{
+ "slug": "book",
+ "title": {
+  "en": "Book a Consultation: one hour on one business decision",
+  "ar": "احجز استشارة: ساعة واحدة لقرار واحد يخص عملك"
+ },
+ "description": {
+  "en": "Book a one-hour marketing consultation with Karma Shawky on a specific business decision: a budget, a channel, an offer, a hire or a plan.",
+  "ar": "احجز استشارة تسويقية لمدة ساعة مع كارما شوقي بشأن قرار محدد يخص عملك: ميزانية أو قناة أو عرض أو توظيف أو خطة."
+ },
+ "eyebrow": {
+  "en": "Consultation",
+  "ar": "استشارة"
+ },
+ "h1": {
+  "en": "One hour. One decision. A clear next step.",
+  "ar": "ساعة واحدة. قرار واحد. خطوة تالية واضحة."
+ },
+ "lead": {
+  "en": "A one-hour consultation for a specific decision: a budget, a channel, an offer, a hire or a plan.",
+  "ar": "استشارة لمدة ساعة بشأن قرار محدد: ميزانية أو قناة أو عرض أو توظيف أو خطة."
+ },
+ "bringTitle": {
+  "en": "What to bring",
+  "ar": "ما الذي تحضره"
+ },
+ "bring": {
+  "en": [
+   "Your goal and the decision you face",
+   "Numbers if you have them: spend, leads, sales",
+   "Links to your website, ads or accounts"
+  ],
+  "ar": [
+   "هدفك والقرار الذي تواجهه",
+   "أرقامك إن وُجدت: الإنفاق والعملاء المحتملون والمبيعات",
+   "روابط موقعك أو إعلاناتك أو حساباتك"
+  ]
+ },
+ "processTitle": {
+  "en": "How it works",
+  "ar": "كيف تسير الأمور"
+ },
+ "process": {
+  "en": [
+   "Choose a time, or send the request below",
+   "I confirm the format and fee in writing",
+   "We meet for one hour",
+   "You receive written next steps"
+  ],
+  "ar": [
+   "اختر موعداً أو أرسل الطلب أدناه",
+   "أؤكد الصيغة والأتعاب كتابةً",
+   "نلتقي لمدة ساعة",
+   "تصلك خطوات تالية مكتوبة"
+  ]
+ },
+ "formTitle": {
+  "en": "Book a consultation",
+  "ar": "احجز استشارة"
+ },
+ "formLead": {
+  "en": "Tell me what you want to discuss and when you are free. I confirm the time and the fee.",
+  "ar": "أخبرني بما تريد مناقشته ومتى تكون متاحاً. أؤكد لك الموعد والأتعاب."
+ },
+ "calendar": {
+  "en": "Pick a time in the calendar",
+  "ar": "اختر موعداً من التقويم"
+ }
+}

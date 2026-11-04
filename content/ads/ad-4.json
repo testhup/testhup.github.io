@@ -1,0 +1,14 @@
+{
+ "slug": "ad-4",
+ "order": 4,
+ "image": "/images/dashboards/d4.webp",
+ "platform": "Meta Ads / Google Ads",
+ "alt": {
+  "en": "Spend and reach chart",
+  "ar": "رسم بياني للإنفاق والوصول"
+ },
+ "caption": {
+  "en": "Spend and reach charts, and mobile campaign results",
+  "ar": "رسوم الإنفاق والوصول، ونتائج الحملات على الهاتف"
+ }
+}

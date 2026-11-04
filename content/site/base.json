@@ -1,0 +1,119 @@
+{
+ "name": {
+  "en": "Karma Shawky",
+  "ar": "كارما شوقي"
+ },
+ "role": {
+  "en": "Growth & Digital Marketing Consultant",
+  "ar": "مستشارة نمو وتسويق رقمي"
+ },
+ "since": 2018,
+ "nav": {
+  "about": {
+   "en": "About",
+   "ar": "من أنا"
+  },
+  "work": {
+   "en": "Work",
+   "ar": "الأعمال"
+  },
+  "services": {
+   "en": "Services",
+   "ar": "الخدمات"
+  },
+  "insights": {
+   "en": "Insights",
+   "ar": "أفكار"
+  },
+  "contact": {
+   "en": "Let's Talk",
+   "ar": "لنتحدث"
+  },
+  "servicesAll": {
+   "en": "All services",
+   "ar": "كل الخدمات"
+  },
+  "consulting": {
+   "en": "Consulting",
+   "ar": "الاستشارات"
+  },
+  "management": {
+   "en": "Marketing Management",
+   "ar": "إدارة التسويق الشهرية"
+  },
+  "websites": {
+   "en": "Websites & Digital Projects",
+   "ar": "المواقع والمشاريع الرقمية"
+  },
+  "cta": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  },
+  "clients": {
+   "en": "Clients",
+   "ar": "العملاء"
+  },
+  "resources": {
+   "en": "Free resources",
+   "ar": "موارد مجانية"
+  }
+ },
+ "ui": {
+  "skip": {
+   "en": "Skip to content",
+   "ar": "انتقل إلى المحتوى"
+  },
+  "lang": {
+   "en": "العربية",
+   "ar": "English"
+  },
+  "menu": {
+   "en": "Menu",
+   "ar": "القائمة"
+  },
+  "theme": {
+   "en": "Toggle dark mode",
+   "ar": "تبديل الوضع الداكن"
+  },
+  "notFoundTitle": {
+   "en": "Page not found",
+   "ar": "الصفحة غير موجودة"
+  },
+  "notFoundText": {
+   "en": "That page wandered off. Let's get you back.",
+   "ar": "هذه الصفحة غير موجودة. لنعدك إلى الرئيسية."
+  },
+  "home": {
+   "en": "Back home",
+   "ar": "العودة للرئيسية"
+  }
+ },
+ "footer": {
+  "copy": {
+   "en": "All rights reserved.",
+   "ar": "جميع الحقوق محفوظة."
+  },
+  "built": {
+   "en": "Made with a lot of coffee.",
+   "ar": "صُنع بكثير من القهوة."
+  },
+  "privacy": {
+   "en": "Privacy",
+   "ar": "الخصوصية"
+  }
+ },
+ "cookie": {
+  "text": {
+   "en": "This site uses analytics cookies to understand which pages and campaigns bring inquiries. You can accept or decline.",
+   "ar": "يستخدم هذا الموقع ملفات تعريف ارتباط تحليلية لمعرفة الصفحات والحملات التي تجلب الاستفسارات. يمكنك القبول أو الرفض."
+  },
+  "accept": {
+   "en": "Accept",
+   "ar": "أوافق"
+  },
+  "decline": {
+   "en": "Decline",
+   "ar": "أرفض"
+  }
+ }
+}

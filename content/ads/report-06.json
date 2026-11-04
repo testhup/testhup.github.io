@@ -1,0 +1,15 @@
+{
+ "slug": "report-06",
+ "order": 105,
+ "group": "reports",
+ "image": "/images/reports/veralex-funnel-sheet.webp",
+ "platform": "Meta Ads",
+ "alt": {
+  "en": "Veralex funnel sheet, July 2026",
+  "ar": "ورقة مسار الحملات لفيرالكس، يوليو 2026"
+ },
+ "caption": {
+  "en": "Veralex: Veralex funnel sheet, July 2026",
+  "ar": "فيرالكس: ورقة مسار الحملات لفيرالكس، يوليو 2026"
+ }
+}

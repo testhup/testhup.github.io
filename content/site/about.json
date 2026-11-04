@@ -1,0 +1,229 @@
+{
+ "about": {
+  "title": {
+   "en": "About Karma",
+   "ar": "عن كارما"
+  },
+  "description": {
+   "en": "Karma Shawky: growth and marketing strategy consultant and marketing manager, working with businesses in Egypt and the GCC since 2018.",
+   "ar": "كارما شوقي: مستشارة نمو واستراتيجية تسويق ومديرة تسويق، تعمل مع أعمال في مصر والخليج منذ 2018."
+  },
+  "lead": {
+   "en": "Marketing is a business problem before it is a creative one.",
+   "ar": "التسويق مشكلة أعمال قبل أن يكون مشكلة إبداع."
+  },
+  "story": {
+   "en": [
+    "I am a growth and digital marketing consultant, and a marketing manager who works as a business growth partner. I have been in marketing since 2018, across performance marketing, strategy and team leadership.",
+    "My clients are in Egypt, Saudi Arabia, the UAE and Jordan, mostly in healthcare, training, restaurants, real estate and services. I am used to markets where the same offer needs a different message in Cairo, Riyadh and Dubai.",
+    "I start with the business, not the ad account: margins, offer, lead quality and the sales conversation. A cheap lead that never buys is not cheap.",
+    "I work in two ways. In paid consulting you get an independent view and a plan. In monthly marketing management I lead the execution against goals we agree."
+   ],
+   "ar": [
+    "أنا مستشارة نمو وتسويق رقمي، ومديرة تسويق تعمل كشريكة نمو للأعمال. أعمل في التسويق منذ 2018، بين التسويق بالأداء ووضع الاستراتيجيات وقيادة الفرق.",
+    "عملائي في مصر والسعودية والإمارات والأردن، وأغلبهم في الرعاية الصحية والتدريب والمطاعم والعقارات والخدمات. وأدرك أن العرض نفسه يحتاج إلى رسالة مختلفة في القاهرة والرياض ودبي.",
+    "أبدأ من العمل نفسه لا من حساب الإعلانات: الهوامش والعرض وجودة العملاء المحتملين ومحادثة البيع. العميل المحتمل الرخيص الذي لا يشتري ليس رخيصاً.",
+    "أعمل بطريقتين. في الاستشارة المدفوعة تحصل على رأي مستقل وخطة. وفي الإدارة التسويقية الشهرية أقود التنفيذ وفق أهداف نتفق عليها."
+   ]
+  },
+  "principlesTitle": {
+   "en": "How I think",
+   "ar": "كيف أفكّر"
+  },
+  "principles": [
+   {
+    "emoji": "🧮",
+    "t": {
+     "en": "Profit before reach",
+     "ar": "الربح قبل الانتشار"
+    },
+    "d": {
+     "en": "Every plan starts from margins and what a customer is worth.",
+     "ar": "كل خطة تبدأ من الهوامش وقيمة العميل."
+    }
+   },
+   {
+    "emoji": "🔍",
+    "t": {
+     "en": "Quality over volume",
+     "ar": "الجودة قبل الكمية"
+    },
+    "d": {
+     "en": "Fewer, better leads beat a full inbox of the wrong ones.",
+     "ar": "عملاء محتملون أقل وأفضل خير من صندوق مليء بغير المناسبين."
+    }
+   },
+   {
+    "emoji": "🧩",
+    "t": {
+     "en": "The whole journey",
+     "ar": "الرحلة كاملة"
+    },
+    "d": {
+     "en": "Ad, landing page, follow-up and CRM are one system.",
+     "ar": "الإعلان وصفحة الهبوط والمتابعة والـ CRM منظومة واحدة."
+    }
+   },
+   {
+    "emoji": "📈",
+    "t": {
+     "en": "Honest reporting",
+     "ar": "تقارير صادقة"
+    },
+    "d": {
+     "en": "I report what moved the business, not what looks good.",
+     "ar": "أقدّم ما حرّك العمل فعلاً، لا ما يبدو جميلاً."
+    }
+   }
+  ],
+  "expTitle": {
+   "en": "Experience highlights",
+   "ar": "أبرز محطات الخبرة"
+  },
+  "exp": [
+   {
+    "y": "2018",
+    "t": {
+     "en": "Started in marketing",
+     "ar": "بداية المشوار في التسويق"
+    },
+    "d": {
+     "en": "Performance marketing and media buying.",
+     "ar": "تسويق بالأداء وشراء إعلانات."
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Marketing management",
+     "ar": "إدارة التسويق"
+    },
+    "d": {
+     "en": "Leading marketing for brands across Egypt, Saudi Arabia, the UAE and Jordan.",
+     "ar": "قيادة التسويق لعلامات في مصر والسعودية والإمارات والأردن."
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Healthcare, training, restaurants, real estate",
+     "ar": "الرعاية الصحية والتدريب والمطاعم والعقارات"
+    },
+    "d": {
+     "en": "The sectors where most of my work sits.",
+     "ar": "القطاعات التي يتركز فيها معظم عملي."
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Monthly reporting",
+     "ar": "التقارير الشهرية"
+    },
+    "d": {
+     "en": "Performance reports that end in decisions.",
+     "ar": "تقارير أداء تنتهي بقرارات."
+    }
+   }
+  ],
+  "photoAlt": {
+   "en": "Karma Shawky smiling",
+   "ar": "كارما شوقي مبتسمة"
+  },
+  "credsTitle": {
+   "en": "Certifications & education",
+   "ar": "الشهادات والتعليم"
+  },
+  "creds": [
+   {
+    "emoji": "🔎",
+    "t": {
+     "en": "Google",
+     "ar": "جوجل"
+    },
+    "d": {
+     "en": [
+      "Fundamentals of Digital Marketing (Google Digital Garage)",
+      "Advanced Google Analytics",
+      "Google Ads Certification"
+     ],
+     "ar": [
+      "أساسيات التسويق الرقمي (Google Digital Garage)",
+      "Google Analytics المتقدم",
+      "شهادة Google Ads"
+     ]
+    }
+   },
+   {
+    "emoji": "🧲",
+    "t": {
+     "en": "HubSpot Academy",
+     "ar": "هَبسبوت أكاديمي"
+    },
+    "d": {
+     "en": [
+      "Digital Marketing",
+      "Inbound Marketing",
+      "Social Media Marketing"
+     ],
+     "ar": [
+      "التسويق الرقمي",
+      "التسويق الوارد",
+      "التسويق عبر وسائل التواصل"
+     ]
+    }
+   },
+   {
+    "emoji": "♾️",
+    "t": {
+     "en": "Meta",
+     "ar": "ميتا"
+    },
+    "d": {
+     "en": [
+      "Social Media Marketing Professional Certificate",
+      "Marketing Science Professional",
+      "Certified Digital Marketing Associate"
+     ],
+     "ar": [
+      "شهادة محترف التسويق عبر وسائل التواصل",
+      "محترف علوم التسويق",
+      "مساعد تسويق رقمي معتمد"
+     ]
+    }
+   },
+   {
+    "emoji": "🐦",
+    "t": {
+     "en": "Twitter Flight School",
+     "ar": "Twitter Flight School"
+    },
+    "d": {
+     "en": [
+      "Certificate of completion",
+      "Video badge"
+     ],
+     "ar": [
+      "شهادة إتمام",
+      "شارة الفيديو"
+     ]
+    }
+   },
+   {
+    "emoji": "🎓",
+    "t": {
+     "en": "Education",
+     "ar": "التعليم"
+    },
+    "d": {
+     "en": [
+      "BSc in Business Administration, Marketing"
+     ],
+     "ar": [
+      "بكالوريوس إدارة الأعمال، تخصص تسويق"
+     ]
+    }
+   }
+  ]
+ }
+}

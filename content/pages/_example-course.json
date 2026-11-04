@@ -1,0 +1,33 @@
+{
+ "slug": "example-course",
+ "type": "course",
+ "order": 1,
+ "title": {
+  "en": "Course title",
+  "ar": "عنوان الكورس"
+ },
+ "description": {
+  "en": "Short description.",
+  "ar": "وصف مختصر."
+ },
+ "blocks": [
+  {
+   "type": "text",
+   "h": {
+    "en": "About the course",
+    "ar": "عن الكورس"
+   },
+   "p": {
+    "en": "Paragraph.",
+    "ar": "فقرة."
+   }
+  }
+ ],
+ "cta": {
+  "href": "contact",
+  "label": {
+   "en": "Join the waitlist",
+   "ar": "انضم لقائمة الانتظار"
+  }
+ }
+}

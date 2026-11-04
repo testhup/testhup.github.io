@@ -1,0 +1,77 @@
+{
+ "clientGroups": [
+  {
+   "id": "healthcare",
+   "t": {
+    "en": "Healthcare & Wellness",
+    "ar": "الرعاية الصحية"
+   }
+  },
+  {
+   "id": "food",
+   "t": {
+    "en": "Restaurants & Cafes",
+    "ar": "المطاعم والكافيهات"
+   }
+  },
+  {
+   "id": "realestate",
+   "t": {
+    "en": "Real Estate & Interiors",
+    "ar": "العقارات والتصميم الداخلي"
+   }
+  },
+  {
+   "id": "retail",
+   "t": {
+    "en": "Retail & Lifestyle",
+    "ar": "التجزئة ونمط الحياة"
+   }
+  },
+  {
+   "id": "edu",
+   "t": {
+    "en": "Education & Training",
+    "ar": "التعليم والتدريب"
+   }
+  },
+  {
+   "id": "business",
+   "t": {
+    "en": "Business, Telecom & Marketing",
+    "ar": "الأعمال والاتصالات والتسويق"
+   }
+  },
+  {
+   "id": "personal",
+   "t": {
+    "en": "Doctors & Personal Brands",
+    "ar": "الأطباء والعلامات الشخصية"
+   }
+  }
+ ],
+ "collections": {
+  "offer": {
+   "folder": "offers",
+   "title": {
+    "en": "Offers",
+    "ar": "العروض"
+   },
+   "description": {
+    "en": "Consultation and service offers.",
+    "ar": "عروض الاستشارات والخدمات."
+   }
+  },
+  "course": {
+   "folder": "courses",
+   "title": {
+    "en": "Courses",
+    "ar": "الكورسات"
+   },
+   "description": {
+    "en": "Marketing courses and training.",
+    "ar": "كورسات وتدريب في التسويق."
+   }
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "services": {
+  "title": {
+   "en": "Services",
+   "ar": "الخدمات"
+  },
+  "description": {
+   "en": "Growth and marketing strategy, marketing consulting and audits, monthly marketing management, and performance and growth optimization for businesses in Egypt and the GCC.",
+   "ar": "استراتيجية النمو والتسويق، والاستشارات والمراجعات التسويقية، وإدارة التسويق الشهرية، وتحسين الأداء والنمو لأعمال في مصر والخليج."
+  },
+  "lead": {
+   "en": "Strategy and decisions come first. Execution follows from them.",
+   "ar": "الاستراتيجية والقرارات أولاً، والتنفيذ ينبع منها."
+  },
+  "pillars": [
+   {
+    "k": "strategy",
+    "t": {
+     "en": "Growth & Marketing Strategy",
+     "ar": "استراتيجية النمو والتسويق"
+    },
+    "d": {
+     "en": "Where to grow, with what offer, through which channels, and in what order.",
+     "ar": "أين ينمو العمل، وبأي عرض، وعبر أي قنوات، وبأي ترتيب."
+    },
+    "items": {
+     "en": [
+      "Positioning and offer",
+      "Channel and budget strategy",
+      "Funnel and customer journey design",
+      "Market entry for Saudi Arabia and the GCC",
+      "Growth roadmap and priorities"
+     ],
+     "ar": [
+      "التموضع والعرض",
+      "استراتيجية القنوات والميزانية",
+      "تصميم مسار التحويل ورحلة العميل",
+      "دخول السوق السعودية وأسواق الخليج",
+      "خارطة طريق النمو وأولوياتها"
+     ]
+    },
+    "href": "proposal",
+    "cta": {
+     "en": "Request a custom proposal",
+     "ar": "اطلب عرض تعاون مخصّصاً"
+    }
+   },
+   {
+    "k": "consulting",
+    "t": {
+     "en": "Marketing Consulting & Audits",
+     "ar": "الاستشارات والمراجعات التسويقية"
+    },
+    "d": {
+     "en": "An independent view of your marketing before you spend more.",
+     "ar": "رأي مستقل في تسويقك قبل أن تنفق أكثر."
+    },
+    "items": {
+     "en": [
+      "Marketing audit",
+      "One-hour strategy session",
+      "Growth strategy project",
+      "Vendor and agency review"
+     ],
+     "ar": [
+      "مراجعة تسويقية",
+      "جلسة استراتيجية لمدة ساعة",
+      "مشروع استراتيجية نمو",
+      "مراجعة أداء الوكالات والموردين"
+     ]
+    },
+    "href": "consulting",
+    "cta": {
+     "en": "See consulting",
+     "ar": "تعرّف على الاستشارات"
+    }
+   },
+   {
+    "k": "management",
+    "t": {
+     "en": "Marketing Management",
+     "ar": "إدارة التسويق"
+    },
+    "d": {
+     "en": "Ongoing strategic leadership of your marketing, against goals we agree.",
+     "ar": "قيادة استراتيجية مستمرة لتسويقك، وفق أهداف نتفق عليها."
+    },
+    "items": {
+     "en": [
+      "Growth planning and goals",
+      "Team, agency and freelancer coordination",
+      "Monthly review and reporting",
+      "Lead handling and follow-up"
+     ],
+     "ar": [
+      "تخطيط النمو والأهداف",
+      "تنسيق الفريق والوكالات والمستقلين",
+      "المراجعة والتقارير الشهرية",
+      "إدارة العملاء المحتملين والمتابعة"
+     ]
+    },
+    "href": "marketing-management",
+    "cta": {
+     "en": "See monthly management",
+     "ar": "تعرّف على الإدارة الشهرية"
+    }
+   },
+   {
+    "k": "performance",
+    "t": {
+     "en": "Performance & Growth Optimization",
+     "ar": "الأداء وتحسين النمو"
+    },
+    "d": {
+     "en": "Finding what leaks, and fixing it in order of impact.",
+     "ar": "اكتشاف مواضع التسرّب ومعالجتها بحسب أثرها."
+    },
+    "items": {
+     "en": [
+      "Performance analysis and budget allocation",
+      "Conversion rate optimization",
+      "Tracking and reporting setup",
+      "Lead quality improvement"
+     ],
+     "ar": [
+      "تحليل الأداء وتوزيع الميزانية",
+      "تحسين معدل التحويل",
+      "إعداد التتبّع والتقارير",
+      "تحسين جودة العملاء المحتملين"
+     ]
+    },
+    "href": "audit",
+    "cta": {
+     "en": "Request a marketing audit",
+     "ar": "اطلب مراجعة تسويقية"
+    }
+   }
+  ],
+  "capsTitle": {
+   "en": "Supporting execution capabilities",
+   "ar": "قدرات تنفيذية داعمة"
+  },
+  "capsLead": {
+   "en": "I use these to carry the strategy through, or I brief and manage the people who do.",
+   "ar": "أستخدمها لتنفيذ الاستراتيجية، أو أوجّه وأدير من ينفّذونها."
+  },
+  "caps": {
+   "en": [
+    "Meta and Google Ads",
+    "Landing pages and websites",
+    "Content and social media",
+    "CRM and WhatsApp automation",
+    "SEO and Google Business Profile",
+    "Influencer marketing",
+    "Branding and copywriting in Arabic and English",
+    "AI-assisted workflows"
+   ],
+   "ar": [
+    "إعلانات ميتا وجوجل",
+    "صفحات الهبوط والمواقع",
+    "المحتوى ووسائل التواصل",
+    "إدارة العملاء وأتمتة واتساب",
+    "تحسين محركات البحث وملف النشاط على جوجل",
+    "التسويق عبر المؤثرين",
+    "الهوية والكتابة بالعربية والإنجليزية",
+    "سير عمل بمساعدة الذكاء الاصطناعي"
+   ]
+  }
+ }
+}

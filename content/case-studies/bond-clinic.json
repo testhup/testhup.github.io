@@ -1,0 +1,212 @@
+{
+ "slug": "bond-clinic",
+ "clientId": "bond-clinic",
+ "order": 4,
+ "emoji": "🩺",
+ "tag": {
+  "en": "Healthcare · Dental",
+  "ar": "الرعاية الصحية · الأسنان"
+ },
+ "title": {
+  "en": "Bond Dental Clinic: better leads, not just more leads",
+  "ar": "بوند لطب الأسنان: عملاء محتملون أفضل لا أكثر فقط"
+ },
+ "summary": {
+  "en": "A lead-quality approach for a dental clinic: qualify earlier, so the front desk talks to people who are ready to book.",
+  "ar": "منهج لجودة العملاء المحتملين لعيادة أسنان: التأهيل مبكراً ليتحدث الاستقبال مع من هم جاهزون للحجز."
+ },
+ "services": [
+  "Lead Generation",
+  "Meta Ads",
+  "Landing Pages",
+  "Funnel Strategy"
+ ],
+ "sections": {
+  "overview": {
+   "en": "Bond Dental Clinic is a dental clinic in Egypt. Every booking starts with a conversation: a person sees an ad, messages the clinic and decides whether to trust it.",
+   "ar": "بوند لطب الأسنان عيادة أسنان في مصر. يبدأ كل حجز بمحادثة: يرى الشخص إعلاناً، ثم يراسل العيادة، ثم يقرر هل يثق بها."
+  },
+  "industry": {
+   "en": "Healthcare: dental clinic, appointment-based",
+   "ar": "الرعاية الصحية: عيادة أسنان بنظام المواعيد"
+  },
+  "challenge": {
+   "en": "Clinics rarely lack inquiries. They lack inquiries that turn into booked, paid appointments. A busy inbox can hide a weak pipeline.",
+   "ar": "نادراً ما تفتقر العيادات إلى الاستفسارات، بل إلى استفسارات تتحول إلى مواعيد مؤكدة ومدفوعة. وقد يخفي صندوق الرسائل المزدحم مساراً ضعيفاً."
+  },
+  "problem": {
+   "en": "Campaigns optimized for the cheapest inquiry attract price-shoppers and curiosity clicks. The front desk spends its time on people who never book.",
+   "ar": "الحملات المضبوطة على أرخص استفسار تجذب باحثين عن السعر ونقرات فضول. فيقضي الاستقبال وقته مع من لا يحجزون."
+  },
+  "approach": {
+   "en": "Treat the booking, not the inquiry, as the goal. Work backwards from the appointment: what does a ready patient look like, and what would make the others self-select out?",
+   "ar": "اعتبار الحجز، لا الاستفسار، هو الهدف. العمل بالعكس انطلاقاً من الموعد: كيف يبدو المريض الجاهز، وما الذي يجعل غيره يستبعد نفسه؟"
+  },
+  "strategy": {
+   "en": [
+    "Define the ideal patient by service and by intent, not only by demographics",
+    "Separate awareness, consideration and booking messages",
+    "Add qualifying questions before the conversation starts",
+    "Agree with the clinic on what counts as a qualified lead"
+   ],
+   "ar": [
+    "تعريف المريض المثالي حسب الخدمة والنية، لا حسب الديموغرافيا فقط",
+    "الفصل بين رسائل الوعي والتفكير والحجز",
+    "إضافة أسئلة تأهيلية قبل بدء المحادثة",
+    "الاتفاق مع العيادة على تعريف العميل المحتمل المؤهل"
+   ]
+  },
+  "execution": {
+   "en": [
+    "Week 1: audit current ads, landing page and inquiry handling",
+    "Week 2: rebuild audiences and message angles per service",
+    "Week 3: launch the qualifying landing page and form",
+    "Ongoing: weekly review of lead quality with the front desk"
+   ],
+   "ar": [
+    "الأسبوع الأول: مراجعة الإعلانات وصفحة الهبوط وآلية استقبال الاستفسارات",
+    "الأسبوع الثاني: إعادة بناء الجماهير وزوايا الرسائل لكل خدمة",
+    "الأسبوع الثالث: إطلاق صفحة هبوط ونموذج بأسئلة تأهيلية",
+    "بشكل مستمر: مراجعة أسبوعية لجودة العملاء مع الاستقبال"
+   ]
+  },
+  "campaign": {
+   "en": [
+    "Prospecting campaigns by service line",
+    "Retargeting for people who viewed but did not book",
+    "Offer campaigns kept separate so promotions do not distort results"
+   ],
+   "ar": [
+    "حملات استهداف جديد حسب خط الخدمة",
+    "حملات إعادة استهداف لمن شاهدوا ولم يحجزوا",
+    "حملات العروض منفصلة حتى لا تشوّه العروض قراءة النتائج"
+   ]
+  },
+  "creative": {
+   "en": [
+    "Plain, reassuring language over hard-sell claims",
+    "Real clinic context: team, space, process",
+    "Clear next step on every ad: what happens after you message"
+   ],
+   "ar": [
+    "لغة واضحة ومطمئنة بدل المبالغة في الوعود",
+    "سياق حقيقي للعيادة: الفريق والمكان والإجراءات",
+    "خطوة تالية واضحة في كل إعلان: ماذا يحدث بعد المراسلة"
+   ]
+  },
+  "solution": {
+   "en": "A qualification layer between the ad and the front desk: sharper audiences, a landing page that explains the service and the process, and a short form that filters intent.",
+   "ar": "طبقة تأهيل بين الإعلان والاستقبال: جماهير أدق، وصفحة هبوط تشرح الخدمة والإجراءات، ونموذج قصير يفرز النية."
+  },
+  "impact": {
+   "en": "This approach is designed to give the front desk fewer, warmer conversations and to give the clinic a clearer read on which services and messages bring bookings. No performance figures are published here.",
+   "ar": "صُمم هذا المنهج ليمنح الاستقبال محادثات أقل وأدفأ، وليمنح العيادة قراءة أوضح للخدمات والرسائل التي تجلب الحجوزات. لا تُنشر هنا أي أرقام أداء."
+  },
+  "learnings": {
+   "en": [
+    "Cost per inquiry is a weak signal on its own",
+    "The front desk is part of the marketing system",
+    "Honest ads filter better than clever ones"
+   ],
+   "ar": [
+    "تكلفة الاستفسار مؤشر ضعيف بمفردها",
+    "الاستقبال جزء من المنظومة التسويقية",
+    "الإعلان الصادق يفرز أفضل من الإعلان الذكي"
+   ]
+  }
+ },
+ "visuals": [
+  {
+   "type": "funnel",
+   "title": {
+    "en": "Qualification funnel",
+    "ar": "مسار التأهيل"
+   },
+   "steps": [
+    {
+     "en": "Ad impression",
+     "ar": "ظهور الإعلان"
+    },
+    {
+     "en": "Landing page view",
+     "ar": "زيارة صفحة الهبوط"
+    },
+    {
+     "en": "Qualifying form",
+     "ar": "نموذج التأهيل"
+    },
+    {
+     "en": "Front desk conversation",
+     "ar": "محادثة الاستقبال"
+    },
+    {
+     "en": "Booked appointment",
+     "ar": "موعد مؤكد"
+    }
+   ]
+  },
+  {
+   "type": "tree",
+   "title": {
+    "en": "Campaign structure",
+    "ar": "هيكل الحملات"
+   },
+   "root": {
+    "en": "Clinic account",
+    "ar": "حساب العيادة"
+   },
+   "branches": [
+    {
+     "t": {
+      "en": "Prospecting",
+      "ar": "استهداف جديد"
+     },
+     "c": [
+      {
+       "en": "Service A",
+       "ar": "خدمة أ"
+      },
+      {
+       "en": "Service B",
+       "ar": "خدمة ب"
+      }
+     ]
+    },
+    {
+     "t": {
+      "en": "Retargeting",
+      "ar": "إعادة استهداف"
+     },
+     "c": [
+      {
+       "en": "Viewed page",
+       "ar": "زاروا الصفحة"
+      },
+      {
+       "en": "Started form",
+       "ar": "بدأوا النموذج"
+      }
+     ]
+    },
+    {
+     "t": {
+      "en": "Offers",
+      "ar": "العروض"
+     },
+     "c": [
+      {
+       "en": "Seasonal",
+       "ar": "موسمية"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "kind": "concept",
+ "layout": "concept",
+ "role": {
+  "en": "Strategy concept written by Karma Shawky. It shows how I would approach the project; it is not a report of delivered results.",
+  "ar": "تصوّر استراتيجي كتبته كارما شوقي. يوضح كيف أتناول المشروع، وليس تقريراً بنتائج منفّذة."
+ }
+}

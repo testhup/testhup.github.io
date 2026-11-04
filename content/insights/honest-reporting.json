@@ -1,0 +1,25 @@
+{
+  "slug": "honest-reporting",
+  "emoji": "📑",
+  "min": 2,
+  "title": {
+    "en": "A marketing report should end with a decision",
+    "ar": "ينبغي أن ينتهي تقرير التسويق بقرار"
+  },
+  "summary": {
+    "en": "Reports that list metrics without a recommendation waste everyone's time.",
+    "ar": "التقارير التي تسرد المؤشرات دون توصية تضيّع وقت الجميع."
+  },
+  "body": {
+    "en": [
+      "A good monthly report answers three questions: what changed, why, and what we do next.",
+      "Keep the few numbers that connect to revenue or bookings. Put the rest in an appendix.",
+      "Say plainly what did not work. It builds more trust than a clean chart."
+    ],
+    "ar": [
+      "يجيب التقرير الشهري الجيد عن ثلاثة أسئلة: ما الذي تغيّر، ولماذا، وماذا سنفعل بعد ذلك.",
+      "احتفظ بالأرقام القليلة المرتبطة بالإيرادات أو الحجوزات، وضع الباقي في ملحق.",
+      "قل بوضوح ما لم ينجح. فهذا يبني ثقة أكبر من رسم بياني نظيف."
+    ]
+  }
+}

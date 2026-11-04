@@ -1,0 +1,1342 @@
+[
+ {
+  "id": "bond-clinic",
+  "name": "Bond Dental Clinic",
+  "nameAr": "بوند لطب الأسنان",
+  "group": "healthcare",
+  "industry": {
+   "en": "Dental clinic",
+   "ar": "عيادة أسنان"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "featured",
+  "caseStudy": "bond-clinic",
+  "logo": "/images/clients/bond-clinic.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Dental clinic marketing",
+   "ar": "تسويق لعيادة أسنان"
+  },
+  "services": [
+   "Lead Generation",
+   "Meta Ads",
+   "Landing Pages"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "tres-jolie",
+  "name": "Tres Jolie Medical Center",
+  "nameAr": "تريه جولي الطبي",
+  "group": "healthcare",
+  "industry": {
+   "en": "Medical center",
+   "ar": "مركز طبي"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "featured",
+  "caseStudy": "tres-jolie",
+  "logo": "/images/clients/tres-jolie.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Medical center marketing",
+   "ar": "تسويق لمركز طبي"
+  },
+  "services": [
+   "Customer Acquisition",
+   "Meta Ads",
+   "Content Strategy"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "tj-center",
+  "name": "TJ Center (Tres Jolie)",
+  "nameAr": "تي جي سنتر (تريه جولي)",
+  "group": "healthcare",
+  "industry": {
+   "en": "Medical & health",
+   "ar": "طبي وصحي"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/tj-center.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Medical & health",
+   "ar": "طبي وصحي"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "bmc",
+  "name": "Behavior Modification Center",
+  "nameAr": "مركز تعديل السلوك",
+  "group": "healthcare",
+  "industry": {
+   "en": "Medical & health",
+   "ar": "طبي وصحي"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/bmc.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Behavioral health center",
+   "ar": "مركز صحة سلوكية"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "body-slim",
+  "name": "Body Slim Center",
+  "nameAr": "بودي سليم",
+  "group": "healthcare",
+  "industry": {
+   "en": "Medical & health",
+   "ar": "طبي وصحي"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/body-slim.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Nutrition & slimming center",
+   "ar": "مركز تغذية وتخسيس"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "damas-care",
+  "name": "DamasCare Dental Center",
+  "nameAr": "داماس كير لطب الأسنان",
+  "group": "healthcare",
+  "industry": {
+   "en": "Dental center",
+   "ar": "مركز أسنان"
+  },
+  "markets": [
+   "UAE",
+   "KSA"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/damas-care.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Dental center",
+   "ar": "مركز أسنان"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "muhidab",
+  "name": "El Muhidab Dental Group",
+  "nameAr": "صفوة المهيدب",
+  "group": "healthcare",
+  "industry": {
+   "en": "Dental group",
+   "ar": "مجموعة أسنان"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/muhidab.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Dental group",
+   "ar": "مجموعة أسنان"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "dr-gamal-khattab",
+  "name": "Dr. Gamal Khattab Center",
+  "nameAr": "مركز الدكتور جمال خطاب",
+  "group": "healthcare",
+  "industry": {
+   "en": "Medical center",
+   "ar": "مركز طبي"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/dr-gamal-khattab.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Doctor’s center",
+   "ar": "مركز طبيب"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "khalefa",
+  "name": "Khalefa Pharmacies",
+  "nameAr": "صيدليات خليفة",
+  "group": "healthcare",
+  "industry": {
+   "en": "Pharmacy",
+   "ar": "صيدليات"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/khalefa.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Pharmacy",
+   "ar": "صيدليات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "amino-therapy",
+  "name": "Amino-Therapy Center (Tabuk)",
+  "nameAr": "مركز أمينو ثيرابي (تبوك)",
+  "group": "healthcare",
+  "industry": {
+   "en": "Hair care center",
+   "ar": "مركز عناية بالشعر"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/amino-therapy.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Hair care center, Tabuk",
+   "ar": "مركز عناية بالشعر في تبوك"
+  },
+  "services": [
+   "Digital Marketing",
+   "Lead Generation"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "stone-yard",
+  "name": "Stone Yard",
+  "nameAr": "ستون يارد",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/stone-yard.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "caramel",
+  "name": "Caramel",
+  "nameAr": "كراميل",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/caramel.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "zed",
+  "name": "ZED Restaurant & Cafe",
+  "nameAr": "زد",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant & cafe",
+   "ar": "مطعم وكافيه"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/zed.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant & cafe",
+   "ar": "مطعم وكافيه"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "enab-beit-elkabab",
+  "name": "Enab Beit El Kabab",
+  "nameAr": "عنب بيت الكباب",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/enab-beit-elkabab.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "sabry-afandi",
+  "name": "Sabry Afandi",
+  "nameAr": "صبري أفندي",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/sabry-afandi.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "chick-n-run",
+  "name": "Chick-N-Run",
+  "nameAr": "تشيك إن ران",
+  "group": "food",
+  "industry": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/chick-n-run.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Restaurant",
+   "ar": "مطعم"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "delta-capital",
+  "name": "Delta Capital",
+  "nameAr": "دلتا كابيتال",
+  "group": "realestate",
+  "industry": {
+   "en": "Real estate",
+   "ar": "عقارات"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/delta-capital.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Real estate",
+   "ar": "عقارات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "asas",
+  "name": "Asas Aldhahabi",
+  "nameAr": "أساس الذهبي",
+  "group": "realestate",
+  "industry": {
+   "en": "Real estate",
+   "ar": "عقارات"
+  },
+  "markets": [
+   "UAE",
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/asas.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Real estate",
+   "ar": "عقارات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "module",
+  "name": "Module Corporate",
+  "nameAr": "موديول",
+  "group": "realestate",
+  "industry": {
+   "en": "Interior design",
+   "ar": "تصميم داخلي"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/module.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Interior design",
+   "ar": "تصميم داخلي"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "benaa",
+  "name": "Benaa",
+  "nameAr": "بناء",
+  "group": "realestate",
+  "industry": {
+   "en": "Home décor & finishing",
+   "ar": "تشطيبات وديكور"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/benaa.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Finishes & decorations",
+   "ar": "تشطيبات وديكورات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "egy-fruits",
+  "name": "EGY Fruits",
+  "nameAr": "إيجي فروتس",
+  "group": "retail",
+  "industry": {
+   "en": "Fruit & vegetable store",
+   "ar": "متجر فواكه وخضار"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/egy-fruits.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Fruit & vegetable store",
+   "ar": "متجر فواكه وخضار"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "ismailia-market",
+  "name": "Ismailia Market",
+  "nameAr": "سوق الإسماعيلية",
+  "group": "retail",
+  "industry": {
+   "en": "Fruit & vegetable store",
+   "ar": "متجر فواكه وخضار"
+  },
+  "markets": [
+   "UAE"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/ismailia-market.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Fruit & vegetable store",
+   "ar": "متجر فواكه وخضار"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "imperial-oud",
+  "name": "Imperial Oud",
+  "nameAr": "إمبريال عود",
+  "group": "retail",
+  "industry": {
+   "en": "Perfume store",
+   "ar": "متجر عطور"
+  },
+  "markets": [
+   "UAE",
+   "KSA"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/imperial-oud.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Perfume store",
+   "ar": "متجر عطور"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "parfums-vintage",
+  "name": "Parfums Vintage Fragrances",
+  "nameAr": "بارفومز فينتاج",
+  "group": "retail",
+  "industry": {
+   "en": "Perfume store",
+   "ar": "متجر عطور"
+  },
+  "markets": [
+   "UAE",
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/parfums-vintage.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Perfume store",
+   "ar": "متجر عطور"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "nawa",
+  "name": "NAWA",
+  "nameAr": "نوا للتدريب الصحي",
+  "group": "edu",
+  "industry": {
+   "en": "Education & Training",
+   "ar": "التعليم والتدريب"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "featured",
+  "caseStudy": "nawa",
+  "logo": "/images/clients/nawa.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Healthcare training academy",
+   "ar": "أكاديمية تدريب صحي"
+  },
+  "services": [
+   "Paid Campaigns",
+   "Analytics",
+   "Landing Pages",
+   "Enrollment Funnel",
+   "CRM & Automation"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "abad",
+  "name": "Abad Network for Training",
+  "nameAr": "آباد للتدريب والتطوير",
+  "group": "edu",
+  "industry": {
+   "en": "Training",
+   "ar": "تدريب"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/abad.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Training institute",
+   "ar": "معهد تدريب"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "my-communication",
+  "name": "My-Communication",
+  "nameAr": "ماي كومينيكيشن",
+  "group": "business",
+  "industry": {
+   "en": "Telecommunication",
+   "ar": "اتصالات"
+  },
+  "markets": [
+   "Egypt",
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/my-communication.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Telecommunication",
+   "ar": "اتصالات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "droidcon",
+  "name": "Droidcon",
+  "nameAr": "درويدكون",
+  "group": "business",
+  "industry": {
+   "en": "Telecommunication",
+   "ar": "اتصالات"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/droidcon.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Telecommunication",
+   "ar": "اتصالات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "aqadunest",
+  "name": "AQADUNEST",
+  "nameAr": "أكادونست",
+  "group": "business",
+  "industry": {
+   "en": "Water treatment",
+   "ar": "معالجة المياه"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/aqadunest.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Water treatment company",
+   "ar": "شركة معالجة مياه"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "sga",
+  "name": "Shady Gaber Advertising (SGA)",
+  "nameAr": "شادي جابر للدعاية والإعلان",
+  "group": "business",
+  "industry": {
+   "en": "Advertising agency",
+   "ar": "وكالة إعلانات"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/sga.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Advertising agency",
+   "ar": "وكالة إعلانات"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "kh-digitalia",
+  "name": "K&H-Digitalia",
+  "nameAr": "كيه آند إتش ديجيتاليا",
+  "group": "business",
+  "industry": {
+   "en": "Advertising & marketing",
+   "ar": "إعلان وتسويق"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/kh-digitalia.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Marketing agency",
+   "ar": "وكالة تسويق"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "thepropic",
+  "name": "The Pro Pic",
+  "nameAr": "ذا برو بيك",
+  "group": "business",
+  "industry": {
+   "en": "Photography",
+   "ar": "تصوير"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/thepropic.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Photographer",
+   "ar": "مصوّرة"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "veralex",
+  "name": "Veralex Digital Solutions",
+  "nameAr": "فيرالكس للحلول الرقمية",
+  "group": "business",
+  "industry": {
+   "en": "Business setup & digital solutions",
+   "ar": "تأسيس أعمال وحلول رقمية"
+  },
+  "markets": [
+   "KSA"
+  ],
+  "tier": "featured",
+  "caseStudy": "veralex",
+  "logo": "/images/clients/veralex.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Landing page and marketing",
+   "ar": "صفحة هبوط وتسويق"
+  },
+  "services": [
+   "Paid Campaigns",
+   "Landing Pages",
+   "Website Strategy",
+   "Lead Tracking"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "lastrada",
+  "name": "LaStrada Agency",
+  "nameAr": "لاسترادا",
+  "group": "business",
+  "industry": {
+   "en": "Creative solutions agency",
+   "ar": "وكالة حلول إبداعية"
+  },
+  "markets": [],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/lastrada.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Agency role",
+   "ar": "عمل داخل وكالة"
+  },
+  "services": [
+   "Performance Marketing",
+   "Growth Strategy"
+  ],
+  "source": "portfolio"
+ },
+ {
+  "id": "dr-shereen",
+  "name": "Dr. Shereen Elsayed",
+  "nameAr": "د. شيرين السيد",
+  "group": "personal",
+  "industry": {
+   "en": "Doctor",
+   "ar": "طبيبة"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/dr-shereen.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Personal brand",
+   "ar": "علامة شخصية"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "dr-doaa",
+  "name": "Dr. Doaa Zakria",
+  "nameAr": "د. دعاء زكريا",
+  "group": "personal",
+  "industry": {
+   "en": "Doctor",
+   "ar": "طبيبة"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/dr-doaa.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Personal brand",
+   "ar": "علامة شخصية"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "super-h",
+  "name": "Super H",
+  "nameAr": "سوبر إتش",
+  "group": "personal",
+  "industry": {
+   "en": "Public figure",
+   "ar": "شخصية عامة"
+  },
+  "markets": [
+   "Egypt"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/super-h.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Personal brand",
+   "ar": "علامة شخصية"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "dr-hesham",
+  "name": "Dr. Hesham Abdelkader",
+  "nameAr": "د. هشام عبد القادر",
+  "group": "personal",
+  "industry": {
+   "en": "Doctor",
+   "ar": "طبيب"
+  },
+  "markets": [],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Personal brand",
+   "ar": "علامة شخصية"
+  },
+  "services": [],
+  "source": "portfolio"
+ },
+ {
+  "id": "dr-tariq",
+  "name": "Dr. Tariq Hatamleh",
+  "nameAr": "د. طارق حتاملة",
+  "group": "healthcare",
+  "industry": {
+   "en": "ENT & rhinoplasty surgeon",
+   "ar": "أنف وأذن وحنجرة وتجميل الأنف"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "featured",
+  "caseStudy": "dr-tariq",
+  "logo": "/images/clients/dr-tariq.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Surgeon’s practice",
+   "ar": "عيادة جراح"
+  },
+  "services": [
+   "Meta Ads",
+   "Content Strategy",
+   "Lead Generation",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "dr-murad",
+  "name": "Dr. Murad Abu-aliekeh",
+  "nameAr": "د. مراد أبو عليقة",
+  "group": "healthcare",
+  "industry": {
+   "en": "General, GI & bariatric surgery",
+   "ar": "الجراحة العامة وجراحة الجهاز الهضمي والسمنة"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/dr-murad.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Surgeon’s clinic, Irbid",
+   "ar": "عيادة جراح في إربد"
+  },
+  "services": [
+   "Meta Ads",
+   "Content Strategy",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "abu-rub",
+  "name": "Aburub Dental Clinic",
+  "nameAr": "عيادة أبو الرب لطب الأسنان",
+  "group": "healthcare",
+  "industry": {
+   "en": "Dental clinic",
+   "ar": "عيادة أسنان"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/abu-rub.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Dental clinic",
+   "ar": "عيادة أسنان"
+  },
+  "services": [],
+  "source": "monthly reports"
+ },
+ {
+  "id": "ibn-nafis",
+  "name": "Ibn Al-Nafis Hearing Center",
+  "nameAr": "مركز ابن النفيس للسمعيات",
+  "group": "healthcare",
+  "industry": {
+   "en": "Hearing care",
+   "ar": "رعاية سمعية"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/ibn-nafis.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Hearing center, Irbid",
+   "ar": "مركز سمعيات في إربد"
+  },
+  "services": [
+   "Meta Ads",
+   "Content Strategy",
+   "Competitor Analysis",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "elite-kitchen",
+  "name": "Elite Kitchen",
+  "nameAr": "مطبخ إيليت",
+  "group": "food",
+  "industry": {
+   "en": "Kitchen & catering",
+   "ar": "مطبخ وكاترينج"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Kitchen & catering, Amman",
+   "ar": "مطبخ وكاترينج في عمّان"
+  },
+  "services": [
+   "Meta Ads",
+   "Content Strategy",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "smokey-woods",
+  "name": "Smokey Woods Burgery",
+  "nameAr": "سموكي وودز برجري",
+  "group": "food",
+  "industry": {
+   "en": "Burger restaurant",
+   "ar": "مطعم برجر"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "featured",
+  "caseStudy": "smokey-woods",
+  "logo": "/images/clients/smokey-woods.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Burger restaurant, Irbid",
+   "ar": "مطعم برجر في إربد"
+  },
+  "services": [
+   "Content Strategy",
+   "Meta Ads",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "hudhud",
+  "name": "Hudhud Design & Decor",
+  "nameAr": "الهدهد للديكور",
+  "group": "realestate",
+  "industry": {
+   "en": "Décor & design",
+   "ar": "ديكور وتصميم"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "highlight",
+  "caseStudy": "",
+  "logo": "/images/clients/hudhud.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Décor & finishing",
+   "ar": "ديكور وتشطيبات"
+  },
+  "services": [
+   "Meta Ads",
+   "Content Strategy",
+   "Reporting"
+  ],
+  "source": "monthly reports"
+ },
+ {
+  "id": "saraya-home",
+  "name": "Saraya Home",
+  "nameAr": "سرايا هوم",
+  "group": "retail",
+  "industry": {
+   "en": "Home accessories",
+   "ar": "إكسسوارات منزلية"
+  },
+  "markets": [
+   "Jordan"
+  ],
+  "tier": "client",
+  "caseStudy": "",
+  "logo": "/images/clients/saraya-home.webp",
+  "website": "",
+  "social": "",
+  "role": {
+   "en": "Marketing Manager",
+   "ar": "مديرة التسويق"
+  },
+  "projectType": {
+   "en": "Home accessories",
+   "ar": "إكسسوارات منزلية"
+  },
+  "services": [],
+  "source": "monthly reports"
+ }
+]

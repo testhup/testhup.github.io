@@ -1,0 +1,14 @@
+{
+ "slug": "ad-1",
+ "order": 1,
+ "image": "/images/dashboards/d1.webp",
+ "platform": "Meta Ads / Google Ads",
+ "alt": {
+  "en": "Ad manager results table",
+  "ar": "جدول نتائج من مدير الإعلانات"
+ },
+ "caption": {
+  "en": "Ads Manager results, reach, impressions and cost per result",
+  "ar": "نتائج مدير الإعلانات والوصول والانطباعات وتكلفة النتيجة"
+ }
+}

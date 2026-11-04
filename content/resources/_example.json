@@ -1,0 +1,44 @@
+{
+ "slug": "example-resource",
+ "order": 1,
+ "kind": "guide",
+ "title": {
+  "en": "Resource title",
+  "ar": "عنوان المورد"
+ },
+ "summary": {
+  "en": "One or two sentences about what the visitor gets.",
+  "ar": "جملة أو جملتان عمّا سيحصل عليه الزائر."
+ },
+ "file": "/files/example.pdf",
+ "blocks": [
+  {
+   "type": "text",
+   "h": {
+    "en": "What is inside",
+    "ar": "ماذا بداخله"
+   },
+   "p": {
+    "en": "Paragraph.",
+    "ar": "فقرة."
+   }
+  },
+  {
+   "type": "list",
+   "h": {
+    "en": "You will learn",
+    "ar": "ستتعلم"
+   },
+   "items": {
+    "en": [
+     "Point one",
+     "Point two"
+    ],
+    "ar": [
+     "النقطة الأولى",
+     "النقطة الثانية"
+    ]
+   }
+  }
+ ]
+}

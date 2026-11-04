@@ -1,0 +1,33 @@
+{
+ "slug": "example-seo-page",
+ "type": "page",
+ "order": 1,
+ "title": {
+  "en": "SEO landing page title",
+  "ar": "عنوان صفحة هبوط"
+ },
+ "description": {
+  "en": "Meta description.",
+  "ar": "وصف الصفحة."
+ },
+ "blocks": [
+  {
+   "type": "text",
+   "h": {
+    "en": "Heading",
+    "ar": "عنوان"
+   },
+   "p": {
+    "en": "Paragraph.",
+    "ar": "فقرة."
+   }
+  }
+ ],
+ "cta": {
+  "href": "contact",
+  "label": {
+   "en": "Get in touch",
+   "ar": "تواصل معي"
+  }
+ }
+}

@@ -1,0 +1,442 @@
+{
+ "home": {
+  "title": {
+   "en": "Karma Shawky | Growth & Digital Marketing Consultant",
+   "ar": "كارما شوقي | مستشارة نمو وتسويق رقمي"
+  },
+  "description": {
+   "en": "Karma Shawky is a growth and marketing strategy consultant and marketing manager for businesses in Egypt, Saudi Arabia and the GCC: consulting, marketing audits and monthly marketing management.",
+   "ar": "كارما شوقي مستشارة نمو واستراتيجية تسويق ومديرة تسويق لأعمال في مصر والسعودية ودول الخليج: استشارات ومراجعات تسويقية وإدارة تسويق شهرية."
+  },
+  "hello": {
+   "en": "Hi, I'm Karma!",
+   "ar": "أهلاً، أنا كارما!"
+  },
+  "headlineA": {
+   "en": "I turn marketing chaos",
+   "ar": "أحوّل فوضى التسويق"
+  },
+  "headlineB": {
+   "en": "into business growth.",
+   "ar": "إلى نموٍّ حقيقي للأعمال."
+  },
+  "highlight": {
+   "en": "growth systems",
+   "ar": "منظومات نمو"
+  },
+  "sub": {
+   "en": "Growth & Digital Marketing Consultant",
+   "ar": "مستشارة نمو وتسويق رقمي · مصر والخليج"
+  },
+  "cta": {
+   "en": "Explore My Work",
+   "ar": "تصفّح أعمالي"
+  },
+  "sticky": {
+   "en": "Plan. Execute. Grow.",
+   "ar": "خطّط. نفّذ. انمُ."
+  },
+  "tagline": {
+   "en": "Strategy with personality.",
+   "ar": "استراتيجية بشخصية."
+  },
+  "bitTitle": {
+   "en": "A little bit of everything",
+   "ar": "قليل من كل شيء"
+  },
+  "bits": [
+   {
+    "icon": "📊",
+    "href": "work",
+    "title": {
+     "en": "Case Studies",
+     "ar": "دراسات الحالة"
+    },
+    "sub": {
+     "en": "Strategy, not just screenshots",
+     "ar": "أرقام حقيقية من تقارير فعلية"
+    }
+   },
+   {
+    "icon": "💡",
+    "href": "insights",
+    "title": {
+     "en": "My Thinking",
+     "ar": "طريقة تفكيري"
+    },
+    "sub": {
+     "en": "Ideas & insights",
+     "ar": "أفكار وملاحظات"
+    }
+   },
+   {
+    "icon": "🚀",
+    "href": "services",
+    "title": {
+     "en": "What I Do",
+     "ar": "ماذا أقدّم"
+    },
+    "sub": {
+     "en": "Strategy & growth",
+     "ar": "استراتيجية ونمو"
+    }
+   },
+   {
+    "icon": "☕",
+    "href": "contact",
+    "title": {
+     "en": "Get in Touch",
+     "ar": "تواصل معي"
+    },
+    "sub": {
+     "en": "Let's talk business",
+     "ar": "احكِ لي عن عملك"
+    }
+   }
+  ],
+  "featuredTitle": {
+   "en": "Selected case studies",
+   "ar": "دراسات حالة مختارة"
+  },
+  "viewAll": {
+   "en": "View All Projects",
+   "ar": "كل المشاريع"
+  },
+  "aboutTitle": {
+   "en": "About Me",
+   "ar": "نبذة عني"
+  },
+  "aboutText": {
+   "en": "I am a growth and digital marketing consultant, and a marketing manager who works as a business growth partner. I have been in marketing since 2018, across performance, strategy and team leadership, for businesses in Egypt and the Gulf.",
+   "ar": "أنا مستشارة نمو وتسويق رقمي، ومديرة تسويق تعمل كشريكة نمو للأعمال. أعمل في التسويق منذ 2018 بين الأداء والاستراتيجية وقيادة الفرق، لصالح أعمال في مصر والخليج."
+  },
+  "aboutCta": {
+   "en": "Know More About Me",
+   "ar": "اعرف المزيد عني"
+  },
+  "bubble": {
+   "en": "Profit first.",
+   "ar": "الربح أولاً."
+  },
+  "strip": [
+   {
+    "icon": "🗓️",
+    "big": {
+     "en": "Since 2018",
+     "ar": "منذ 2018"
+    },
+    "small": {
+     "en": "In marketing",
+     "ar": "في التسويق"
+    }
+   },
+   {
+    "icon": "🌍",
+    "big": {
+     "en": "Egypt · UAE · KSA",
+     "ar": "مصر · الإمارات · السعودية"
+    },
+    "small": {
+     "en": "Markets I've worked in",
+     "ar": "أسواق عملتُ فيها"
+    }
+   },
+   {
+    "icon": "🏷️",
+    "big": {
+     "en": "{n}+ brands",
+     "ar": "+{n} علامة"
+    },
+    "small": {
+     "en": "In my portfolio",
+     "ar": "في أعمالي"
+    }
+   },
+   {
+    "icon": "🛠️",
+    "big": {
+     "en": "End to end",
+     "ar": "من الفكرة للتقرير"
+    },
+    "small": {
+     "en": "Strategy to reporting",
+     "ar": "استراتيجية، تنفيذ، تقارير"
+    }
+   }
+  ],
+  "ctaBandTitle": {
+   "en": "Start with a conversation about your business",
+   "ar": "ابدأ بحديث عن عملك"
+  },
+  "ctaBandSub": {
+   "en": "Choose what fits: a consultation, a marketing audit, or a custom proposal.",
+   "ar": "اختر ما يناسبك: استشارة، أو مراجعة تسويقية، أو عرض تعاون مخصّص."
+  },
+  "ctaBandBtn": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  },
+  "selectedClients": {
+   "en": "Brands I've worked with",
+   "ar": "علامات عملتُ معها"
+  },
+  "allClients": {
+   "en": "See all clients",
+   "ar": "كل العملاء"
+  },
+  "sitesTitle": {
+   "en": "Websites I built",
+   "ar": "مواقع نفّذتها"
+  },
+  "sitesLead": {
+   "en": "Live sites I planned and built",
+   "ar": "مواقع منشورة خططت لها ونفذتها"
+  },
+  "positioning": {
+   "en": "I don’t just manage marketing. I build growth systems.",
+   "ar": "لا أكتفي بإدارة التسويق، بل أبني منظومات نمو."
+  },
+  "heroSub": {
+   "en": "Strategy, performance and reporting for businesses in Egypt, Saudi Arabia and the GCC.",
+   "ar": "استراتيجية وأداء وتقارير لأعمال في مصر والسعودية والخليج."
+  },
+  "ctaConsult": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  },
+  "ctaManage": {
+   "en": "Monthly marketing management",
+   "ar": "إدارة التسويق الشهرية"
+  },
+  "pathsTitle": {
+   "en": "Two ways to work together",
+   "ar": "طريقتان للعمل معاً"
+  },
+  "paths": [
+   {
+    "k": "consulting",
+    "tag": {
+     "en": "Paid consulting",
+     "ar": "استشارات مدفوعة"
+    },
+    "t": {
+     "en": "When you need a decision or a plan",
+     "ar": "عندما تحتاج إلى قرار أو خطة"
+    },
+    "d": {
+     "en": "Marketing audits, one-hour strategy sessions and growth strategy projects.",
+     "ar": "مراجعات تسويقية، وجلسات استراتيجية لمدة ساعة، ومشاريع استراتيجية نمو."
+    },
+    "cta": {
+     "en": "Explore consulting",
+     "ar": "تعرّف على الاستشارات"
+    }
+   },
+   {
+    "k": "management",
+    "tag": {
+     "en": "Monthly management",
+     "ar": "إدارة شهرية"
+    },
+    "t": {
+     "en": "When you need someone to lead it",
+     "ar": "عندما تحتاج من يقود التسويق"
+    },
+    "d": {
+     "en": "Ongoing strategic leadership: growth planning, performance management and monthly reporting.",
+     "ar": "قيادة استراتيجية مستمرة: تخطيط للنمو وإدارة للأداء وتقارير شهرية."
+    },
+    "cta": {
+     "en": "Explore management",
+     "ar": "تعرّف على الإدارة الشهرية"
+    }
+   }
+  ],
+  "whoTitle": {
+   "en": "Who I work with",
+   "ar": "من أعمل معهم"
+  },
+  "who": [
+   {
+    "t": {
+     "en": "Healthcare & medical",
+     "ar": "الرعاية الصحية والطبية"
+    },
+    "d": {
+     "en": "Clinics, medical centers and doctors.",
+     "ar": "عيادات ومراكز طبية وأطباء."
+    }
+   },
+   {
+    "t": {
+     "en": "Education & training",
+     "ar": "التعليم والتدريب"
+    },
+    "d": {
+     "en": "Academies and training providers.",
+     "ar": "أكاديميات وجهات تدريب."
+    }
+   },
+   {
+    "t": {
+     "en": "Restaurants & hospitality",
+     "ar": "المطاعم والضيافة"
+    },
+    "d": {
+     "en": "Restaurants, cafes and kitchens.",
+     "ar": "مطاعم وكافيهات ومطابخ."
+    }
+   },
+   {
+    "t": {
+     "en": "Service companies",
+     "ar": "شركات الخدمات"
+    },
+    "d": {
+     "en": "Business services, real estate and interiors.",
+     "ar": "خدمات أعمال وعقارات وتصميم داخلي."
+    }
+   }
+  ],
+  "heroValue": {
+   "en": "I help business owners in Egypt, Saudi Arabia and the GCC see what their marketing really returns, decide where to grow, and lead the execution.",
+   "ar": "أساعد أصحاب الأعمال في مصر والسعودية والخليج على رؤية العائد الحقيقي لتسويقهم، وتحديد أين ينمو عملهم، وقيادة التنفيذ حتى يتحقق ذلك."
+  },
+  "rolesLine": {
+   "en": "Marketing strategy consultant · Marketing manager & business growth partner",
+   "ar": "مستشارة استراتيجية تسويق · مديرة تسويق وشريكة نمو للأعمال"
+  },
+  "ctaBook": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  },
+  "ctaAudit": {
+   "en": "Request a marketing audit",
+   "ar": "اطلب مراجعة تسويقية"
+  },
+  "ctaProposal": {
+   "en": "Request a custom proposal",
+   "ar": "اطلب عرض تعاون مخصّصاً"
+  },
+  "challengesTitle": {
+   "en": "Business challenges I help solve",
+   "ar": "تحديات تجارية أساعد في حلها"
+  },
+  "challenges": [
+   {
+    "t": {
+     "en": "We spend on marketing, but cannot see what it returns",
+     "ar": "ننفق على التسويق، لكننا لا نرى ما يعود منه"
+    },
+    "d": {
+     "en": "I connect ad spend to leads, sales and margin, so budget decisions rest on numbers that matter.",
+     "ar": "أربط الإنفاق الإعلاني بالعملاء المحتملين والمبيعات والهامش، فتُبنى قرارات الميزانية على أرقام ذات معنى."
+    }
+   },
+   {
+    "t": {
+     "en": "Leads arrive, but too few become customers",
+     "ar": "يصلنا عملاء محتملون، لكن قلة منهم تتحول إلى عملاء"
+    },
+    "d": {
+     "en": "I look at lead quality, follow-up speed and the sales conversation, not just cost per lead.",
+     "ar": "أنظر في جودة العملاء المحتملين وسرعة المتابعة ومحادثة البيع، لا في تكلفة العميل المحتمل وحدها."
+    }
+   },
+   {
+    "t": {
+     "en": "Every channel is run separately and nobody owns the plan",
+     "ar": "كل قناة تُدار وحدها ولا أحد يملك الخطة كاملة"
+    },
+    "d": {
+     "en": "I set one plan and one set of numbers, and coordinate the team, agency or freelancers behind it.",
+     "ar": "أضع خطة واحدة وأرقاماً واحدة، وأنسّق الفريق أو الوكالة أو المستقلين الذين ينفّذونها."
+    }
+   },
+   {
+    "t": {
+     "en": "We want to enter a new market and do not know where to start",
+     "ar": "نريد دخول سوق جديدة ولا نعرف من أين نبدأ"
+    },
+    "d": {
+     "en": "I help define the offer, the channels and the first tests for a market like Saudi Arabia or the wider GCC.",
+     "ar": "أساعد في تحديد العرض والقنوات والاختبارات الأولى لسوق مثل السعودية أو دول الخليج."
+    }
+   },
+   {
+    "t": {
+     "en": "Reports show numbers, not decisions",
+     "ar": "التقارير تعرض أرقاماً لا قرارات"
+    },
+    "d": {
+     "en": "I turn reporting into a monthly decision: what changed, why, and what to do next.",
+     "ar": "أحوّل التقارير إلى قرار شهري: ما الذي تغيّر، ولماذا، وماذا نفعل بعده."
+    }
+   },
+   {
+    "t": {
+     "en": "Our marketing depends on a vendor we cannot evaluate",
+     "ar": "يعتمد تسويقنا على جهة لا نستطيع تقييمها"
+    },
+    "d": {
+     "en": "I review the work, set clear goals and give you an independent view of what is working.",
+     "ar": "أراجع العمل وأضع أهدافاً واضحة وأقدّم لك رأياً مستقلاً فيما ينجح."
+    }
+   }
+  ],
+  "pillarsTitle": {
+   "en": "Consulting & services",
+   "ar": "الاستشارات والخدمات"
+  },
+  "approachTitle": {
+   "en": "How I approach a business",
+   "ar": "كيف أتعامل مع أي عمل"
+  },
+  "approach": [
+   {
+    "t": {
+     "en": "Understand the business",
+     "ar": "فهم العمل"
+    },
+    "d": {
+     "en": "Offer, margins, customers and how money is actually made.",
+     "ar": "العرض والهوامش والعملاء وكيف يتحقق الدخل فعلاً."
+    }
+   },
+   {
+    "t": {
+     "en": "Diagnose with data",
+     "ar": "التشخيص بالبيانات"
+    },
+    "d": {
+     "en": "Ads, funnel, tracking and follow-up, read together.",
+     "ar": "الإعلانات ومسار التحويل والتتبّع والمتابعة، تُقرأ معاً."
+    }
+   },
+   {
+    "t": {
+     "en": "Decide the priorities",
+     "ar": "تحديد الأولويات"
+    },
+    "d": {
+     "en": "A short list of moves, ranked by business impact.",
+     "ar": "قائمة قصيرة من الخطوات مرتبة حسب أثرها على العمل."
+    }
+   },
+   {
+    "t": {
+     "en": "Lead execution and review",
+     "ar": "قيادة التنفيذ والمراجعة"
+    },
+    "d": {
+     "en": "Run it against agreed goals and review it every month.",
+     "ar": "التنفيذ وفق أهداف متفق عليها ومراجعة كل شهر."
+    }
+   }
+  ],
+  "insightsTitle": {
+   "en": "Insights",
+   "ar": "رؤى وأفكار"
+  }
+ }
+}

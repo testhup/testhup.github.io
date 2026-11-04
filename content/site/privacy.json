@@ -1,0 +1,68 @@
+{
+ "privacy": {
+  "title": {
+   "en": "Privacy Policy",
+   "ar": "سياسة الخصوصية"
+  },
+  "description": {
+   "en": "How karmashawky.com collects and uses the information you send through its forms and analytics.",
+   "ar": "كيف يجمع موقع karmashawky.com المعلومات التي ترسلها عبر النماذج وأدوات التحليل، وكيف يستخدمها."
+  },
+  "updated": {
+   "en": "Last updated: 3 November 2026",
+   "ar": "آخر تحديث: 3 نوفمبر 2026"
+  },
+  "blocks": [
+   {
+    "h": {
+     "en": "What I collect",
+     "ar": "ما الذي أجمعه"
+    },
+    "p": {
+     "en": "When you send a form, your browser opens WhatsApp with a message that contains what you typed: name, country, your choices and your message. I also add the page you sent it from, your language and how you reached the site (for example the campaign you came from).",
+     "ar": "عند إرسال نموذج يفتح متصفحك واتساب برسالة تتضمن ما كتبته: الاسم والدولة واختياراتك ورسالتك. وأضيف إليها الصفحة التي أرسلت منها ولغتك والطريقة التي وصلت بها إلى الموقع (مثل الحملة التي جئت منها)."
+    }
+   },
+   {
+    "h": {
+     "en": "Why I collect it",
+     "ar": "لماذا أجمعه"
+    },
+    "p": {
+     "en": "To reply to your request, to manage it, and to understand which channels and campaigns bring real inquiries.",
+     "ar": "للرد على طلبك وإدارته، ولمعرفة القنوات والحملات التي تجلب استفسارات حقيقية."
+    }
+   },
+   {
+    "h": {
+     "en": "Analytics",
+     "ar": "أدوات التحليل"
+    },
+    "p": {
+     "en": "Analytics cookies are used only if you accept them. If you decline, the site still works.",
+     "ar": "لا تُستخدم ملفات تعريف الارتباط التحليلية إلا إذا وافقت عليها. وإذا رفضتها يعمل الموقع كالمعتاد."
+    }
+   },
+   {
+    "h": {
+     "en": "Who can see it",
+     "ar": "من يمكنه الاطلاع عليها"
+    },
+    "p": {
+     "en": "I receive the message only if you press Send in WhatsApp. It is then handled in WhatsApp, under WhatsApp’s own terms. I do not sell your information.",
+     "ar": "أستلم الرسالة فقط إذا ضغطت إرسال في واتساب. وبعدها تُدار داخل واتساب وفق شروطه. ولا أبيع معلوماتك."
+    }
+   },
+   {
+    "h": {
+     "en": "Your choices",
+     "ar": "خياراتك"
+    },
+    "p": {
+     "en": "You can ask me to show, correct or delete your information at any time by emailing me.",
+     "ar": "يمكنك في أي وقت أن تطلب مني الاطلاع على معلوماتك أو تصحيحها أو حذفها عبر مراسلتي بالبريد الإلكتروني."
+    }
+   }
+  ]
+ }
+}

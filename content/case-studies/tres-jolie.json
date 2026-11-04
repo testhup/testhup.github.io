@@ -1,0 +1,250 @@
+{
+ "slug": "tres-jolie",
+ "clientId": "tres-jolie",
+ "order": 6,
+ "emoji": "✨",
+ "tag": {
+  "en": "Customer Acquisition",
+  "ar": "اكتساب العملاء"
+ },
+ "title": {
+  "en": "Tres Jolie: an acquisition plan for a medical center",
+  "ar": "تريه جولي: خطة اكتساب عملاء لمركز طبي"
+ },
+ "summary": {
+  "en": "A customer-acquisition approach for a multi-service medical center: one service, one audience, one message at a time.",
+  "ar": "منهج لاكتساب العملاء في مركز طبي متعدد الخدمات: خدمة واحدة وجمهور واحد ورسالة واحدة في كل مرة."
+ },
+ "services": [
+  "Customer Acquisition",
+  "Meta Ads",
+  "Content Strategy",
+  "Brand Positioning"
+ ],
+ "sections": {
+  "overview": {
+   "en": "Tres Jolie Medical Center is a medical center in the UAE offering several services. For a center like this, the hard part is not visibility, it is deciding what to promote and to whom.",
+   "ar": "تريه جولي مركز طبي في الإمارات يقدّم عدة خدمات. والصعب في مركز كهذا ليس الظهور، بل تحديد ما يُروَّج له ولمن."
+  },
+  "industry": {
+   "en": "Healthcare: medical center, multiple services",
+   "ar": "الرعاية الصحية: مركز طبي متعدد الخدمات"
+  },
+  "challenge": {
+   "en": "Promoting every service at once dilutes the message. Patients choose a center for one need first, then discover the rest.",
+   "ar": "الترويج لكل الخدمات معاً يشتّت الرسالة. يختار المريض المركز لحاجة واحدة أولاً، ثم يكتشف بقية الخدمات."
+  },
+  "problem": {
+   "en": "A broad, generic presence competes on price and proximity. Without a clear lead service per audience, ad spend spreads thin and results are hard to read.",
+   "ar": "الحضور العام الواسع ينافس على السعر والقرب. وبلا خدمة رئيسية واضحة لكل جمهور، تتوزع الميزانية وتصعب قراءة النتائج."
+  },
+  "approach": {
+   "en": "Pick entry services, build one acquisition path for each, and let patients expand into other services after the first visit.",
+   "ar": "اختيار خدمات دخول، وبناء مسار اكتساب لكل منها، وترك المريض يتوسع إلى خدمات أخرى بعد الزيارة الأولى."
+  },
+  "strategy": {
+   "en": [
+    "Rank services by demand, margin and repeat-visit potential",
+    "Choose a small set of entry services",
+    "Position the center on trust and clarity, not discounts",
+    "Plan the second visit: what a new patient is offered next"
+   ],
+   "ar": [
+    "ترتيب الخدمات حسب الطلب والهامش وإمكانية تكرار الزيارة",
+    "اختيار مجموعة صغيرة من خدمات الدخول",
+    "تموضع المركز على الثقة والوضوح لا على الخصومات",
+    "التخطيط للزيارة الثانية: ما الذي يُعرض على المريض الجديد لاحقاً"
+   ]
+  },
+  "execution": {
+   "en": [
+    "Define entry services and target audiences",
+    "Write one message set per service",
+    "Launch Meta campaigns per service with a small testing budget split",
+    "Publish content that answers real patient questions",
+    "Review which services bring repeat visits"
+   ],
+   "ar": [
+    "تحديد خدمات الدخول والجماهير المستهدفة",
+    "كتابة مجموعة رسائل لكل خدمة",
+    "إطلاق حملات ميتا لكل خدمة بتقسيم صغير لميزانية الاختبار",
+    "نشر محتوى يجيب عن أسئلة المرضى الفعلية",
+    "مراجعة الخدمات التي تجلب زيارات متكررة"
+   ]
+  },
+  "campaign": {
+   "en": [
+    "Entry-service campaigns, one per service",
+    "Education content campaign to build trust",
+    "Retargeting for engaged viewers",
+    "Returning-patient reminders"
+   ],
+   "ar": [
+    "حملات خدمات الدخول، حملة لكل خدمة",
+    "حملة محتوى توعوي لبناء الثقة",
+    "إعادة استهداف للمتفاعلين",
+    "تذكير المرضى العائدين"
+   ]
+  },
+  "creative": {
+   "en": [
+    "Calm, clean visuals that fit a medical setting",
+    "Educational short videos and carousels",
+    "Careful, compliant wording for medical services"
+   ],
+   "ar": [
+    "صور هادئة ونظيفة تناسب البيئة الطبية",
+    "فيديوهات قصيرة وكاروسيل تعليمية",
+    "صياغة حذرة ومتوافقة مع طبيعة الخدمات الطبية"
+   ]
+  },
+  "solution": {
+   "en": "A service-led acquisition plan: a few entry services, each with its own audience, message and path, and a clear plan for bringing patients back.",
+   "ar": "خطة اكتساب تقودها الخدمات: عدد قليل من خدمات الدخول، لكل منها جمهورها ورسالتها ومسارها، وخطة واضحة لإعادة المرضى."
+  },
+  "impact": {
+   "en": "This approach is designed to focus spend, make results readable per service and build repeat visits. No performance figures are published here.",
+   "ar": "صُمم هذا المنهج لتركيز الإنفاق وجعل النتائج مقروءة لكل خدمة وبناء زيارات متكررة. لا تُنشر هنا أي أرقام أداء."
+  },
+  "learnings": {
+   "en": [
+    "A center grows through a few clear doors, not all of them",
+    "Education builds the trust that ads cannot",
+    "Plan the second visit before the first"
+   ],
+   "ar": [
+    "يكبر المركز عبر أبواب قليلة واضحة لا عبر كلها",
+    "التوعية تبني الثقة التي لا تبنيها الإعلانات",
+    "خطّط للزيارة الثانية قبل الأولى"
+   ]
+  }
+ },
+ "visuals": [
+  {
+   "type": "tree",
+   "title": {
+    "en": "Service-led acquisition map",
+    "ar": "خريطة الاكتساب حسب الخدمة"
+   },
+   "root": {
+    "en": "Medical center",
+    "ar": "المركز الطبي"
+   },
+   "branches": [
+    {
+     "t": {
+      "en": "Entry service 1",
+      "ar": "خدمة دخول 1"
+     },
+     "c": [
+      {
+       "en": "Audience",
+       "ar": "الجمهور"
+      },
+      {
+       "en": "Message",
+       "ar": "الرسالة"
+      }
+     ]
+    },
+    {
+     "t": {
+      "en": "Entry service 2",
+      "ar": "خدمة دخول 2"
+     },
+     "c": [
+      {
+       "en": "Audience",
+       "ar": "الجمهور"
+      },
+      {
+       "en": "Message",
+       "ar": "الرسالة"
+      }
+     ]
+    },
+    {
+     "t": {
+      "en": "Return visits",
+      "ar": "الزيارات المتكررة"
+     },
+     "c": [
+      {
+       "en": "Reminders",
+       "ar": "تذكيرات"
+      },
+      {
+       "en": "Cross-service",
+       "ar": "خدمات أخرى"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "journey",
+   "title": {
+    "en": "Patient journey",
+    "ar": "رحلة المريض"
+   },
+   "stages": [
+    {
+     "t": {
+      "en": "Notice",
+      "ar": "الانتباه"
+     },
+     "d": {
+      "en": "Educational post or ad",
+      "ar": "منشور توعوي أو إعلان"
+     }
+    },
+    {
+     "t": {
+      "en": "Trust",
+      "ar": "الثقة"
+     },
+     "d": {
+      "en": "Reads answers, sees the team",
+      "ar": "يقرأ الإجابات ويرى الفريق"
+     }
+    },
+    {
+     "t": {
+      "en": "Book",
+      "ar": "الحجز"
+     },
+     "d": {
+      "en": "Messages to book",
+      "ar": "يراسل للحجز"
+     }
+    },
+    {
+     "t": {
+      "en": "Visit",
+      "ar": "الزيارة"
+     },
+     "d": {
+      "en": "First appointment",
+      "ar": "الموعد الأول"
+     }
+    },
+    {
+     "t": {
+      "en": "Return",
+      "ar": "العودة"
+     },
+     "d": {
+      "en": "Reminder and next service",
+      "ar": "تذكير وخدمة تالية"
+     }
+    }
+   ]
+  }
+ ],
+ "kind": "concept",
+ "layout": "concept",
+ "role": {
+  "en": "Strategy concept written by Karma Shawky. It shows how I would approach the project; it is not a report of delivered results.",
+  "ar": "تصوّر استراتيجي كتبته كارما شوقي. يوضح كيف أتناول المشروع، وليس تقريراً بنتائج منفّذة."
+ }
+}

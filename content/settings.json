@@ -1,0 +1,28 @@
+{
+  "siteUrl": "https://karmashawky.com",
+  "defaultLang": "ar",
+  "links": {
+    "email": "karmashawkyinfo@gmail.com",
+    "whatsapp": "201282030002",
+    "linkedin": "",
+    "instagram": "",
+    "youtube": "",
+    "formAction": "",
+    "hub": "https://push.fm/fl/karmashawky"
+  },
+  "booking": {
+    "mode": "contact",
+    "provider": "",
+    "bookingUrl": "",
+    "paymentUrl": ""
+  },
+  "forms": {
+    "endpoint": "",
+    "sheetsWebhook": "",
+    "notifyEmail": ""
+  },
+  "analytics": {
+    "ga4": "",
+    "metaPixel": ""
+  }
+}

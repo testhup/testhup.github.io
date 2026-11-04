@@ -1,0 +1,13 @@
+{
+  "name": "karma-shawky-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "npx serve dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

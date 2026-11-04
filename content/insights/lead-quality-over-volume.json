@@ -1,0 +1,25 @@
+{
+  "slug": "lead-quality-over-volume",
+  "emoji": "🧲",
+  "min": 2,
+  "title": {
+    "en": "Why a cheap lead can be the most expensive one",
+    "ar": "لماذا قد يكون العميل المحتمل الرخيص هو الأغلى"
+  },
+  "summary": {
+    "en": "Cost per lead looks great until nobody books.",
+    "ar": "تبدو تكلفة العميل المحتمل رائعة حتى لا يحجز أحد."
+  },
+  "body": {
+    "en": [
+      "Cost per lead is the easiest number to report and the easiest to misread. A campaign can lower it by attracting people who were only curious.",
+      "The fix starts after the click. Ask what share of leads were reachable, interested and able to pay. Then change the ad, the page or the form to filter earlier.",
+      "If the sales team or front desk says the leads are bad, believe them and look at the data together."
+    ],
+    "ar": [
+      "تكلفة العميل المحتمل أسهل رقم يُعرض وأسهله سوءَ فهم. قد تخفّضه الحملة بجذب أشخاص كان دافعهم الفضول فقط.",
+      "يبدأ الحل بعد النقرة. اسأل كم نسبة العملاء الذين أمكن الوصول إليهم وكانوا مهتمين وقادرين على الدفع. ثم عدّل الإعلان أو الصفحة أو النموذج ليفرز مبكراً.",
+      "إذا قال فريق المبيعات أو الاستقبال إن العملاء غير مناسبين، فصدّقهم وراجعوا البيانات معاً."
+    ]
+  }
+}

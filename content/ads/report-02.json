@@ -1,0 +1,15 @@
+{
+ "slug": "report-02",
+ "order": 101,
+ "group": "reports",
+ "image": "/images/reports/dr-tariq-facebook-insights.webp",
+ "platform": "Meta Ads",
+ "alt": {
+  "en": "Facebook insights, 26 June to 26 July 2026",
+  "ar": "إحصاءات فيسبوك، من 26 يونيو إلى 26 يوليو 2026"
+ },
+ "caption": {
+  "en": "Dr. Tariq Hatamleh: Facebook insights, 26 June to 26 July 2026",
+  "ar": "د. طارق حتاملة: إحصاءات فيسبوك، من 26 يونيو إلى 26 يوليو 2026"
+ }
+}

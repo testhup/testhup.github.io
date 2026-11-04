@@ -1,0 +1,46 @@
+{
+ "resources": {
+  "title": {
+   "en": "Free Resources",
+   "ar": "موارد مجانية"
+  },
+  "description": {
+   "en": "Free guides, templates and checklists on growth and marketing from Karma Shawky.",
+   "ar": "أدلة وقوالب وقوائم تحقق مجانية عن النمو والتسويق من كارما شوقي."
+  },
+  "lead": {
+   "en": "Practical material you can use today, free.",
+   "ar": "مواد عملية يمكنك استخدامها اليوم، مجاناً."
+  },
+  "download": {
+   "en": "Download",
+   "ar": "تحميل"
+  },
+  "open": {
+   "en": "Open",
+   "ar": "فتح"
+  },
+  "back": {
+   "en": "All resources",
+   "ar": "كل الموارد"
+  },
+  "kinds": {
+   "guide": {
+    "en": "Guide",
+    "ar": "دليل"
+   },
+   "template": {
+    "en": "Template",
+    "ar": "قالب"
+   },
+   "checklist": {
+    "en": "Checklist",
+    "ar": "قائمة تحقق"
+   },
+   "tool": {
+    "en": "Tool",
+    "ar": "أداة"
+   }
+  }
+ }
+}

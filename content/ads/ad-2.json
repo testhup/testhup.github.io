@@ -1,0 +1,14 @@
+{
+ "slug": "ad-2",
+ "order": 2,
+ "image": "/images/dashboards/d2.webp",
+ "platform": "Meta Ads / Google Ads",
+ "alt": {
+  "en": "Ad sets and ROAS table",
+  "ar": "جدول المجموعات الإعلانية وعائد الإنفاق"
+ },
+ "caption": {
+  "en": "Ad sets table with purchase values, and Google Ads overview",
+  "ar": "جدول المجموعات الإعلانية بقيم الشراء، ونظرة عامة على Google Ads"
+ }
+}

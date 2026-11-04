@@ -1,0 +1,14 @@
+{
+ "slug": "ad-3",
+ "order": 3,
+ "image": "/images/dashboards/d3.webp",
+ "platform": "Meta Ads / Google Ads",
+ "alt": {
+  "en": "Mobile campaign results",
+  "ar": "نتائج الحملات على الهاتف"
+ },
+ "caption": {
+  "en": "Campaign tables and mobile Ads Manager results",
+  "ar": "جداول الحملات ونتائج مدير الإعلانات على الهاتف"
+ }
+}

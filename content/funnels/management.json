@@ -1,0 +1,245 @@
+{
+ "slug": "marketing-management",
+ "title": {
+  "en": "Monthly Marketing Management: Strategy, Performance & Reporting",
+  "ar": "إدارة التسويق الشهرية: استراتيجية وأداء وتقارير"
+ },
+ "description": {
+  "en": "Ongoing strategic marketing leadership for businesses in Egypt, Saudi Arabia and the GCC: growth planning, performance management and monthly reporting.",
+  "ar": "قيادة تسويقية استراتيجية مستمرة لأعمال في مصر والسعودية والخليج: تخطيط للنمو وإدارة للأداء وتقارير شهرية."
+ },
+ "eyebrow": {
+  "en": "Monthly marketing management",
+  "ar": "إدارة التسويق الشهرية"
+ },
+ "h1": {
+  "en": "A marketing lead for your business, on a monthly basis",
+  "ar": "قيادة تسويقية لعملك، بتعاقد شهري"
+ },
+ "lead": {
+  "en": "I run your marketing as a growth system: one plan, one set of numbers, and one person accountable for how they connect.",
+  "ar": "أدير تسويقك كمنظومة نمو: خطة واحدة وأرقام واحدة ومسؤول واحد عن الربط بينها."
+ },
+ "scopeTitle": {
+  "en": "What monthly management covers",
+  "ar": "ما تشمله الإدارة الشهرية"
+ },
+ "scope": [
+  {
+   "t": {
+    "en": "Growth strategy and planning",
+    "ar": "استراتيجية النمو والتخطيط"
+   },
+   "d": {
+    "en": "Positioning, offers, channel mix and a plan tied to your margins.",
+    "ar": "تموضع وعروض ومزيج قنوات وخطة مرتبطة بهوامش ربحك."
+   }
+  },
+  {
+   "t": {
+    "en": "Performance management",
+    "ar": "إدارة الأداء"
+   },
+   "d": {
+    "en": "Meta and Google Ads: structure, audiences, creative testing and budget control.",
+    "ar": "إعلانات ميتا وجوجل: الهيكلة والجماهير واختبار المواد الإبداعية وضبط الميزانية."
+   }
+  },
+  {
+   "t": {
+    "en": "Funnels and landing pages",
+    "ar": "مسارات التحويل وصفحات الهبوط"
+   },
+   "d": {
+    "en": "From first click to booking or sale, with pages and forms built to convert.",
+    "ar": "من النقرة الأولى حتى الحجز أو البيع، بصفحات ونماذج مصممة للتحويل."
+   }
+  },
+  {
+   "t": {
+    "en": "Lead handling and follow-up",
+    "ar": "إدارة العملاء المحتملين والمتابعة"
+   },
+   "d": {
+    "en": "WhatsApp and CRM follow-up, status tracking and quality feedback from your sales team.",
+    "ar": "متابعة عبر واتساب والـ CRM، وتتبّع الحالات، وملاحظات الجودة من فريق المبيعات."
+   }
+  },
+  {
+   "t": {
+    "en": "Reporting and monthly review",
+    "ar": "التقارير والمراجعة الشهرية"
+   },
+   "d": {
+    "en": "A monthly report that ends in decisions, goals and next month’s priorities.",
+    "ar": "تقرير شهري ينتهي بقرارات وأهداف وأولويات الشهر التالي."
+   }
+  },
+  {
+   "t": {
+    "en": "Team and agency coordination",
+    "ar": "تنسيق الفريق والوكالات"
+   },
+   "d": {
+    "en": "Briefing and managing designers, content creators, agencies and freelancers.",
+    "ar": "توجيه المصممين وصنّاع المحتوى والوكالات والمستقلين ومتابعتهم."
+   }
+  }
+ ],
+ "processTitle": {
+  "en": "The monthly rhythm",
+  "ar": "إيقاع العمل الشهري"
+ },
+ "rhythm": [
+  {
+   "t": {
+    "en": "Diagnose",
+    "ar": "التشخيص"
+   },
+   "d": {
+    "en": "Review of your numbers, funnel and current activity.",
+    "ar": "مراجعة أرقامك ومسار التحويل والنشاط الحالي."
+   }
+  },
+  {
+   "t": {
+    "en": "Plan",
+    "ar": "الخطة"
+   },
+   "d": {
+    "en": "A plan with goals, budget and priorities agreed with you.",
+    "ar": "خطة بأهداف وميزانية وأولويات يُتفق عليها معك."
+   }
+  },
+  {
+   "t": {
+    "en": "Run",
+    "ar": "التنفيذ"
+   },
+   "d": {
+    "en": "Campaigns, content and follow-up run against the plan, with regular check-ins.",
+    "ar": "حملات ومحتوى ومتابعة تُنفَّذ وفق الخطة، مع مراجعات دورية."
+   }
+  },
+  {
+   "t": {
+    "en": "Review",
+    "ar": "المراجعة"
+   },
+   "d": {
+    "en": "A monthly report and review that resets the plan for the next month.",
+    "ar": "تقرير ومراجعة شهرية تضبط الخطة للشهر التالي."
+   }
+  }
+ ],
+ "termsTitle": {
+  "en": "How we work together",
+  "ar": "كيف نعمل معاً"
+ },
+ "terms": {
+  "en": [
+   "A monthly retainer with a written scope",
+   "Ad spend is separate from the retainer and paid by you to the platforms",
+   "Your ad accounts and data stay under your ownership"
+  ],
+  "ar": [
+   "تعاقد شهري بنطاق عمل مكتوب",
+   "الإنفاق الإعلاني منفصل عن الأتعاب، وتدفعه أنت مباشرة للمنصات",
+   "تبقى حساباتك الإعلانية وبياناتك ملكاً لك"
+  ]
+ },
+ "fitYesTitle": {
+  "en": "This is for you if",
+  "ar": "هذه الخدمة مناسبة لك إذا"
+ },
+ "fitNoTitle": {
+  "en": "It is not for you if",
+  "ar": "وليست مناسبة إذا"
+ },
+ "fitYes": {
+  "en": [
+   "You have a marketing budget and an owner or manager who decides",
+   "You want one accountable lead instead of separate vendors",
+   "You are ready to share your numbers: ad accounts, sales and lead quality"
+  ],
+  "ar": [
+   "كانت لديك ميزانية تسويق وصاحب قرار واضح",
+   "أردت مسؤولاً واحداً بدلاً من عدة جهات منفصلة",
+   "كنت مستعداً لمشاركة أرقامك: الحسابات الإعلانية والمبيعات وجودة العملاء"
+  ]
+ },
+ "fitNo": {
+  "en": [
+   "You need only design or posting without strategy",
+   "You want guaranteed results or a fixed number of leads"
+  ],
+  "ar": [
+   "احتجت فقط إلى تصميم أو نشر دون استراتيجية",
+   "أردت نتائج مضمونة أو عدداً ثابتاً من العملاء المحتملين"
+  ]
+ },
+ "faqTitle": {
+  "en": "Questions",
+  "ar": "أسئلة شائعة"
+ },
+ "faq": [
+  {
+   "q": {
+    "en": "How is it priced?",
+    "ar": "كيف تُحدَّد الأتعاب؟"
+   },
+   "a": {
+    "en": "The retainer depends on scope and the size of your marketing operation. I share it in writing after we review your numbers.",
+    "ar": "تعتمد الأتعاب الشهرية على نطاق العمل وحجم نشاطك التسويقي. أرسلها إليك كتابةً بعد مراجعة أرقامك."
+   }
+  },
+  {
+   "q": {
+    "en": "What do I need to start?",
+    "ar": "ماذا أحتاج لنبدأ؟"
+   },
+   "a": {
+    "en": "Access to your ad accounts and analytics, your sales numbers, and one person who can make decisions.",
+    "ar": "صلاحية الوصول إلى حساباتك الإعلانية وأدوات التحليل، وأرقام مبيعاتك، وشخص واحد قادر على اتخاذ القرار."
+   }
+  },
+  {
+   "q": {
+    "en": "Do you replace my team?",
+    "ar": "هل ستحلين محل فريقي؟"
+   },
+   "a": {
+    "en": "No. I lead and coordinate your team, agency or freelancers, or build the plan they run.",
+    "ar": "لا. أقود فريقك أو وكالتك أو المستقلين لديك وأنسّق بينهم، أو أبني الخطة التي ينفّذونها."
+   }
+  },
+  {
+   "q": {
+    "en": "Do you guarantee results?",
+    "ar": "هل تضمنين النتائج؟"
+   },
+   "a": {
+    "en": "No. I do not promise results or lead numbers. I manage against agreed goals and report honestly on what moved the business.",
+    "ar": "لا. لا أعد بنتائج ولا بأعداد محددة من العملاء المحتملين. أدير العمل وفق أهداف متفق عليها، وأقدّم تقريراً صادقاً بما حرّك العمل فعلاً."
+   }
+  },
+  {
+   "q": {
+    "en": "How do we start?",
+    "ar": "كيف نبدأ؟"
+   },
+   "a": {
+    "en": "Send the request below. We review your numbers, agree the scope in writing and start with a diagnosis.",
+    "ar": "أرسل الطلب أدناه. نراجع أرقامك ونتفق كتابةً على النطاق ونبدأ بالتشخيص."
+   }
+  }
+ ],
+ "formTitle": {
+  "en": "Request a management call",
+  "ar": "اطلب مكالمة عن الإدارة الشهرية"
+ },
+ "formLead": {
+  "en": "Tell me about your business and your current marketing. I reply with the next step.",
+  "ar": "حدّثني عن عملك وتسويقك الحالي. أرد عليك بالخطوة التالية."
+ }
+}

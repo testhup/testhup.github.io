@@ -1,0 +1,250 @@
+[
+ {
+  "client": "dr-murad",
+  "period": {
+   "en": "10 Jun – 14 Jul 2026",
+   "ar": "10 يونيو – 14 يوليو 2026"
+  },
+  "platform": "Instagram",
+  "note": {
+   "en": "Facebook page: 39K followers, 96% recommendation (62 reviews).",
+   "ar": "صفحة فيسبوك: 39 ألف متابع ونسبة توصية 96% (62 تقييماً)."
+  },
+  "metrics": [
+   {
+    "v": "37.7K",
+    "l": {
+     "en": "Views",
+     "ar": "المشاهدات"
+    },
+    "c": "+42.8%"
+   },
+   {
+    "v": "17.1K",
+    "l": {
+     "en": "Reach",
+     "ar": "الوصول"
+    },
+    "c": "+55.4%"
+   },
+   {
+    "v": "559",
+    "l": {
+     "en": "Interactions",
+     "ar": "التفاعل"
+    },
+    "c": "+214%"
+   },
+   {
+    "v": "950",
+    "l": {
+     "en": "Profile visits",
+     "ar": "زيارات الملف"
+    },
+    "c": "+352.4%"
+   }
+  ],
+  "shots": [
+   {
+    "src": "/images/reports/dr-murad-instagram.webp",
+    "alt": {
+     "en": "Instagram insights, 10 June to 14 July 2026",
+     "ar": "إحصاءات إنستجرام، من 10 يونيو إلى 14 يوليو 2026"
+    }
+   },
+   {
+    "src": "/images/reports/dr-murad-campaigns.webp",
+    "alt": {
+     "en": "Campaign table, June to July 2026",
+     "ar": "جدول الحملات، يونيو إلى يوليو 2026"
+    }
+   }
+  ]
+ },
+ {
+  "client": "ibn-nafis",
+  "period": {
+   "en": "10 Jul – 10 Aug 2026",
+   "ar": "10 يوليو – 10 أغسطس 2026"
+  },
+  "platform": "Instagram",
+  "note": {
+   "en": "Facebook: 149 new followers (+136.5%) in the same period.",
+   "ar": "فيسبوك: 149 متابعاً جديداً (+136.5%) في الفترة نفسها."
+  },
+  "metrics": [
+   {
+    "v": "148.8K",
+    "l": {
+     "en": "Views",
+     "ar": "المشاهدات"
+    },
+    "c": "+84.8%"
+   },
+   {
+    "v": "74.5K",
+    "l": {
+     "en": "Reach",
+     "ar": "الوصول"
+    },
+    "c": "+48.2%"
+   },
+   {
+    "v": "485",
+    "l": {
+     "en": "Interactions",
+     "ar": "التفاعل"
+    },
+    "c": "+117.5%"
+   },
+   {
+    "v": "98",
+    "l": {
+     "en": "New followers",
+     "ar": "متابعون جدد"
+    },
+    "c": "+206.3%"
+   }
+  ],
+  "shots": [
+   {
+    "src": "/images/reports/ibn-nafis-instagram.webp",
+    "alt": {
+     "en": "Instagram insights, 10 July to 10 August 2026",
+     "ar": "إحصاءات إنستجرام، من 10 يوليو إلى 10 أغسطس 2026"
+    }
+   },
+   {
+    "src": "/images/reports/ibn-nafis-campaigns.webp",
+    "alt": {
+     "en": "Campaign table, July to August 2026",
+     "ar": "جدول الحملات، يوليو إلى أغسطس 2026"
+    }
+   }
+  ]
+ },
+ {
+  "client": "hudhud",
+  "period": {
+   "en": "30 Jun – 27 Jul 2026",
+   "ar": "30 يونيو – 27 يوليو 2026"
+  },
+  "platform": "Instagram",
+  "note": {
+   "en": "Facebook: 137 new followers (+251.3%).",
+   "ar": "فيسبوك: 137 متابعاً جديداً (+251.3%)."
+  },
+  "metrics": [
+   {
+    "v": "30,000",
+    "l": {
+     "en": "Views",
+     "ar": "المشاهدات"
+    },
+    "c": "+52%"
+   },
+   {
+    "v": "359",
+    "l": {
+     "en": "Interactions",
+     "ar": "التفاعل"
+    },
+    "c": "+74.3%"
+   },
+   {
+    "v": "89",
+    "l": {
+     "en": "Link clicks",
+     "ar": "نقرات الروابط"
+    },
+    "c": "+100%"
+   },
+   {
+    "v": "694",
+    "l": {
+     "en": "Profile visits",
+     "ar": "زيارات الملف"
+    },
+    "c": "+68.9%"
+   }
+  ],
+  "shots": [
+   {
+    "src": "/images/reports/hudhud-instagram.webp",
+    "alt": {
+     "en": "Instagram insights, 30 June to 27 July 2026",
+     "ar": "إحصاءات إنستجرام، من 30 يونيو إلى 27 يوليو 2026"
+    }
+   },
+   {
+    "src": "/images/reports/hudhud-campaigns.webp",
+    "alt": {
+     "en": "Campaign table, July 2026",
+     "ar": "جدول الحملات، يوليو 2026"
+    }
+   }
+  ]
+ },
+ {
+  "client": "elite-kitchen",
+  "period": {
+   "en": "1 – 28 Jul 2026",
+   "ar": "1 – 28 يوليو 2026"
+  },
+  "platform": "Meta Ads",
+  "note": {
+   "en": "Instagram reach and views fell after an exceptional June; link clicks held steady.",
+   "ar": "تراجع وصول ومشاهدات إنستجرام بعد شهر يونيو الاستثنائي، وبقيت نقرات الروابط مستقرة."
+  },
+  "metrics": [
+   {
+    "v": "143",
+    "l": {
+     "en": "WhatsApp conversations (one campaign)",
+     "ar": "محادثات واتساب (حملة واحدة)"
+    },
+    "c": "$37.94"
+   },
+   {
+    "v": "132",
+    "l": {
+     "en": "Conversations (another campaign)",
+     "ar": "محادثات (حملة أخرى)"
+    },
+    "c": "$55.66"
+   },
+   {
+    "v": "$192.76",
+    "l": {
+     "en": "Total spend of $400 budget",
+     "ar": "إجمالي الإنفاق من ميزانية 400$"
+    },
+    "c": ""
+   },
+   {
+    "v": "559",
+    "l": {
+     "en": "Instagram link clicks",
+     "ar": "نقرات روابط إنستجرام"
+    },
+    "c": "-0.9%"
+   }
+  ],
+  "shots": [
+   {
+    "src": "/images/reports/elite-kitchen-instagram.webp",
+    "alt": {
+     "en": "Instagram insights, July 2026",
+     "ar": "إحصاءات إنستجرام، يوليو 2026"
+    }
+   },
+   {
+    "src": "/images/reports/elite-kitchen-campaigns.webp",
+    "alt": {
+     "en": "Campaign table, July 2026",
+     "ar": "جدول الحملات، يوليو 2026"
+    }
+   }
+  ]
+ }
+]

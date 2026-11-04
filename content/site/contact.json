@@ -1,0 +1,110 @@
+{
+ "contact": {
+  "title": {
+   "en": "Contact",
+   "ar": "تواصل معي"
+  },
+  "description": {
+   "en": "Get in touch with Karma Shawky about growth strategy, performance marketing or a consultation.",
+   "ar": "تواصل مع كارما شوقي بشأن استراتيجية النمو أو التسويق بالأداء أو حجز استشارة."
+  },
+  "lead": {
+   "en": "Tell me about your business.",
+   "ar": "حدّثني عن عملك."
+  },
+  "sub": {
+   "en": "A few lines are enough. I reply with the next step, not a sales script.",
+   "ar": "بضعة أسطر تكفي. أرد عليك بالخطوة التالية، لا بنص مبيعات."
+  },
+  "name": {
+   "en": "Your name",
+   "ar": "الاسم"
+  },
+  "email": {
+   "en": "Email",
+   "ar": "البريد الإلكتروني"
+  },
+  "business": {
+   "en": "Business / website",
+   "ar": "النشاط أو الموقع"
+  },
+  "message": {
+   "en": "What do you want to fix or grow?",
+   "ar": "ما الذي تريد إصلاحه أو تنميته؟"
+  },
+  "send": {
+   "en": "Send message",
+   "ar": "إرسال الرسالة"
+  },
+  "unconfigured": {
+   "en": "The contact form is not connected yet.",
+   "ar": "نموذج التواصل غير مفعّل بعد."
+  },
+  "photoAlt": {
+   "en": "Karma Shawky",
+   "ar": "كارما شوقي"
+  }
+ },
+ "book": {
+  "title": {
+   "en": "Book a Consultation",
+   "ar": "احجز استشارة"
+  },
+  "description": {
+   "en": "Book a one-hour growth and marketing consultation with Karma Shawky.",
+   "ar": "احجز جلسة استشارية لمدة ساعة في النمو والتسويق مع كارما شوقي."
+  },
+  "lead": {
+   "en": "One hour. One problem. A clear next step.",
+   "ar": "ساعة واحدة. مشكلة واحدة. خطوة تالية واضحة."
+  },
+  "bring": {
+   "en": "What we can cover",
+   "ar": "ما يمكن أن نغطيه"
+  },
+  "bringItems": {
+   "en": [
+    "Review of your current ads and funnel",
+    "A growth plan for the next 90 days",
+    "A second opinion before you spend more",
+    "Choosing channels, offers and priorities"
+   ],
+   "ar": [
+    "مراجعة إعلاناتك ومسار التحويل الحالي",
+    "خطة نمو للأيام التسعين القادمة",
+    "رأي ثانٍ قبل أن تنفق أكثر",
+    "اختيار القنوات والعروض والأولويات"
+   ]
+  },
+  "how": {
+   "en": "How it works",
+   "ar": "كيف تتم"
+  },
+  "steps": {
+   "en": [
+    "Send a short brief",
+    "We agree on a time",
+    "We meet for one hour",
+    "You get written next steps"
+   ],
+   "ar": [
+    "أرسل نبذة قصيرة",
+    "نتفق على الموعد",
+    "نلتقي لمدة ساعة",
+    "تصلك خطوات مكتوبة"
+   ]
+  },
+  "btnContact": {
+   "en": "Request a session",
+   "ar": "اطلب جلسة"
+  },
+  "btnCalendar": {
+   "en": "Pick a time",
+   "ar": "اختر موعداً"
+  },
+  "btnPaid": {
+   "en": "Book and pay",
+   "ar": "احجز وادفع"
+  }
+ }
+}

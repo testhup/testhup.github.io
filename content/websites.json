@@ -1,0 +1,162 @@
+[
+ {
+  "name": {
+   "en": "Veralex Business Solutions",
+   "ar": "فيرالكس لحلول الأعمال"
+  },
+  "url": "https://veralexgroup.com/",
+  "desc": {
+   "en": "Company formation, licensing and government procedures in Saudi Arabia. Arabic site with a consultation request flow.",
+   "ar": "تأسيس الشركات والتراخيص والإجراءات الحكومية في السعودية. موقع عربي بمسار طلب استشارة."
+  },
+  "market": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "/images/clients/veralex.webp"
+ },
+ {
+  "name": {
+   "en": "Veralex Amazon",
+   "ar": "فيرالكس أمازون"
+  },
+  "url": "https://veralexamazon.com/",
+  "desc": {
+   "en": "Done-for-you Amazon FBA service: product research to launch and management. Arabic and English.",
+   "ar": "خدمة أمازون FBA متكاملة: من دراسة المنتج حتى الإطلاق والإدارة. بالعربية والإنجليزية."
+  },
+  "market": {
+   "en": "Global",
+   "ar": "عالمي"
+  },
+  "logo": "/images/clients/veralex.webp"
+ },
+ {
+  "name": {
+   "en": "Veralex Digital Solutions",
+   "ar": "فيرالكس للحلول الرقمية"
+  },
+  "url": "https://veralexdigital.com/",
+  "desc": {
+   "en": "A growth system combining digital marketing and Amazon solutions for businesses in Saudi Arabia.",
+   "ar": "منظومة نمو تجمع التسويق الرقمي وحلول أمازون للشركات في السعودية."
+  },
+  "market": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "/images/clients/veralex.webp"
+ },
+ {
+  "name": {
+   "en": "Nuqtat Alba Building Maintenance",
+   "ar": "نقطة الباء لصيانة المباني"
+  },
+  "url": "https://www.nuqtatalba.com/ar/",
+  "desc": {
+   "en": "Contracting, finishing and maintenance company in Dubai. Bilingual site with a WhatsApp quote flow.",
+   "ar": "شركة مقاولات وتشطيبات وصيانة في دبي. موقع ثنائي اللغة بطلب عرض سعر عبر واتساب."
+  },
+  "market": {
+   "en": "UAE",
+   "ar": "الإمارات"
+  },
+  "logo": ""
+ },
+ {
+  "name": {
+   "en": "Queens Medical Center",
+   "ar": "كوينز الطبي"
+  },
+  "url": "https://queensmedicalcenter.ae/",
+  "desc": {
+   "en": "Website for a medical center in the UAE.",
+   "ar": "موقع لمركز طبي في الإمارات."
+  },
+  "market": {
+   "en": "UAE",
+   "ar": "الإمارات"
+  },
+  "logo": ""
+ },
+ {
+  "name": {
+   "en": "Arya Clinic",
+   "ar": "عيادة آريا"
+  },
+  "url": "https://aryaclinic.ae/",
+  "desc": {
+   "en": "Website for a clinic in the UAE.",
+   "ar": "موقع لعيادة في الإمارات."
+  },
+  "market": {
+   "en": "UAE",
+   "ar": "الإمارات"
+  },
+  "logo": ""
+ },
+ {
+  "name": {
+   "en": "Module",
+   "ar": "موديول"
+  },
+  "url": "https://www.module-eg.com/",
+  "desc": {
+   "en": "Website for an interior design company in Egypt.",
+   "ar": "موقع لشركة تصميم داخلي في مصر."
+  },
+  "market": {
+   "en": "Egypt",
+   "ar": "مصر"
+  },
+  "logo": "/images/clients/module.webp"
+ },
+ {
+  "name": {
+   "en": "AS Design Studio",
+   "ar": "إيه إس ديزاين ستوديو"
+  },
+  "url": "https://asdesign-studio.com/",
+  "desc": {
+   "en": "Website for a design studio.",
+   "ar": "موقع لاستوديو تصميم."
+  },
+  "market": {
+   "en": "",
+   "ar": ""
+  },
+  "logo": ""
+ },
+ {
+  "name": {
+   "en": "The Cosmesis",
+   "ar": "ذا كوزميسيس"
+  },
+  "url": "https://www.thecosmesis.com/",
+  "desc": {
+   "en": "Website project.",
+   "ar": "مشروع موقع إلكتروني."
+  },
+  "market": {
+   "en": "",
+   "ar": ""
+  },
+  "logo": ""
+ },
+ {
+  "name": {
+   "en": "Wessam Wahdan",
+   "ar": "وسام وحدان"
+  },
+  "url": "https://wessamwahdan.com/",
+  "desc": {
+   "en": "Personal website.",
+   "ar": "موقع شخصي."
+  },
+  "market": {
+   "en": "",
+   "ar": ""
+  },
+  "logo": ""
+ }
+]

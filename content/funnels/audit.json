@@ -1,0 +1,189 @@
+{
+ "slug": "audit",
+ "title": {
+  "en": "Marketing Audit: an independent review of your ads, funnel and reporting",
+  "ar": "مراجعة تسويقية: رأي مستقل في إعلاناتك ومسار التحويل وتقاريرك"
+ },
+ "description": {
+  "en": "Request a marketing audit from Karma Shawky: a review of your ads, funnel, tracking and reporting, with findings ranked by business impact.",
+  "ar": "اطلب مراجعة تسويقية من كارما شوقي: فحص لإعلاناتك ومسار التحويل والتتبّع والتقارير، مع نتائج مرتبة حسب أثرها على العمل."
+ },
+ "eyebrow": {
+  "en": "Marketing audit",
+  "ar": "مراجعة تسويقية"
+ },
+ "h1": {
+  "en": "Find out what your marketing is really doing for the business",
+  "ar": "اكتشف ما يفعله تسويقك فعلاً لعملك"
+ },
+ "lead": {
+  "en": "A structured review of your marketing, with findings ranked by business impact and a clear list of what to fix first.",
+  "ar": "فحص منظّم لتسويقك، بنتائج مرتبة حسب أثرها على العمل وقائمة واضحة بما يجب إصلاحه أولاً."
+ },
+ "reviewTitle": {
+  "en": "What I review",
+  "ar": "ما الذي أراجعه"
+ },
+ "review": [
+  {
+   "t": {
+    "en": "Ad accounts",
+    "ar": "الحسابات الإعلانية"
+   },
+   "d": {
+    "en": "Structure, audiences, creative and how the budget is split.",
+    "ar": "الهيكلة والجماهير والمواد الإبداعية وتوزيع الميزانية."
+   }
+  },
+  {
+   "t": {
+    "en": "Landing pages and forms",
+    "ar": "صفحات الهبوط والنماذج"
+   },
+   "d": {
+    "en": "Clarity, speed and the path to a booking or a sale.",
+    "ar": "الوضوح والسرعة والمسار نحو الحجز أو البيع."
+   }
+  },
+  {
+   "t": {
+    "en": "Tracking and reporting",
+    "ar": "التتبّع والتقارير"
+   },
+   "d": {
+    "en": "Whether the numbers can be trusted, and whether they lead to decisions.",
+    "ar": "هل يمكن الوثوق بالأرقام، وهل تقود إلى قرارات."
+   }
+  },
+  {
+   "t": {
+    "en": "Lead handling",
+    "ar": "إدارة العملاء المحتملين"
+   },
+   "d": {
+    "en": "Response speed, follow-up and lead quality.",
+    "ar": "سرعة الرد والمتابعة وجودة العملاء المحتملين."
+   }
+  },
+  {
+   "t": {
+    "en": "Budget and goals",
+    "ar": "الميزانية والأهداف"
+   },
+   "d": {
+    "en": "Where the money goes, against what the business needs.",
+    "ar": "أين يذهب المال، مقارنة بما يحتاجه العمل."
+   }
+  }
+ ],
+ "getTitle": {
+  "en": "What you receive",
+  "ar": "ما تحصل عليه"
+ },
+ "get": {
+  "en": [
+   "Written findings ranked by business impact",
+   "Quick wins separated from structural fixes",
+   "A prioritised action plan",
+   "A review call to walk through it"
+  ],
+  "ar": [
+   "نتائج مكتوبة مرتبة حسب أثرها على العمل",
+   "مكاسب سريعة منفصلة عن الإصلاحات الهيكلية",
+   "خطة إجراءات مرتبة بالأولويات",
+   "مكالمة مراجعة لشرح النتائج"
+  ]
+ },
+ "needTitle": {
+  "en": "What I need from you",
+  "ar": "ما أحتاجه منك"
+ },
+ "need": {
+  "en": [
+   "Read-only access or exports from your ad accounts and analytics",
+   "Your goals and, if possible, sales or lead-quality numbers",
+   "A person who can answer questions about the business"
+  ],
+  "ar": [
+   "صلاحية اطلاع فقط أو ملفات تصدير من حساباتك الإعلانية وأدوات التحليل",
+   "أهدافك، وإن أمكن أرقام المبيعات أو جودة العملاء المحتملين",
+   "شخص يستطيع الإجابة عن أسئلة تخص العمل"
+  ]
+ },
+ "note": {
+  "en": "Scope and fee are confirmed in writing before the audit starts.",
+  "ar": "يُؤكَّد النطاق والأتعاب كتابةً قبل بدء المراجعة."
+ },
+ "processTitle": {
+  "en": "How it works",
+  "ar": "كيف تسير الأمور"
+ },
+ "process": {
+  "en": [
+   "Send the request",
+   "I confirm scope and fee in writing",
+   "You share access or exports",
+   "I deliver the findings and walk you through them"
+  ],
+  "ar": [
+   "أرسل الطلب",
+   "أؤكد النطاق والأتعاب كتابةً",
+   "تشاركني صلاحية الوصول أو ملفات التصدير",
+   "أسلّم النتائج وأشرحها لك"
+  ]
+ },
+ "faqTitle": {
+  "en": "Questions",
+  "ar": "أسئلة شائعة"
+ },
+ "faq": [
+  {
+   "q": {
+    "en": "Is the audit paid?",
+    "ar": "هل المراجعة مدفوعة؟"
+   },
+   "a": {
+    "en": "Yes. It is a paid consulting service. I confirm the fee in writing after your request and before any work starts.",
+    "ar": "نعم، هي خدمة استشارية مدفوعة. أؤكد الأتعاب كتابةً بعد طلبك وقبل بدء أي عمل."
+   }
+  },
+  {
+   "q": {
+    "en": "Will you change anything in my ad accounts?",
+    "ar": "هل ستعدّلين شيئاً في حساباتي الإعلانية؟"
+   },
+   "a": {
+    "en": "No. An audit is read-only. If you want me to implement the changes, we agree that separately.",
+    "ar": "لا. المراجعة للاطلاع فقط. وإذا أردت أن أنفّذ التعديلات فنتفق على ذلك بشكل منفصل."
+   }
+  },
+  {
+   "q": {
+    "en": "How long does it take?",
+    "ar": "كم تستغرق؟"
+   },
+   "a": {
+    "en": "It depends on the size of your accounts. I confirm timing when I confirm scope.",
+    "ar": "يعتمد ذلك على حجم حساباتك. أؤكد المدة عند تأكيد النطاق."
+   }
+  },
+  {
+   "q": {
+    "en": "Do you guarantee results?",
+    "ar": "هل تضمنين النتائج؟"
+   },
+   "a": {
+    "en": "No. I give findings and recommendations based on your data, and I am clear about what the data can and cannot tell us.",
+    "ar": "لا. أقدّم نتائج وتوصيات مبنية على بياناتك، وأوضح ما تقوله البيانات وما لا تستطيع قوله."
+   }
+  }
+ ],
+ "formTitle": {
+  "en": "Request a marketing audit",
+  "ar": "اطلب مراجعة تسويقية"
+ },
+ "formLead": {
+  "en": "Tell me about your business and where you advertise. I reply with scope, fee and what I need from you.",
+  "ar": "حدّثني عن عملك وأين تعلن. أرد عليك بالنطاق والأتعاب وما أحتاجه منك."
+ }
+}

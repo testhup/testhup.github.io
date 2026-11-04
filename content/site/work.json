@@ -1,0 +1,342 @@
+{
+ "work": {
+  "title": {
+   "en": "Case Studies",
+   "ar": "دراسات الحالة"
+  },
+  "description": {
+   "en": "Marketing case studies: healthcare lead quality, education enrollment funnels and acquisition strategy.",
+   "ar": "دراسات حالة تسويقية: جودة العملاء المحتملين في الرعاية الصحية، ومسارات التسجيل في التعليم، واستراتيجية اكتساب العملاء."
+  },
+  "lead": {
+   "en": "Consulting case studies: the business problem, how I thought about it, and what the reports show.",
+   "ar": "دراسات حالة استشارية: مشكلة العمل، وكيف فكّرت فيها، وماذا تُظهر التقارير."
+  },
+  "featured": {
+   "en": "Case studies with reports",
+   "ar": "دراسات حالة موثقة بتقارير"
+  },
+  "highlights": {
+   "en": "Project highlights",
+   "ar": "لمحات من المشاريع"
+  },
+  "clients": {
+   "en": "Selected clients",
+   "ar": "عملاء مختارون"
+  },
+  "readCase": {
+   "en": "Read the case study",
+   "ar": "اقرأ دراسة الحالة"
+  },
+  "notice": {
+   "en": "These case studies describe the problem, the strategy and the way I structure the work. They are not performance reports, and no results figures are published here.",
+   "ar": "تعرض دراسات الحالة هذه المشكلة والاستراتيجية وطريقة تنظيمي للعمل. وهي ليست تقارير أداء، ولا تُنشر فيها أي أرقام نتائج."
+  },
+  "illustrative": {
+   "en": "Illustrative diagram, not a historical screenshot",
+   "ar": "رسم توضيحي، وليس لقطة شاشة تاريخية"
+  },
+  "sections": {
+   "overview": {
+    "en": "Client overview",
+    "ar": "نبذة عن العميل"
+   },
+   "industry": {
+    "en": "Industry",
+    "ar": "المجال"
+   },
+   "challenge": {
+    "en": "Business challenge",
+    "ar": "التحدي التجاري"
+   },
+   "problem": {
+    "en": "Marketing problem",
+    "ar": "المشكلة التسويقية"
+   },
+   "approach": {
+    "en": "Strategic approach",
+    "ar": "المنهج الاستراتيجي"
+   },
+   "strategy": {
+    "en": "Marketing strategy",
+    "ar": "الاستراتيجية التسويقية"
+   },
+   "execution": {
+    "en": "Execution plan",
+    "ar": "خطة التنفيذ"
+   },
+   "campaign": {
+    "en": "Campaign structure",
+    "ar": "هيكل الحملات"
+   },
+   "creative": {
+    "en": "Creative direction",
+    "ar": "التوجّه الإبداعي"
+   },
+   "solution": {
+    "en": "Solution",
+    "ar": "الحل"
+   },
+   "impact": {
+    "en": "Business impact",
+    "ar": "الأثر على العمل"
+   },
+   "learnings": {
+    "en": "Key business insights",
+    "ar": "أهم الخلاصات للأعمال"
+   }
+  },
+  "role": {
+   "en": "My role",
+   "ar": "دوري"
+  },
+  "services": {
+   "en": "Services",
+   "ar": "الخدمات"
+  },
+  "next": {
+   "en": "More case studies",
+   "ar": "دراسات حالة أخرى"
+  },
+  "back": {
+   "en": "All case studies",
+   "ar": "كل دراسات الحالة"
+  },
+  "market": {
+   "en": "Market",
+   "ar": "السوق"
+  },
+  "gallery": {
+   "title": {
+    "en": "From the ad accounts",
+    "ar": "من حسابات الإعلانات"
+   },
+   "note": {
+    "en": "Real ad-manager and analytics screenshots from past campaigns, shown as captured. They illustrate how I report; they are not claims about any single client.",
+    "ar": "لقطات حقيقية من مدير الإعلانات وأدوات التحليل لحملات سابقة، كما التُقطت. وهي توضّح طريقتي في التقارير، وليست ادعاءً بشأن عميل بعينه."
+   },
+   "alts": [
+    {
+     "en": "Ad manager results table",
+     "ar": "جدول نتائج من مدير الإعلانات"
+    },
+    {
+     "en": "Ad sets and ROAS table",
+     "ar": "جدول المجموعات الإعلانية وعائد الإنفاق"
+    },
+    {
+     "en": "Mobile campaign results",
+     "ar": "نتائج الحملات على الهاتف"
+    },
+    {
+     "en": "Spend and reach chart",
+     "ar": "رسم بياني للإنفاق والوصول"
+    }
+   ]
+  },
+  "conceptsTitle": {
+   "en": "Strategy concepts",
+   "ar": "تصورات استراتيجية"
+  },
+  "conceptsNote": {
+   "en": "Written from how I would structure the project. They have no performance report behind them, so no results are shown.",
+   "ar": "مكتوبة بحسب كيف أنظّم المشروع. لا يوجد خلفها تقرير أداء، لذلك لا تُعرض نتائج."
+  },
+  "resultsNotice": {
+   "en": "Figures on this page come from the monthly performance reports for the period shown. Percent changes are against the previous period of the same length.",
+   "ar": "الأرقام في هذه الصفحة مأخوذة من تقارير الأداء الشهرية للفترة المذكورة. وتُحسب نسب التغيّر مقارنة بالفترة السابقة لها بالمدة نفسها."
+  },
+  "resultsTitle": {
+   "en": "Results",
+   "ar": "النتائج"
+  },
+  "period": {
+   "en": "Period",
+   "ar": "الفترة"
+  },
+  "source": {
+   "en": "Source",
+   "ar": "المصدر"
+  },
+  "snapshotsTitle": {
+   "en": "Results from monthly reports",
+   "ar": "نتائج من التقارير الشهرية"
+  },
+  "snapshotsNote": {
+   "en": "Selected figures from reports I wrote for client accounts. Each card shows its period; changes are versus the previous period.",
+   "ar": "أرقام مختارة من تقارير أعددتها لحسابات عملاء. تعرض كل بطاقة فترتها، والتغيّرات مقارنة بالفترة السابقة."
+  },
+  "sitesTitle": {
+   "en": "Websites I built",
+   "ar": "مواقع نفّذتها"
+  },
+  "sitesNote": {
+   "en": "Live sites I planned and built.",
+   "ar": "مواقع منشورة خططت لها ونفذتها."
+  },
+  "visit": {
+   "en": "Visit site",
+   "ar": "زيارة الموقع"
+  },
+  "sub": {
+   "cases": {
+    "en": "Case studies",
+    "ar": "دراسات الحالة"
+   },
+   "websites": {
+    "en": "Websites & Digital Projects",
+    "ar": "المواقع والمشاريع الرقمية"
+   },
+   "ads": {
+    "en": "Ad screenshots",
+    "ar": "لقطات الإعلانات"
+   },
+   "clients": {
+    "en": "Clients",
+    "ar": "العملاء"
+   },
+   "references": {
+    "en": "References",
+    "ar": "آراء العملاء"
+   }
+  },
+  "pages": {
+   "websites": {
+    "title": {
+     "en": "Websites & Digital Projects",
+     "ar": "المواقع والمشاريع الرقمية"
+    },
+    "description": {
+     "en": "Websites planned and built by Karma Shawky for clients in Saudi Arabia, the UAE and Egypt.",
+     "ar": "مواقع خططت لها ونفذتها كارما شوقي لعملاء في السعودية والإمارات ومصر."
+    }
+   },
+   "ads": {
+    "title": {
+     "en": "Ad screenshots",
+     "ar": "لقطات الإعلانات"
+    },
+    "description": {
+     "en": "Real ads manager and analytics screenshots from past campaigns.",
+     "ar": "لقطات حقيقية من مدير الإعلانات وأدوات التحليل لحملات سابقة."
+    }
+   },
+   "clients": {
+    "title": {
+     "en": "Clients & brands",
+     "ar": "العملاء والعلامات"
+    },
+    "description": {
+     "en": "Brands and clients Karma Shawky has worked with in Egypt, the UAE, Saudi Arabia and Jordan.",
+     "ar": "علامات وعملاء عملت معهم كارما شوقي في مصر والإمارات والسعودية والأردن."
+    }
+   },
+   "references": {
+    "title": {
+     "en": "References",
+     "ar": "آراء العملاء"
+    },
+    "description": {
+     "en": "What clients say about working with Karma Shawky.",
+     "ar": "ماذا يقول العملاء عن العمل مع كارما شوقي."
+    }
+   }
+  },
+  "viewAll": {
+   "en": "View all",
+   "ar": "عرض الكل"
+  },
+  "channels": {
+   "en": "Channels",
+   "ar": "القنوات"
+  },
+  "myRole": {
+   "en": "My role",
+   "ar": "دوري"
+  },
+  "sections7": {
+   "context": {
+    "en": "Business context",
+    "ar": "سياق العمل"
+   },
+   "challenge": {
+    "en": "The challenge",
+    "ar": "التحدي"
+   },
+   "thinking": {
+    "en": "Strategic thinking",
+    "ar": "التفكير الاستراتيجي"
+   },
+   "role": {
+    "en": "My role",
+    "ar": "دوري"
+   },
+   "execution": {
+    "en": "Execution",
+    "ar": "التنفيذ"
+   },
+   "impact": {
+    "en": "Business impact",
+    "ar": "الأثر على العمل"
+   },
+   "impactConcept": {
+    "en": "What this approach is designed to change",
+    "ar": "ما صُمم هذا المنهج ليغيّره"
+   },
+   "lessons": {
+    "en": "Lessons & insights",
+    "ar": "الدروس والخلاصات"
+   }
+  },
+  "conceptBanner": {
+   "en": "Strategic concept. No performance report is attached to this project, so no results are shown. It describes how I would structure the work.",
+   "ar": "تصوّر استراتيجي. لا يوجد تقرير أداء مرفق بهذا المشروع، لذلك لا تُعرض نتائج. وهو يوضّح كيف أنظّم العمل."
+  },
+  "facts": {
+   "client": {
+    "en": "Sector",
+    "ar": "القطاع"
+   },
+   "market": {
+    "en": "Market",
+    "ar": "السوق"
+   },
+   "period": {
+    "en": "Reporting period",
+    "ar": "فترة التقرير"
+   },
+   "channels": {
+    "en": "Channels",
+    "ar": "القنوات"
+   },
+   "source": {
+    "en": "Source",
+    "ar": "المصدر"
+   }
+  },
+  "campaignH": {
+   "en": "Campaign structure",
+   "ar": "هيكل الحملات"
+  },
+  "creativeH": {
+   "en": "Creative direction",
+   "ar": "التوجّه الإبداعي"
+  },
+  "screens": {
+   "en": "From the reports",
+   "ar": "من التقارير"
+  },
+  "reportsTitle": {
+   "en": "Screenshots from client reports",
+   "ar": "لقطات من تقارير العملاء"
+  },
+  "reportsNote": {
+   "en": "Real screenshots from the monthly reports, with the period shown.",
+   "ar": "لقطات حقيقية من التقارير الشهرية مع بيان الفترة."
+  },
+  "shotsOpen": {
+   "en": "Open full size",
+   "ar": "عرض بالحجم الكامل"
+  }
+ }
+}

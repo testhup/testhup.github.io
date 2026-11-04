@@ -1,0 +1,15 @@
+{
+ "slug": "report-12",
+ "order": 111,
+ "group": "reports",
+ "image": "/images/reports/hudhud-campaigns.webp",
+ "platform": "Meta Ads",
+ "alt": {
+  "en": "Campaign table, July 2026",
+  "ar": "جدول الحملات، يوليو 2026"
+ },
+ "caption": {
+  "en": "Hudhud Design & Decor: Campaign table, July 2026",
+  "ar": "الهدهد للديكور: جدول الحملات، يوليو 2026"
+ }
+}
