@@ -550,6 +550,65 @@ content:
       - name: ar
         label: العربية
         type: string
+  - name: brief
+    label: Brief
+    type: object
+    fields:
+    - name: ch
+      label: Ch
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
+    - name: did
+      label: Did
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
+    - name: res
+      label: Res
+      type: object
+      list: true
+      fields:
+      - name: v
+        label: V
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: l
+        label: L
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+    - name: take
+      label: Take
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
   description: Fill "slug" first (English, no spaces). "clientId" must match an id in Clients.
 - name: site_home
   label: 🏠 Home page text
@@ -676,8 +735,8 @@ content:
       type: object
       list: true
       fields:
-      - name: icon
-        label: Icon
+      - name: ik
+        label: Ik
         type: string
       - name: href
         label: Href
@@ -1078,6 +1137,19 @@ content:
         - name: ar
           label: العربية
           type: text
+      - name: href
+        label: Href
+        type: string
+      - name: cta
+        label: Cta
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
     - name: pillarsTitle
       label: Pillars Title
       type: object
@@ -1125,6 +1197,166 @@ content:
           type: string
     - name: insightsTitle
       label: Insights Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: heroDesc
+      label: Hero Desc
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
+    - name: heroCtaPrimary
+      label: Hero Cta Primary
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: heroCtaSecondary
+      label: Hero Cta Secondary
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: heroStrip
+      label: Hero Strip
+      type: object
+      list: true
+      fields:
+      - name: icon
+        label: Icon
+        type: string
+      - name: t
+        label: T
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+    - name: stats
+      label: Stats
+      type: object
+      list: true
+      fields:
+      - name: icon
+        label: Icon
+        type: string
+      - name: big
+        label: Big
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: small
+        label: Small
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+    - name: heroNote
+      label: Hero Note
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: casesTitle
+      label: Cases Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: casesLead
+      label: Cases Lead
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
+    - name: caseLabels
+      label: Case Labels
+      type: object
+      fields:
+      - name: problem
+        label: Problem
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: did
+        label: Did
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: result
+        label: Result
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: read
+        label: Read
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+    - name: readMore
+      label: Read More
       type: object
       fields:
       - name: en
@@ -1404,6 +1636,16 @@ content:
         - name: ar
           label: العربية
           type: string
+      - name: for
+        label: For
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
     - name: capsTitle
       label: Caps Title
       type: object
@@ -1436,6 +1678,16 @@ content:
         label: العربية (بند لكل إدخال)
         type: string
         list: true
+    - name: forLabel
+      label: For Label
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
 - name: site_work
   label: 📁 Work & case-study labels
   type: file
