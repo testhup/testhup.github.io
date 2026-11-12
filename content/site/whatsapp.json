@@ -1,0 +1,38 @@
+{
+ "whatsapp": {
+  "cta": {
+   "en": "Message me on WhatsApp",
+   "ar": "راسلني على واتساب"
+  },
+  "hint": {
+   "consulting": {
+    "en": "A ready message opens in WhatsApp. Tell me what you need and I reply with the format and the fee.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. أخبرني بما تحتاجه وأرد عليك بالصيغة والأتعاب."
+   },
+   "management": {
+    "en": "A ready message opens in WhatsApp. Tell me about your business and I reply with the next step.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. حدّثني عن عملك وأرد عليك بالخطوة التالية."
+   },
+   "audit": {
+    "en": "A ready message opens in WhatsApp. Send your website and where you advertise, and I reply with scope and fee.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. أرسل موقعك وأين تعلن، وأرد عليك بالنطاق والأتعاب."
+   },
+   "proposal": {
+    "en": "A ready message opens in WhatsApp. Tell me what you want to achieve and I reply with the next step.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. أخبرني بما تريد تحقيقه وأرد عليك بالخطوة التالية."
+   },
+   "consultation": {
+    "en": "A ready message opens in WhatsApp. Tell me the decision you face and when you are free.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. أخبرني بالقرار الذي تواجهه ومتى تكون متاحاً."
+   },
+   "general": {
+    "en": "A ready message opens in WhatsApp. Write your message and I reply as soon as I can.",
+    "ar": "تُفتح رسالة جاهزة في واتساب. اكتب رسالتك وأرد عليك في أقرب وقت."
+   }
+  },
+  "missing": {
+   "en": "WhatsApp is not connected yet. Please contact me by email.",
+   "ar": "واتساب غير مفعّل بعد. يرجى التواصل معي عبر البريد الإلكتروني."
+  }
+ }
+}

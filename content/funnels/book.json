@@ -1,24 +1,24 @@
 {
  "slug": "book",
  "title": {
-  "en": "Book a Consultation: one hour on one business decision",
-  "ar": "احجز استشارة: ساعة واحدة لقرار واحد يخص عملك"
+  "en": "Book a Free Consultation: tell me about your business",
+  "ar": "احجز استشارة مجانية: حدّثني عن عملك"
  },
  "description": {
-  "en": "Book a one-hour marketing consultation with Karma Shawky on a specific business decision: a budget, a channel, an offer, a hire or a plan.",
-  "ar": "احجز استشارة تسويقية لمدة ساعة مع كارما شوقي بشأن قرار محدد يخص عملك: ميزانية أو قناة أو عرض أو توظيف أو خطة."
+  "en": "Book a free consultation with Karma Shawky: tell her about your business and the decision you face, and hear the best next step.",
+  "ar": "احجز استشارة مجانية مع كارما شوقي: حدّثها عن عملك والقرار الذي تواجهه، واعرف الخطوة التالية الأنسب."
  },
  "eyebrow": {
-  "en": "Consultation",
-  "ar": "استشارة"
+  "en": "Free consultation",
+  "ar": "استشارة مجانية"
  },
  "h1": {
-  "en": "One hour. One decision. A clear next step.",
-  "ar": "ساعة واحدة. قرار واحد. خطوة تالية واضحة."
+  "en": "A free conversation about your business and your next step",
+  "ar": "حديث مجاني عن عملك وخطوتك التالية"
  },
  "lead": {
-  "en": "A one-hour consultation for a specific decision: a budget, a channel, an offer, a hire or a plan.",
-  "ar": "استشارة لمدة ساعة بشأن قرار محدد: ميزانية أو قناة أو عرض أو توظيف أو خطة."
+  "en": "Tell me about your business and the decision you face. I tell you what I would do next, and whether you need anything more than a conversation.",
+  "ar": "حدّثني عن عملك والقرار الذي تواجهه. أخبرك بما سأفعله بعد ذلك، وهل تحتاج إلى أكثر من حديث."
  },
  "bringTitle": {
   "en": "What to bring",
@@ -26,14 +26,14 @@
  },
  "bring": {
   "en": [
-   "Your goal and the decision you face",
-   "Numbers if you have them: spend, leads, sales",
-   "Links to your website, ads or accounts"
+   "Your business and your goal",
+   "The decision or problem you face",
+   "Numbers if you have them: spend, leads, sales"
   ],
   "ar": [
-   "هدفك والقرار الذي تواجهه",
-   "أرقامك إن وُجدت: الإنفاق والعملاء المحتملون والمبيعات",
-   "روابط موقعك أو إعلاناتك أو حساباتك"
+   "عملك وهدفك",
+   "القرار أو المشكلة التي تواجهها",
+   "أرقامك إن وُجدت: الإنفاق والعملاء المحتملون والمبيعات"
   ]
  },
  "processTitle": {
@@ -42,25 +42,25 @@
  },
  "process": {
   "en": [
-   "Choose a time, or send the request below",
-   "I confirm the format and fee in writing",
-   "We meet for one hour",
-   "You receive written next steps"
+   "Message me on WhatsApp",
+   "We agree on a time",
+   "We talk about your business",
+   "I tell you the best next step, and if deeper work makes sense I propose paid consulting or monthly management"
   ],
   "ar": [
-   "اختر موعداً أو أرسل الطلب أدناه",
-   "أؤكد الصيغة والأتعاب كتابةً",
-   "نلتقي لمدة ساعة",
-   "تصلك خطوات تالية مكتوبة"
+   "راسلني على واتساب",
+   "نتفق على موعد",
+   "نتحدث عن عملك",
+   "أخبرك بالخطوة التالية الأنسب، وإن كان العمل الأعمق مناسباً أقترح استشارة مدفوعة أو إدارة شهرية"
   ]
  },
  "formTitle": {
-  "en": "Book a consultation",
-  "ar": "احجز استشارة"
+  "en": "Book a free consultation",
+  "ar": "احجز استشارة مجانية"
  },
  "formLead": {
-  "en": "Tell me what you want to discuss and when you are free. I confirm the time and the fee.",
-  "ar": "أخبرني بما تريد مناقشته ومتى تكون متاحاً. أؤكد لك الموعد والأتعاب."
+  "en": "Message me on WhatsApp with a few words about your business. I confirm the time.",
+  "ar": "راسلني على واتساب بكلمات عن عملك. أؤكد لك الموعد."
  },
  "calendar": {
   "en": "Pick a time in the calendar",

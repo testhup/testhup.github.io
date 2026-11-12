@@ -5,8 +5,8 @@
    "ar": "سياسة الخصوصية"
   },
   "description": {
-   "en": "How karmashawky.com collects and uses the information you send through its forms and analytics.",
-   "ar": "كيف يجمع موقع karmashawky.com المعلومات التي ترسلها عبر النماذج وأدوات التحليل، وكيف يستخدمها."
+   "en": "How karmashawky.com handles the information you send through WhatsApp, and its analytics.",
+   "ar": "كيف يتعامل موقع karmashawky.com مع المعلومات التي ترسلها عبر واتساب ومع أدوات التحليل."
   },
   "updated": {
    "en": "Last updated: 3 November 2026",
@@ -19,8 +19,8 @@
      "ar": "ما الذي أجمعه"
     },
     "p": {
-     "en": "When you send a form, your browser opens WhatsApp with a message that contains what you typed: name, country, your choices and your message. I also add the page you sent it from, your language and how you reached the site (for example the campaign you came from).",
-     "ar": "عند إرسال نموذج يفتح متصفحك واتساب برسالة تتضمن ما كتبته: الاسم والدولة واختياراتك ورسالتك. وأضيف إليها الصفحة التي أرسلت منها ولغتك والطريقة التي وصلت بها إلى الموقع (مثل الحملة التي جئت منها)."
+     "en": "The site has no forms. When you message me on WhatsApp, I receive what you write, together with your name and number as WhatsApp provides them. The message I prepare for you also includes the page you came from, your language and how you reached the site (for example the campaign you came from), so that I can reply properly.",
+     "ar": "لا يحتوي الموقع على نماذج. عندما تراسلني عبر واتساب أستلم ما تكتبه، مع اسمك ورقمك كما يعرضهما واتساب. وتتضمن الرسالة التي أجهّزها لك أيضاً الصفحة التي جئت منها ولغتك والطريقة التي وصلت بها إلى الموقع (مثل الحملة التي جئت منها)، لأتمكن من الرد عليك بشكل صحيح."
     }
    },
    {
@@ -49,8 +49,8 @@
      "ar": "من يمكنه الاطلاع عليها"
     },
     "p": {
-     "en": "I receive the message only if you press Send in WhatsApp. It is then handled in WhatsApp, under WhatsApp’s own terms. I do not sell your information.",
-     "ar": "أستلم الرسالة فقط إذا ضغطت إرسال في واتساب. وبعدها تُدار داخل واتساب وفق شروطه. ولا أبيع معلوماتك."
+     "en": "Me, and WhatsApp, which carries the message under its own terms. I do not sell your information.",
+     "ar": "أنا، وواتساب الذي ينقل الرسالة وفق شروطه. ولا أبيع معلوماتك."
     }
    },
    {

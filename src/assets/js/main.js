@@ -104,6 +104,7 @@
     if (a.getAttribute('data-track') === 'language_switch') { sset('ks-lang', a.getAttribute('data-lang') || ''); track('language_switch', { to: a.getAttribute('data-lang') }); }
     var href = a.getAttribute('href') || '';
     if (a.hasAttribute('data-whatsapp') || /^https:\/\/wa\.me\//.test(href)) track('whatsapp_click', { cta: cta || 'whatsapp', ref_id: REF });
+    if (a.hasAttribute('data-lead')) track('generate_lead', { lead_type: a.getAttribute('data-lead'), method: 'whatsapp', ref_id: REF, utm_source: (LAST.utm_source || FIRST.utm_source || ''), utm_medium: (LAST.utm_medium || FIRST.utm_medium || ''), utm_campaign: (LAST.utm_campaign || FIRST.utm_campaign || '') });
     if (a.hasAttribute('data-booking')) track('booking_click', { cta: cta || 'booking' });
     if (/^mailto:/.test(href)) track('contact_click', { method: 'email' });
     if (/^tel:/.test(href)) track('contact_click', { method: 'phone' });
@@ -241,6 +242,24 @@
       setTimeout(function () { location.href = KS.thanks + '?type=' + encodeURIComponent(type) + '&ref=' + encodeURIComponent(data.ref_id); }, 400);
     });
   });
+
+
+  /* ---------- scroll reveal (subtle) ---------- */
+  (function () {
+    if (!('IntersectionObserver' in w) || (w.matchMedia && w.matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
+    var sel = '.chal-item,.pillar,.case-card,.rhythm li,.tile.art-card,.cta-band .wrap>*,.about-grid>*,.pl,.cs-sec,.who div,.snap,.site-chip,.logo-strip,.sec-title';
+    var items = d.querySelectorAll('main ' + sel);
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+    var seen = new Map();
+    items.forEach(function (el) {
+      if (el.closest('.hero')) return;
+      var p = el.parentNode, n = seen.get(p) || 0; seen.set(p, n + 1);
+      el.classList.add('reveal'); el.style.setProperty('--d', Math.min(n, 5) * 0.07 + 's');
+      io.observe(el);
+    });
+  })();
 
   /* ---------- thank-you page ---------- */
   var thx = d.querySelector('[data-thanks]');
