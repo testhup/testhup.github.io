@@ -17,8 +17,8 @@
   "ar": "أخبرني بما تريد تحقيقه، وأقترح عليك كيف"
  },
  "lead": {
-  "en": "For projects that do not fit a single package: a growth partnership, a new-market launch, a marketing rebuild, or monthly management with a custom scope.",
-  "ar": "للمشاريع التي لا تناسبها صيغة واحدة جاهزة: شراكة نمو، أو دخول سوق جديدة، أو إعادة بناء التسويق، أو إدارة شهرية بنطاق مخصّص."
+  "en": "For work that does not fit a single package: a growth partnership, a new-market launch, a marketing rebuild, or monthly management with a custom scope. You receive a written proposal, not a template.",
+  "ar": "للأعمال التي لا تناسبها صيغة واحدة جاهزة: شراكة نمو، أو دخول سوق جديدة، أو إعادة بناء التسويق، أو إدارة شهرية بنطاق مخصّص. تصلك خطة مكتوبة لعملك، لا قالب جاهز."
  },
  "whenTitle": {
   "en": "Typical situations",
@@ -84,7 +84,7 @@
   {
    "q": {
     "en": "Do you guarantee results?",
-    "ar": "هل تضمنين النتائج؟"
+    "ar": "هل هناك ضمان للنتائج؟"
    },
    "a": {
     "en": "No. I propose goals and a way to measure them, and I report honestly against them.",

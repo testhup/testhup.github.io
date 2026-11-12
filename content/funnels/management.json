@@ -13,12 +13,12 @@
   "ar": "إدارة التسويق الشهرية"
  },
  "h1": {
-  "en": "A marketing lead for your business, on a monthly basis",
-  "ar": "قيادة تسويقية لعملك، بتعاقد شهري"
+  "en": "A marketing lead for your business, accountable to the numbers",
+  "ar": "قيادة تسويقية لعملك، مسؤولة أمام الأرقام"
  },
  "lead": {
-  "en": "I run your marketing as a growth system: one plan, one set of numbers, and one person accountable for how they connect.",
-  "ar": "أدير تسويقك كمنظومة نمو: خطة واحدة وأرقام واحدة ومسؤول واحد عن الربط بينها."
+  "en": "One plan, one set of numbers, and one person who connects them: strategy, performance, team and reporting, reviewed every month.",
+  "ar": "خطة واحدة وأرقام واحدة ومسؤول واحد يربط بينها: الاستراتيجية والأداء والفريق والتقارير، تُراجَع كل شهر."
  },
  "scopeTitle": {
   "en": "What monthly management covers",
@@ -206,7 +206,7 @@
   {
    "q": {
     "en": "Do you replace my team?",
-    "ar": "هل ستحلين محل فريقي؟"
+    "ar": "هل ستحل الخدمة محل فريقي؟"
    },
    "a": {
     "en": "No. I lead and coordinate your team, agency or freelancers, or build the plan they run.",
@@ -216,7 +216,7 @@
   {
    "q": {
     "en": "Do you guarantee results?",
-    "ar": "هل تضمنين النتائج؟"
+    "ar": "هل هناك ضمان للنتائج؟"
    },
    "a": {
     "en": "No. I do not promise results or lead numbers. I manage against agreed goals and report honestly on what moved the business.",

@@ -13,12 +13,12 @@
   "ar": "استشارات مدفوعة"
  },
  "h1": {
-  "en": "Paid consulting for owners who want a clear growth plan",
-  "ar": "استشارة مدفوعة تمنحك خطة نمو واضحة قبل أن تنفق أكثر"
+  "en": "Know what to do next with your marketing, before you spend more",
+  "ar": "اعرف ما يجب فعله في تسويقك قبل أن تنفق أكثر"
  },
  "lead": {
-  "en": "I review your marketing the way an owner reviews a P&L: where the money goes, what comes back, and what to fix first.",
-  "ar": "أراجع تسويقك بعين صاحب العمل: أين يذهب المال، وماذا يعود منه، وما الذي يجب إصلاحه أولاً."
+  "en": "An independent view of your marketing: where the money goes, what comes back, and what to fix first. You leave with a clear decision, not a presentation.",
+  "ar": "رأي مستقل في تسويقك: أين يذهب المال، وماذا يعود منه، وما الذي يجب إصلاحه أولاً. تخرج بقرار واضح، لا بعرض تقديمي."
  },
  "offersTitle": {
   "en": "Three ways to work together",
@@ -162,6 +162,16 @@
  "faq": [
   {
    "q": {
+    "en": "Is there a free consultation?",
+    "ar": "هل توجد استشارة مجانية؟"
+   },
+   "a": {
+    "en": "Yes. A free consultation is where we start: you tell me about your business, and I tell you the best next step. Paid consulting and monthly management come after, if they make sense.",
+    "ar": "نعم. نبدأ باستشارة مجانية: تحدّثني عن عملك وأخبرك بالخطوة التالية الأنسب. وتأتي الاستشارة المدفوعة والإدارة الشهرية بعدها إن كانت مناسبة."
+   }
+  },
+  {
+   "q": {
     "en": "How is consulting priced?",
     "ar": "كيف تُحدَّد الأتعاب؟"
    },
@@ -173,7 +183,7 @@
   {
    "q": {
     "en": "Which markets do you work in?",
-    "ar": "في أي أسواق تعملين؟"
+    "ar": "في أي أسواق تُقدَّم الخدمة؟"
    },
    "a": {
     "en": "Egypt, Saudi Arabia and the wider GCC, in Arabic and English.",
@@ -183,7 +193,7 @@
   {
    "q": {
     "en": "Do you guarantee results?",
-    "ar": "هل تضمنين النتائج؟"
+    "ar": "هل هناك ضمان للنتائج؟"
    },
    "a": {
     "en": "No. I do not promise results or lead numbers. I give recommendations based on your data and your market, and I am clear about what the data can and cannot tell us.",

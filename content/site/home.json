@@ -22,7 +22,7 @@
   },
   "highlight": {
    "en": "growth systems",
-   "ar": "منظومات نمو"
+   "ar": "نمو"
   },
   "sub": {
    "en": "Growth & Digital Marketing Consultant",
@@ -46,19 +46,19 @@
   },
   "bits": [
    {
-    "icon": "📊",
+    "ik": "chart",
     "href": "work",
     "title": {
      "en": "Case Studies",
      "ar": "دراسات الحالة"
     },
     "sub": {
-     "en": "Strategy, not just screenshots",
-     "ar": "أرقام حقيقية من تقارير فعلية"
+     "en": "Real reports, real numbers",
+     "ar": "تقارير حقيقية وأرقام حقيقية"
     }
    },
    {
-    "icon": "💡",
+    "ik": "bulb",
     "href": "insights",
     "title": {
      "en": "My Thinking",
@@ -70,7 +70,7 @@
     }
    },
    {
-    "icon": "🚀",
+    "ik": "rocket",
     "href": "services",
     "title": {
      "en": "What I Do",
@@ -82,15 +82,15 @@
     }
    },
    {
-    "icon": "☕",
+    "ik": "coffee",
     "href": "contact",
     "title": {
      "en": "Get in Touch",
      "ar": "تواصل معي"
     },
     "sub": {
-     "en": "Let's talk business",
-     "ar": "احكِ لي عن عملك"
+     "en": "Let’s talk business",
+     "ar": "لنتحدث عن عملك"
     }
    }
   ],
@@ -107,11 +107,11 @@
    "ar": "نبذة عني"
   },
   "aboutText": {
-   "en": "I am a growth and digital marketing consultant, and a marketing manager who works as a business growth partner. I have been in marketing since 2018, across performance, strategy and team leadership, for businesses in Egypt and the Gulf.",
-   "ar": "أنا مستشارة نمو وتسويق رقمي، ومديرة تسويق تعمل كشريكة نمو للأعمال. أعمل في التسويق منذ 2018 بين الأداء والاستراتيجية وقيادة الفرق، لصالح أعمال في مصر والخليج."
+   "en": "Growth consultant and marketing manager, working with businesses in Egypt and the Gulf since 2018. I start from profit, not from the ad account, and I lead the execution until the results show.",
+   "ar": "مستشارة نمو ومديرة تسويق، أعمل مع أعمال في مصر والخليج منذ 2018. أبدأ من الربح لا من حساب الإعلانات، وأقود التنفيذ حتى تظهر النتائج."
   },
   "aboutCta": {
-   "en": "Know More About Me",
+   "en": "Learn more about me",
    "ar": "اعرف المزيد عني"
   },
   "bubble": {
@@ -165,12 +165,12 @@
    }
   ],
   "ctaBandTitle": {
-   "en": "Start with a conversation about your business",
-   "ar": "ابدأ بحديث عن عملك"
+   "en": "Let’s turn your marketing into growth you can measure",
+   "ar": "لنحوّل تسويقك إلى نمو يمكن قياسه"
   },
   "ctaBandSub": {
-   "en": "Choose what fits: a consultation, a marketing audit, or a custom proposal.",
-   "ar": "اختر ما يناسبك: استشارة، أو مراجعة تسويقية، أو عرض تعاون مخصّص."
+   "en": "Start with a conversation about your business. I tell you what I would do, what is worth the spend and what is not.",
+   "ar": "ابدأ بحديث عن عملك. أخبرك بما سأفعله، وما يستحق الإنفاق، وما لا يستحق."
   },
   "ctaBandBtn": {
    "en": "Book a consultation",
@@ -307,8 +307,8 @@
    "ar": "مستشارة استراتيجية تسويق · مديرة تسويق وشريكة نمو للأعمال"
   },
   "ctaBook": {
-   "en": "Book a consultation",
-   "ar": "احجز استشارة"
+   "en": "Book a free consultation",
+   "ar": "احجز استشارة مجانية"
   },
   "ctaAudit": {
    "en": "Request a marketing audit",
@@ -331,6 +331,11 @@
     "d": {
      "en": "I connect ad spend to leads, sales and margin, so budget decisions rest on numbers that matter.",
      "ar": "أربط الإنفاق الإعلاني بالعملاء المحتملين والمبيعات والهامش، فتُبنى قرارات الميزانية على أرقام ذات معنى."
+    },
+    "href": "audit",
+    "cta": {
+     "en": "Request a marketing audit",
+     "ar": "اطلب مراجعة تسويقية"
     }
    },
    {
@@ -341,6 +346,11 @@
     "d": {
      "en": "I look at lead quality, follow-up speed and the sales conversation, not just cost per lead.",
      "ar": "أنظر في جودة العملاء المحتملين وسرعة المتابعة ومحادثة البيع، لا في تكلفة العميل المحتمل وحدها."
+    },
+    "href": "audit",
+    "cta": {
+     "en": "Request a marketing audit",
+     "ar": "اطلب مراجعة تسويقية"
     }
    },
    {
@@ -351,6 +361,11 @@
     "d": {
      "en": "I set one plan and one set of numbers, and coordinate the team, agency or freelancers behind it.",
      "ar": "أضع خطة واحدة وأرقاماً واحدة، وأنسّق الفريق أو الوكالة أو المستقلين الذين ينفّذونها."
+    },
+    "href": "marketing-management",
+    "cta": {
+     "en": "See monthly management",
+     "ar": "تعرّف على الإدارة الشهرية"
     }
    },
    {
@@ -361,6 +376,11 @@
     "d": {
      "en": "I help define the offer, the channels and the first tests for a market like Saudi Arabia or the wider GCC.",
      "ar": "أساعد في تحديد العرض والقنوات والاختبارات الأولى لسوق مثل السعودية أو دول الخليج."
+    },
+    "href": "proposal",
+    "cta": {
+     "en": "Request a custom proposal",
+     "ar": "اطلب عرض تعاون مخصّصاً"
     }
    },
    {
@@ -371,6 +391,11 @@
     "d": {
      "en": "I turn reporting into a monthly decision: what changed, why, and what to do next.",
      "ar": "أحوّل التقارير إلى قرار شهري: ما الذي تغيّر، ولماذا، وماذا نفعل بعده."
+    },
+    "href": "marketing-management",
+    "cta": {
+     "en": "See monthly management",
+     "ar": "تعرّف على الإدارة الشهرية"
     }
    },
    {
@@ -381,6 +406,11 @@
     "d": {
      "en": "I review the work, set clear goals and give you an independent view of what is working.",
      "ar": "أراجع العمل وأضع أهدافاً واضحة وأقدّم لك رأياً مستقلاً فيما ينجح."
+    },
+    "href": "consulting",
+    "cta": {
+     "en": "See paid consulting",
+     "ar": "تعرّف على الاستشارات"
     }
    }
   ],
@@ -437,6 +467,121 @@
   "insightsTitle": {
    "en": "Insights",
    "ar": "رؤى وأفكار"
+  },
+  "heroDesc": {
+   "en": "I design smart marketing strategies and a scalable structure that deliver sustainable growth and measurable results.",
+   "ar": "أصمم استراتيجيات تسويقية ذكية وبنية قابلة للتوسع تحقق نموًا مستدامًا ونتائج قابلة للقياس."
+  },
+  "heroCtaPrimary": {
+   "en": "Book a consultation",
+   "ar": "احجز استشارة"
+  },
+  "heroCtaSecondary": {
+   "en": "See the real results",
+   "ar": "شوف النتائج الحقيقية"
+  },
+  "heroStrip": [
+   {
+    "icon": "calendar",
+    "t": {
+     "en": "Experience since 2018",
+     "ar": "خبرة منذ 2018"
+    }
+   },
+   {
+    "icon": "globe",
+    "t": {
+     "en": "Egypt + Saudi Arabia + the Gulf",
+     "ar": "مصر + السعودية + الخليج"
+    }
+   },
+   {
+    "icon": "chart",
+    "t": {
+     "en": "Real, measurable results",
+     "ar": "نتائج حقيقية قابلة للقياس"
+    }
+   }
+  ],
+  "stats": [
+   {
+    "icon": "smile",
+    "big": {
+     "en": "Since 2018",
+     "ar": "منذ 2018"
+    },
+    "small": {
+     "en": "In marketing",
+     "ar": "في التسويق"
+    }
+   },
+   {
+    "icon": "rocket",
+    "big": {
+     "en": "{markets} markets",
+     "ar": "{markets} أسواق"
+    },
+    "small": {
+     "en": "Egypt · UAE · Saudi Arabia · Jordan",
+     "ar": "مصر · الإمارات · السعودية · الأردن"
+    }
+   },
+   {
+    "icon": "chart",
+    "big": {
+     "en": "{brands}+ brands",
+     "ar": "+{brands} علامة"
+    },
+    "small": {
+     "en": "In my portfolio",
+     "ar": "في أعمالي"
+    }
+   },
+   {
+    "icon": "monitor",
+    "big": {
+     "en": "{sites} websites",
+     "ar": "{sites} مواقع"
+    },
+    "small": {
+     "en": "Planned and built",
+     "ar": "خططت لها ونفذتها"
+    }
+   }
+  ],
+  "heroNote": {
+   "en": "The first consultation is free.",
+   "ar": "الاستشارة الأولى مجانية."
+  },
+  "casesTitle": {
+   "en": "Selected case studies",
+   "ar": "دراسات حالة مختارة"
+  },
+  "casesLead": {
+   "en": "Real accounts, real reports. Every number comes from the monthly reports.",
+   "ar": "حسابات حقيقية وتقارير حقيقية. كل رقم مأخوذ من التقارير الشهرية."
+  },
+  "caseLabels": {
+   "problem": {
+    "en": "The challenge",
+    "ar": "التحدي"
+   },
+   "did": {
+    "en": "What was done",
+    "ar": "ما تم تنفيذه"
+   },
+   "result": {
+    "en": "Results",
+    "ar": "النتائج"
+   },
+   "read": {
+    "en": "Read the case study",
+    "ar": "اقرأ دراسة الحالة"
+   }
+  },
+  "readMore": {
+   "en": "Read",
+   "ar": "اقرأ"
   }
  }
 }

@@ -382,5 +382,51 @@
     "ar": "ورقة مسار الحملات من ملف تقرير يوليو 2026"
    }
   }
- ]
+ ],
+ "brief": {
+  "ch": {
+   "en": "Ad spend was continuous, but the customer journey from ad to sale was not clear, and reports showed numbers that did not become decisions.",
+   "ar": "كان الإنفاق الإعلاني مستمراً، لكن رحلة العميل من الإعلان حتى إتمام البيع لم تكن واضحة، وكانت التقارير تعرض أرقاماً لا تتحول إلى قرارات."
+  },
+  "did": {
+   "en": "We connected the funnel from the first click to the confirmed sale, and built a tracking sheet that links each campaign’s spend to its actual sales.",
+   "ar": "ربطنا مسار التحويل من أول نقرة حتى البيع المؤكد، وبنينا ملف تتبّع يربط الإنفاق الإعلاني لكل حملة بمبيعاتها الفعلية."
+  },
+  "res": [
+   {
+    "v": {
+     "en": "109",
+     "ar": "109"
+    },
+    "l": {
+     "en": "Leads and conversations across four campaigns",
+     "ar": "عميل محتمل ومحادثة عبر أربع حملات"
+    }
+   },
+   {
+    "v": {
+     "en": "2",
+     "ar": "2"
+    },
+    "l": {
+     "en": "Confirmed sales, both from the sales campaign",
+     "ar": "مبيعتان مؤكدتان، من حملة المبيعات"
+    }
+   },
+   {
+    "v": {
+     "en": "EGP 10,368.77",
+     "ar": "10,368.77 جنيه"
+    },
+    "l": {
+     "en": "Total ad spend",
+     "ar": "إجمالي الإنفاق الإعلاني"
+    }
+   }
+  ],
+  "take": {
+   "en": "A clear system that shows where the budget goes and what comes back.",
+   "ar": "نظام واضح يُظهر أين تذهب الميزانية وما الذي يعود منها."
+  }
+ }
 }

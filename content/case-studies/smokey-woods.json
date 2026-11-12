@@ -366,5 +366,51 @@
     "ar": "جدول الحملات من مدير الإعلانات"
    }
   }
- ]
+ ],
+ "brief": {
+  "ch": {
+   "en": "The restaurant was on Instagram, but without a clear identity or content that builds a real connection with its audience.",
+   "ar": "المطعم موجود على إنستجرام، لكن دون هوية واضحة أو محتوى يبني ارتباطاً حقيقياً مع الجمهور."
+  },
+  "did": {
+   "en": "We built a clear brand character (“Abu Zaid”), reworked the content strategy to reflect the experience of the place, and ran paid campaigns by goal: visits and messages.",
+   "ar": "بنينا شخصية واضحة للعلامة («أبو زيد»)، وأعدنا صياغة استراتيجية المحتوى لتعكس تجربة المكان، وأطلقنا حملات مدفوعة بحسب الهدف: زيارات ورسائل."
+  },
+  "res": [
+   {
+    "v": {
+     "en": "184.8K",
+     "ar": "184.8 ألف"
+    },
+    "l": {
+     "en": "Instagram views, June 2026",
+     "ar": "مشاهدة على إنستجرام، يونيو 2026"
+    }
+   },
+   {
+    "v": {
+     "en": "65.9K",
+     "ar": "65.9 ألف"
+    },
+    "l": {
+     "en": "Instagram reach",
+     "ar": "وصول على إنستجرام"
+    }
+   },
+   {
+    "v": {
+     "en": "3.7K",
+     "ar": "3.7 ألف"
+    },
+    "l": {
+     "en": "Instagram interactions",
+     "ar": "تفاعل على إنستجرام"
+    }
+   }
+  ],
+  "take": {
+   "en": "A digital presence with a clear identity that the audience remembers and engages with.",
+   "ar": "حضور رقمي له هوية واضحة يتذكرها الجمهور ويتفاعل معها."
+  }
+ }
 }

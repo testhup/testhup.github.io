@@ -43,6 +43,10 @@
     "cta": {
      "en": "Request a custom proposal",
      "ar": "اطلب عرض تعاون مخصّصاً"
+    },
+    "for": {
+     "en": "Owners planning growth, a launch or a new market.",
+     "ar": "لأصحاب الأعمال الذين يخططون للنمو أو لإطلاق جديد أو لدخول سوق جديدة."
     }
    },
    {
@@ -73,6 +77,10 @@
     "cta": {
      "en": "See consulting",
      "ar": "تعرّف على الاستشارات"
+    },
+    "for": {
+     "en": "Businesses that spend on marketing and want an independent view first.",
+     "ar": "لأعمال تنفق على التسويق وتريد رأياً مستقلاً قبل أن تنفق أكثر."
     }
    },
    {
@@ -103,6 +111,10 @@
     "cta": {
      "en": "See monthly management",
      "ar": "تعرّف على الإدارة الشهرية"
+    },
+    "for": {
+     "en": "Businesses that want one accountable lead for their marketing.",
+     "ar": "لأعمال تريد مسؤولاً واحداً عن تسويقها."
     }
    },
    {
@@ -133,6 +145,10 @@
     "cta": {
      "en": "Request a marketing audit",
      "ar": "اطلب مراجعة تسويقية"
+    },
+    "for": {
+     "en": "Businesses whose ads bring activity but unclear returns.",
+     "ar": "لأعمال تحقق إعلاناتها نشاطاً دون عائد واضح."
     }
    }
   ],
@@ -165,6 +181,10 @@
     "الهوية والكتابة بالعربية والإنجليزية",
     "سير عمل بمساعدة الذكاء الاصطناعي"
    ]
+  },
+  "forLabel": {
+   "en": "Best for",
+   "ar": "مناسبة لـ"
   }
  }
 }

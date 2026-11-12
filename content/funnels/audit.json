@@ -17,8 +17,8 @@
   "ar": "اكتشف ما يفعله تسويقك فعلاً لعملك"
  },
  "lead": {
-  "en": "A structured review of your marketing, with findings ranked by business impact and a clear list of what to fix first.",
-  "ar": "فحص منظّم لتسويقك، بنتائج مرتبة حسب أثرها على العمل وقائمة واضحة بما يجب إصلاحه أولاً."
+  "en": "A structured review of your ads, funnel and reporting. You get findings ranked by business impact and a clear list of what to fix first.",
+  "ar": "فحص منظّم لإعلاناتك ومسار التحويل وتقاريرك. تحصل على نتائج مرتبة حسب أثرها على العمل، وقائمة واضحة بما يجب إصلاحه أولاً."
  },
  "reviewTitle": {
   "en": "What I review",
@@ -150,7 +150,7 @@
   {
    "q": {
     "en": "Will you change anything in my ad accounts?",
-    "ar": "هل ستعدّلين شيئاً في حساباتي الإعلانية؟"
+    "ar": "هل ستُعدَّل حساباتي الإعلانية؟"
    },
    "a": {
     "en": "No. An audit is read-only. If you want me to implement the changes, we agree that separately.",
@@ -170,7 +170,7 @@
   {
    "q": {
     "en": "Do you guarantee results?",
-    "ar": "هل تضمنين النتائج؟"
+    "ar": "هل هناك ضمان للنتائج؟"
    },
    "a": {
     "en": "No. I give findings and recommendations based on your data, and I am clear about what the data can and cannot tell us.",

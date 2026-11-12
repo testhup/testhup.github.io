@@ -45,6 +45,34 @@ const ico = {
   bars: '<svg class="doodle d-bars" viewBox="0 0 90 90" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 80h78"/><rect x="12" y="52" width="14" height="28" fill="#E9C34E"/><rect x="34" y="38" width="14" height="42" fill="#E9C34E"/><rect x="56" y="22" width="14" height="58" fill="#C8BBA5"/><path d="M10 40 36 24l14 8 28-22m0 0h-14m14 0v14"/></svg>',
   swirl: '<svg class="d-swirl" viewBox="0 0 170 70" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 50c30 14 50-34 24-34-22 0-10 40 38 36 34-3 64-14 92-28m0 0-18-2m18 2-10 14"/></svg>',
   plane: '<svg class="plane" viewBox="0 0 120 60" fill="none" stroke="#292820" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" aria-hidden="true"><path d="m4 28 108-22-30 48-22-16-12 14-4-18z M42 36 112 6"/></svg>',
+  cal: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M8 3v4M16 3v4M3 10h18"/></svg>',
+  heroIcons: {
+    calendar: '<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="9" width="36" height="33" rx="5"/><path d="M15 5v8M33 5v8M6 19h36"/><path d="M15 26h4M22 26h4M29 26h4M15 33h4M22 33h4M29 33h4"/></svg>',
+    globe: '<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="24" cy="24" r="18"/><ellipse cx="24" cy="24" rx="8" ry="18"/><path d="M6 24h36M9 14h30M9 34h30"/></svg>',
+    chart: '<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 42h36"/><rect x="9" y="29" width="7" height="13"/><rect x="20" y="22" width="7" height="20"/><rect x="31" y="14" width="7" height="28"/><path d="M9 20l9-8 7 4 12-10M30 6h7v7"/></svg>',
+  },
+  bitIcons: {
+    chart: '<svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="8" y="36" width="10" height="20" rx="2" fill="#C8BBA5" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><rect x="24" y="26" width="10" height="30" rx="2" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><rect x="40" y="14" width="10" height="42" rx="2" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 26l16-12 10 6 20-14m0 0h-9m9 0v9" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+    bulb: '<svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M32 8a14 14 0 0 0-8 25c2 2 3 4 3 7h10c0-3 1-5 3-7a14 14 0 0 0-8-25z" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M27 46h10M28 51h8" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M32 1v3M12 14l2 2M52 14l-2 2M5 30h3M56 30h3" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+    rocket: '<svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M32 6c8 6 12 16 10 28H22C20 22 24 12 32 6z" fill="#F4E9D6" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="32" cy="24" r="4" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 34l-8 8 4 2 4-4M42 34l8 8-4 2-4-4" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M28 38h8l-4 14z" fill="#E9C34E" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+    coffee: '<svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M12 26h34v12a12 12 0 0 1-12 12H24A12 12 0 0 1 12 38z" fill="#F4E9D6" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M46 30h4a6 6 0 0 1 0 12h-5" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 22c0-6 4-6 4-12M32 22c0-6 4-6 4-12" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 56h42" fill="none" stroke="#292820" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 32h34" fill="none" stroke="#E9C34E" stroke-width="5"/></svg>',
+  },
+  statIcons: {
+    smile: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><circle cx="24" cy="24" r="19" fill="currentColor"/><circle cx="17" cy="20" r="2.6" fill="#292820"/><circle cx="31" cy="20" r="2.6" fill="#292820"/><path d="M14 28c3 7 17 7 20 0" fill="none" stroke="#292820" stroke-width="3" stroke-linecap="round"/></svg>',
+    rocket: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><path d="M24 4c7 5 10 13 8 24H16C14 17 17 9 24 4z" fill="currentColor"/><circle cx="24" cy="18" r="3.4" fill="#292820"/><path d="M16 28l-7 7 3 1.6 3.4-3.4M32 28l7 7-3 1.6-3.4-3.4M21 31h6l-3 12z" fill="currentColor"/></svg>',
+    chart: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="6" y="28" width="8" height="14" rx="2" fill="currentColor"/><rect x="18" y="20" width="8" height="22" rx="2" fill="currentColor"/><rect x="30" y="10" width="8" height="32" rx="2" fill="currentColor"/><path d="M6 20l12-9 8 5 14-10m0 0h-8m8 0v8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+    monitor: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="5" y="7" width="38" height="25" rx="4" fill="currentColor"/><path d="M17 42h14M24 32v10" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round"/><path d="M13 22l5-5 5 4 8-8" fill="none" stroke="#292820" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  },
+  cup: '<svg class="cup" viewBox="0 0 120 160" aria-hidden="true" focusable="false"><ellipse cx="60" cy="22" rx="40" ry="9" fill="#292820"/><rect x="28" y="12" width="64" height="14" rx="6" fill="#3a382d"/><path d="M26 28h68l-9 118a8 8 0 0 1-8 7H43a8 8 0 0 1-8-7z" fill="#FBF6EA"/><path d="M30 60h60l-2 34H32z" fill="#E9C34E"/></svg>',
+  social: {
+    mail: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg>',
+    linkedin: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2.2 2.2 0 0 1 4.4 0V17M12 10v7"/></svg>',
+    instagram: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r=".6"/></svg>',
+    youtube: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="6" width="19" height="12" rx="4"/><path d="M10 9.5v5l4.5-2.5z"/></svg>',
+    link: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>',
+  },
+  spark: '<svg class="doodle d-spark" viewBox="0 0 40 40" aria-hidden="true" focusable="false" fill="none" stroke="#E9C34E" stroke-width="3.4" stroke-linecap="round"><path d="M6 10l10 4M4 24l11-2M22 4l4 10"/></svg>',
+  heart: '<svg class="doodle d-heart" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-8-5.2-8-11a4.5 4.5 0 0 1 8-2.6A4.5 4.5 0 0 1 20 10c0 5.800-8 11-8 11z" fill="#292820"/></svg>',
   logoImg: '<img src="/images/logo.png" alt="" width="44" height="44">',
 };
 
@@ -115,8 +143,8 @@ function layout(l, key, { title, desc, body, ld = [], altPath, ogType = 'website
     lang: l, px, endpoint: site.forms.endpoint || '', sheets: site.forms.sheetsWebhook || '', ga4: ga, thanks: url(l, 'thank-you'),
     wa: (site.links.whatsapp || '').replace(/\D/g, ''), booking: site.booking.mode === 'calendar' ? site.booking.bookingUrl : '',
     waText: l === 'ar'
-      ? { general: 'مرحباً كارما، أود التواصل معك بخصوص عملي.', consulting: 'مرحباً كارما، أود الاستفسار عن الاستشارات التسويقية.', management: 'مرحباً كارما، أود الاستفسار عن إدارة التسويق الشهرية.', consultation: 'مرحباً كارما، أود حجز استشارة.', audit: 'مرحباً كارما، أود طلب مراجعة تسويقية.', proposal: 'مرحباً كارما، أود طلب عرض تعاون مخصّص.' }
-      : { general: 'Hello Karma, I would like to get in touch about my business.', consulting: 'Hello Karma, I would like to ask about marketing consulting.', management: 'Hello Karma, I would like to ask about monthly marketing management.', consultation: 'Hello Karma, I would like to book a consultation.', audit: 'Hello Karma, I would like to request a marketing audit.', proposal: 'Hello Karma, I would like to request a custom proposal.' },
+      ? { general: 'مرحباً كارما، أود التواصل معك بخصوص عملي.', consulting: 'مرحباً كارما، أود الاستفسار عن الاستشارات التسويقية.', management: 'مرحباً كارما، أود الاستفسار عن إدارة التسويق الشهرية.', consultation: 'مرحباً كارما، أود حجز استشارة مجانية.', audit: 'مرحباً كارما، أود طلب مراجعة تسويقية.', proposal: 'مرحباً كارما، أود طلب عرض تعاون مخصّص.' }
+      : { general: 'Hello Karma, I would like to get in touch about my business.', consulting: 'Hello Karma, I would like to ask about marketing consulting.', management: 'Hello Karma, I would like to ask about monthly marketing management.', consultation: 'Hello Karma, I would like to book a free consultation.', audit: 'Hello Karma, I would like to request a marketing audit.', proposal: 'Hello Karma, I would like to request a custom proposal.' },
     refLabel: l === 'ar' ? 'المرجع' : 'Ref',
     typeLabels: Object.fromEntries(Object.entries(site.form.types).map(([k, v]) => [k, T(v, l)])),
     err: { required: T(site.form.errRequired, l), email: T(site.form.errEmail, l), whatsapp: T(site.form.errWhatsapp, l), consent: T(site.form.errConsent, l), network: T(site.form.errNetwork, l), unconfigured: T(site.form.errUnconfigured, l) },
@@ -135,6 +163,10 @@ function layout(l, key, { title, desc, body, ld = [], altPath, ogType = 'website
     (site.links.whatsapp ? `<a href="https://wa.me/${esc(site.links.whatsapp.replace(/\D/g, ''))}" rel="noopener" target="_blank">WhatsApp</a>` : '') +
     (site.links.email ? `<a href="mailto:${esc(site.links.email)}">Email</a>` : '');
   const resLink = resources.length ? `<a href="${url(l, 'resources')}">${esc(T(site.nav.resources, l))}</a>` : '';
+  const fl = (k, lab) => `<a href="${url(l, k)}">${esc(T(lab, l))}</a>`;
+  const footNav = [fl('about', site.nav.about), fl('work', site.nav.work), fl('services', site.nav.services), fl('insights', site.nav.insights), fl('contact', site.nav.contact)].join('') + (resources.length ? fl('resources', site.nav.resources) : '') + `<a href="${url(l, 'privacy')}">${esc(T(site.footer.privacy, l))}</a>`;
+  const sIc = (href, key, lab, ext = true) => href ? `<a class="soc" href="${esc(href)}"${ext ? ' target="_blank" rel="noopener"' : ''} aria-label="${lab}">${key === 'wa' ? WA_SVG.replace('width="40" height="40"', 'width="22" height="22"') : ico.social[key]}</a>` : '';
+  const socIcons = sIc(site.links.linkedin, 'linkedin', 'LinkedIn') + sIc(site.links.instagram, 'instagram', 'Instagram') + sIc(site.links.youtube, 'youtube', 'YouTube') + sIc(site.links.hub, 'link', 'All links') + sIc(site.links.whatsapp ? `https://wa.me/${site.links.whatsapp.replace(/\D/g, '')}` : '', 'wa', 'WhatsApp') + sIc(site.links.email ? `mailto:${site.links.email}` : '', 'mail', 'Email', false);
   const privacyLink = `<a href="${url(l, 'privacy')}">${esc(T(site.footer.privacy, l))}</a>`;
   const colLinks = Object.entries(site.collections).filter(([t]) => extra.some((p) => p.type === t)).map(([t, c]) => `<a href="${url(l, c.folder)}">${esc(T(c.title, l))}</a>`).join('') + resLink + privacyLink;
   return `<!doctype html>
@@ -162,9 +194,9 @@ ${noindex ? '<meta name="robots" content="noindex">' : ''}
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Kalam:wght@700&family=Aref+Ruqaa:wght@700&display=swap">
 <link rel="stylesheet" href="/assets/css/style.css">
-<script>try{var t=localStorage.getItem('ks-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+<script>document.documentElement.className+=' js';try{var t=localStorage.getItem('ks-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 ${gaHead}
 ${pxHead}
 <script>window.KS=${KS}</script>
@@ -176,7 +208,7 @@ ${ld.map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script
   <a class="brand" href="${url(l)}" aria-label="${esc(T(site.name, l))}">${ico.logoImg}<span>${esc(T(site.name, l))}</span></a>
   <nav class="nav" id="nav" aria-label="Main">${nav}</nav>
   <div class="tools">
-    <a class="btn sm nav-cta" href="${url(l, 'book')}" data-cta="header_book">${esc(T(site.nav.cta, l))}</a>
+    <a class="btn sm nav-cta" href="${url(l, 'book')}" data-cta="header_book">${ico.cal}<span>${esc(T(site.nav.cta, l))}</span></a>
     <a class="pill-btn" href="${altPath[other(l)]}" hreflang="${other(l)}" lang="${other(l)}" data-track="language_switch" data-lang="${other(l)}">${esc(T(site.ui.lang, l))}</a>
     <button class="icon-btn" id="theme" type="button" aria-label="${esc(T(site.ui.theme, l))}">◐</button>
     <button class="icon-btn burger" type="button" aria-expanded="false" aria-controls="nav" aria-label="${esc(T(site.ui.menu, l))}">☰</button>
@@ -185,11 +217,11 @@ ${ld.map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script
 <main id="main">
 ${body}
 </main>
-<footer class="ftr"><div class="wrap">
+<footer class="ftr"><div class="wrap ftr-in">
   <a class="brand" href="${url(l)}">${ico.logoImg}<span>${esc(T(site.name, l))}</span></a>
-  <nav aria-label="Footer">${nav}${colLinks}${soc}</nav>
-  <small>© ${new Date().getFullYear()} ${esc(T(site.name, l))}. ${esc(T(site.footer.copy, l))} ${esc(T(site.footer.built, l))}</small>
-</div></footer>
+  <nav class="ftr-nav" aria-label="Footer">${footNav}</nav>
+  <div class="ftr-soc">${socIcons}</div>
+</div><div class="wrap"><small class="ftr-copy">© ${new Date().getFullYear()} ${esc(T(site.name, l))}. ${esc(T(site.footer.copy, l))}</small></div></footer>
 ${consentBar}
 <script src="/assets/js/main.js" defer></script>
 </body>
@@ -236,55 +268,35 @@ function caseCard(c, l) {
   ${kp ? `<div class="mini-kpis">${kp}</div>` : `<p>${esc(T(c.summary, l))}</p>`}
   <span class="more">${esc(T(site.work.readCase, l))} ${ico.arrow}</span></a>`;
 }
+function caseCardRich(c, l) {
+  const cl = client(c.clientId), br = c.brief, L = site.home.caseLabels;
+  return `<article class="rcase"><header class="rc-head">${cl.logo ? `<img class="rc-logo" src="${cl.logo}" width="48" height="48" loading="lazy" alt="">` : ''}<div><b>${esc(nm(cl, l))}</b><small>${esc(T(cl.industry, l))}</small></div></header>
+  <div class="rc-rows"><div><span>${esc(T(L.problem, l))}</span><p>${esc(T(br.ch, l))}</p></div><div><span>${esc(T(L.did, l))}</span><p>${esc(T(br.did, l))}</p></div></div>
+  <div class="rc-res"><span class="rc-res-h">${esc(T(L.result, l))}</span><div class="rc-kpis">${br.res.map((r) => `<div><b>${esc(T(r.v, l))}</b><small>${esc(T(r.l, l))}</small></div>`).join('')}</div></div>
+  <a class="btn outline sm" href="${url(l, 'work', c.slug)}" data-cta="home_case_${c.slug}">${esc(T(L.read, l))} ${ico.arrow}</a></article>`;
+}
+function caseCardPlay(c, l) {
+  const cl = client(c.clientId), shot = (c.screens && c.screens[0]) ? c.screens[0].src : cl.logo;
+  const kp = c.kind === 'results' ? c.results[0] : null;
+  return `<a class="pcard" href="${url(l, 'work', c.slug)}"><span class="pc-img">${shot ? `<img src="${shot}" loading="lazy" alt="">` : ''}<span class="pc-tag">${esc(T(c.tag, l))}</span></span><span class="pc-body"><b>${esc(nm(cl, l))}</b>${kp ? `<span class="pc-k"><strong>${esc(T(kp.v, l))}</strong> ${esc(T(kp.l, l))}</span>` : `<small>${esc(T(c.summary, l))}</small>`}<span class="pc-go">${ico.arrow}</span></span></a>`;
+}
 function caseCards(l, kind, opts = {}) {
   return `<div class="cards${opts.feature ? ' feature-first' : ''}">${cases.filter((c) => !kind || c.kind === kind).map((c) => caseCard(c, l)).join('')}</div>`;
 }
 
 // ---------- lead forms ----------
-function formHTML(l, { id, type, selectable = false }) {
-  const f = site.form;
-  const opt = (o) => `<option value="${esc(o.v)}">${esc(T(o.l, l))}</option>`;
-  const err = (n) => `<span class="err" id="${id}-${n}-err" role="alert"></span>`;
-  const fld = (n, label, input, req, extra = '') => `<div class="fld"${extra}><label for="${id}-${n}">${esc(T(label, l))} <span class="req" aria-hidden="true"${req ? '' : ' hidden'}>*</span></label>${input}${err(n)}</div>`;
-  const sel = (n, label, opts, req, extra = '', reqFor = '') => fld(n, label, `<select id="${id}-${n}" name="${n}"${req ? ' required' : ''}${reqFor ? ` data-req-for="${reqFor}"` : ''} aria-describedby="${id}-${n}-err"><option value="">${esc(T(f.pick, l))}</option>${opts.map(opt).join('')}</select>`, req, extra);
-  const choices = selectable ? ['general', 'consultation', 'audit', 'proposal'] : [];
-  const typeField = selectable
-    ? fld('lead_type', f.whatFor, `<select id="${id}-lead_type" name="lead_type" required aria-describedby="${id}-lead_type-err">${choices.map((k) => `<option value="${k}"${k === type ? ' selected' : ''}>${esc(T(f.types[k], l))}</option>`).join('')}</select>`, true)
-    : `<input type="hidden" name="lead_type" value="${type}">`;
-  return `<form class="lead-form" id="${id}" method="post" novalidate data-form-id="${id}" data-default-type="${type}">
-  ${typeField}
-  <div class="row2">
-    ${fld('name', f.name, `<input id="${id}-name" name="name" required autocomplete="name" aria-describedby="${id}-name-err">`, true)}
-    ${sel('country', f.country, site.countries, true)}
-  </div>
-  <div class="row2">
-    ${fld('email', f.email, `<input id="${id}-email" name="email" type="email" autocomplete="email" inputmode="email" dir="ltr" aria-describedby="${id}-email-err">`, false)}
-    ${fld('company', f.company, `<input id="${id}-company" name="company" autocomplete="organization">`, false)}
-  </div>
-  ${fld('website', f.website, `<input id="${id}-website" name="website" dir="ltr" inputmode="url" autocomplete="url" data-req-for="audit" aria-describedby="${id}-website-err">`, false)}
-  ${sel('service', f.service, f.serviceOpts, false, ' data-for="consulting"', 'consulting')}
-  ${sel('topic', f.topic, f.topicOpts, false, ' data-for="consultation"', 'consultation')}
-  ${fld('preferred_time', f.preferred, `<input id="${id}-preferred_time" name="preferred_time" aria-describedby="${id}-preferred_time-err">`, false, ' data-for="consultation"')}
-  ${sel('goal', f.goal, f.goalOpts, false, ' data-for="audit"', 'audit')}
-  ${sel('ad_platforms', f.adPlatforms, f.adOpts, false, ' data-for="audit"')}
-  ${sel('project_type', f.projectType, f.projectOpts, false, ' data-for="proposal"', 'proposal')}
-  ${sel('timeline', f.timeline, f.timelineOpts, false, ' data-for="proposal"')}
-  <div class="row2" data-for="management audit proposal">
-    ${fld('budget', f.budget, `<input id="${id}-budget" name="budget" aria-describedby="${id}-budget-err">`, false)}
-    <div data-for="management">${sel('setup', f.setup, f.setupOpts, false)}</div>
-  </div>
-  ${fld('message', f.message, `<textarea id="${id}-message" name="message" rows="5" data-req-for="general consulting management consultation proposal" minlength="10" aria-describedby="${id}-message-err"></textarea>`, false)}
-  <div class="fld consent-fld"><label class="chk"><input type="checkbox" name="consent" value="yes" required aria-describedby="${id}-consent-err"> <span>${esc(T(f.consent, l))} <a href="${url(l, 'privacy')}" target="_blank" rel="noopener">${esc(T(f.privacyLink, l))}</a></span></label>${err('consent')}</div>
-  <input class="hp" name="hp_url" tabindex="-1" autocomplete="off" aria-hidden="true">
-  <button class="btn" type="submit" data-label="${esc(T(f.send, l))}" data-sending="${esc(T(f.sending, l))}">${esc(T(f.send, l))} ${ico.arrow}</button>
-  <p class="form-status" role="status" aria-live="polite"></p>
-  <p class="form-hint">${esc(T(f.note, l))}</p>
-</form>`;
+const WA_SVG = '<svg viewBox="0 0 24 24" width="40" height="40" aria-hidden="true" focusable="false"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>';
+// No forms: every request goes through WhatsApp. This keeps the old call signature.
+function formHTML(l, { id, type }) {
+  const W = site.whatsapp, href = waHref();
+  if (!href) return `<div class="wa-card nowa" id="${id}"><p>${esc(T(W.missing, l))}</p>${site.links.email ? `<a class="btn" href="mailto:${esc(site.links.email)}" data-contact="email">${esc(site.links.email)}</a>` : ''}</div>`;
+  return `<a class="wa-card" id="${id}" href="${href}" target="_blank" rel="noopener" data-whatsapp="1" data-lead="${type}" data-cta="${type}_whatsapp"><span class="wa-ico">${WA_SVG}</span><span class="wa-txt"><b>${esc(T(W.cta, l))}</b><small>${esc(T(W.hint[type] || W.hint.general, l))}</small></span><span class="wa-go">${ico.arrow}</span></a>`;
 }
-const ctaBand = (l) => `<section class="cta-band"><div class="wrap"><div><h2>${esc(T(site.home.ctaBandTitle, l))}</h2><p>${esc(T(site.home.ctaBandSub, l))}</p></div><div class="cta-row"><a class="btn dark" href="${url(l, 'book')}" data-cta="band_book">${esc(T(site.home.ctaBook, l))} ${ico.arrow}</a><a class="btn ghost dark-ghost" href="${url(l, 'audit')}" data-cta="band_audit">${esc(T(site.home.ctaAudit, l))}</a><a class="btn ghost dark-ghost" href="${url(l, 'proposal')}" data-cta="band_proposal">${esc(T(site.home.ctaProposal, l))}</a></div></div></section>`;
+const ctaBand = (l) => `<section class="cta-band"><svg class="cb-wave" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 60V28C140 -4 290 -4 440 22s300 34 440 10 230-28 320-14v42z" fill="currentColor"/></svg><div class="wrap cb-in"><div class="cb-copy"><h2 class="hand">${esc(T(site.home.ctaBandTitle, l))}</h2><p>${esc(T(site.home.ctaBandSub, l))}</p><div class="cta-row"><a class="btn dark" href="${url(l, 'book')}" data-cta="band_book">${esc(T(site.home.ctaBook, l))} ${ico.arrow}</a><a class="btn ghost dark-ghost" href="${url(l, 'audit')}" data-cta="band_audit">${esc(T(site.home.ctaAudit, l))}</a><a class="btn ghost dark-ghost" href="${url(l, 'proposal')}" data-cta="band_proposal">${esc(T(site.home.ctaProposal, l))}</a></div></div><div class="cb-art" aria-hidden="true">${ico.plane}<div class="cb-cup">${ico.cup}<img src="/images/logo.png" width="44" height="44" alt=""></div></div></div></section>`;
 const faqBlock = (F, l) => `<h2>${esc(T(F.faqTitle, l))}</h2>${F.faq.map((q) => `<details><summary>${esc(T(q.q, l))}</summary><p>${esc(T(q.a, l))}</p></details>`).join('')}`;
 const ulPlain = (arr, l) => `<ul class="plain big">${T(arr, l).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>`;
 const waHref = (extra = '') => (site.links.whatsapp ? `https://wa.me/${site.links.whatsapp.replace(/\D/g, '')}${extra}` : '');
+const goldPhrase = (txt, phrase) => (phrase && txt.includes(phrase) ? esc(txt).replace(esc(phrase), `<span class="gold">${esc(phrase)}</span>`) : esc(txt));
 const hlPhrase = (txt, phrase) => (phrase && txt.includes(phrase) ? esc(txt).replace(esc(phrase), `<mark>${esc(phrase)}</mark>`) : esc(txt));
 
 // ---------- pages ----------
@@ -297,49 +309,62 @@ for (const l of LANGS) {
   // HOME
   {
     const S = site.services;
+    const marketsN = new Set(clients.flatMap((c) => c.markets)).size;
+    const fillT = (s) => String(s).replace('{brands}', brandN).replace('{markets}', marketsN).replace('{sites}', websites.length);
     const body = `
-<section class="hero"><div class="wrap">
-  <div>
-    <p class="eyebrow">${esc(T(site.name, l))} · ${esc(T(site.role, l))}</p>
-    <h1>${hlPhrase(T(H.positioning, l), T(H.highlight, l))}</h1>
-    <p class="lead hero-lead">${esc(T(H.heroValue, l))}</p>
-    <p class="roles">${esc(T(H.rolesLine, l))}</p>
-    <div class="cta-row"><a class="btn" href="${url(l, 'book')}" data-cta="hero_book">${esc(T(H.ctaBook, l))} ${ico.arrow}</a><a class="btn ghost" href="${url(l, 'audit')}" data-cta="hero_audit">${esc(T(H.ctaAudit, l))}</a></div>
+<section class="hero">
+  <svg class="hr-arcs" viewBox="0 0 400 300" aria-hidden="true" focusable="false"><path d="M400 20C330 20 280 70 270 140" fill="none" stroke="#C9A24D" stroke-width="1.2" opacity=".55"/><path d="M400 60C350 60 310 100 300 150" fill="none" stroke="#C9A24D" stroke-width="1.2" opacity=".35"/></svg>
+  <div class="hr-in">
+    <div class="hr-copy">
+      <h1>${goldPhrase(T(H.positioning, l), T(H.highlight, l))}${ico.spark}</h1>
+      <span class="hr-rule" aria-hidden="true"></span>
+      <p class="hr-desc">${esc(T(H.heroDesc, l))}</p>
+      <div class="cta-row"><a class="btn gold" href="${url(l, 'book')}" data-cta="hero_book">${ico.cal}<span>${esc(T(H.heroCtaPrimary, l))}</span></a><a class="btn outline" href="${url(l, 'work')}" data-cta="hero_results"><span>${esc(T(H.heroCtaSecondary, l))}</span>${ico.arrow}</a></div>
+      <p class="hr-note">${esc(T(H.heroNote, l))}</p>
+    </div>
+    <div class="hr-art">
+      <div class="hr-orb" aria-hidden="true"></div>
+      ${ico.crown}
+      <div class="sticky hand">${esc(T(H.sticky, l))}</div>
+      <img class="hr-photo" src="/images/karma-hero.webp" width="820" height="1020" alt="${esc(T(site.name, l))}, ${esc(T(site.role, l))}" fetchpriority="high">
+      ${ico.bars}
+    </div>
   </div>
-  <div class="hero-art">
-    <div class="blob" aria-hidden="true"></div>
-    <img class="hero-photo" src="/images/karma-hero.webp" width="820" height="1020" alt="${esc(T(site.name, l))}, ${esc(T(site.role, l))}" fetchpriority="high">
-  </div>
+  <div class="hr-in"><ul class="hr-strip">${H.heroStrip.map((s) => `<li><span class="hr-ico">${ico.heroIcons[s.icon] || ''}</span><span>${esc(T(s.t, l))}</span></li>`).join('')}</ul></div>
+</section>
+<section class="sec bits-sec"><div class="wrap">
+  <h2 class="hand bits-title">${esc(T(H.bitTitle, l))}</h2>
+  <div class="bits">${H.bits.map((x) => `<a class="bit" href="${url(l, x.href)}" data-cta="home_bit_${x.href}"><span class="bit-ico">${ico.bitIcons[x.ik] || ''}</span><b>${esc(T(x.title, l))}</b><span class="bit-sub">${esc(T(x.sub, l))}</span><span class="bit-go">${ico.arrow}</span></a>`).join('')}</div>
 </div></section>
 <section class="sec"><div class="wrap">
   <h2 class="sec-title">${esc(T(H.challengesTitle, l))}</h2>
-  <div class="chal">${H.challenges.map((c, i) => `<div class="chal-item"><span class="n">0${i + 1}</span><h3>${esc(T(c.t, l))}</h3><p>${esc(T(c.d, l))}</p></div>`).join('')}</div>
+  <div class="chal2">${H.challenges.map((c, i) => `<article class="ch-card"><span class="ch-n">0${i + 1}</span><h3>${esc(T(c.t, l))}</h3><p>${esc(T(c.d, l))}</p><a class="more" href="${url(l, c.href)}" data-cta="home_challenge_${i + 1}">${esc(T(c.cta, l))} ${ico.arrow}</a></article>`).join('')}</div>
 </div></section>
 <section class="sec alt"><div class="wrap">
   <h2 class="sec-title">${esc(T(H.pillarsTitle, l))}</h2>
-  <div class="pillars">${S.pillars.map((p, i) => `<article class="pillar"><span class="n">0${i + 1}</span><h3>${esc(T(p.t, l))}</h3><p>${esc(T(p.d, l))}</p><a class="more" href="${url(l, p.href)}" data-cta="home_pillar_${p.k}">${esc(T(p.cta, l))} ${ico.arrow}</a></article>`).join('')}</div>
+  <div class="pillars">${S.pillars.map((p, i) => `<article class="pillar"><span class="n">0${i + 1}</span><h3>${esc(T(p.t, l))}</h3><p>${esc(T(p.d, l))}</p><p class="p-for"><b>${esc(T(S.forLabel, l))}</b> ${esc(T(p.for, l))}</p><a class="btn outline sm" href="${url(l, p.href)}" data-cta="home_pillar_${p.k}">${esc(T(p.cta, l))} ${ico.arrow}</a></article>`).join('')}</div>
 </div></section>
 <section class="sec"><div class="wrap">
-  <div class="row-head"><h2 class="sec-title">${esc(T(H.featuredTitle, l))}</h2><a class="btn ghost" href="${url(l, 'work')}">${esc(T(H.viewAll, l))} ${ico.arrow}</a></div>
-  ${caseCards(l, 'results', { feature: true })}
+  <div class="row-head"><div><h2 class="sec-title">${esc(T(H.casesTitle, l))}</h2><p class="lead" style="margin-top:.6rem">${esc(T(H.casesLead, l))}</p></div><a class="btn ghost" href="${url(l, 'work')}">${esc(T(H.viewAll, l))} ${ico.arrow}</a></div>
+  <div class="rcases">${cases.filter((c) => c.kind === 'results' && c.brief).map((c) => caseCardRich(c, l)).join('')}</div>
   <p class="strip-label" style="margin-top:2rem">${esc(T(H.selectedClients, l))}</p><div class="logo-strip">${clients.filter((c) => c.logo).sort((a, b) => ({ featured: 0, highlight: 1, client: 2 }[a.tier] - { featured: 0, highlight: 1, client: 2 }[b.tier])).slice(0, 10).map((c) => `<img src="${c.logo}" width="72" height="72" loading="lazy" alt="${esc(nm(c, l))}" title="${esc(nm(c, l))}">`).join('')}<a class="strip-more" href="${url(l, 'work', 'clients')}">${esc(T(H.allClients, l))} ${ico.arrow}</a></div>
-  <p style="margin-top:.6rem"><a class="more" href="${url(l, 'work', 'websites')}">${esc(T(site.nav.websites, l))} ${ico.arrow}</a></p>
 </div></section>
 <section class="sec alt"><div class="wrap">
   <h2 class="sec-title">${esc(T(H.approachTitle, l))}</h2>
-  <ol class="rhythm">${H.approach.map((s) => `<li><b>${esc(T(s.t, l))}</b><span>${esc(T(s.d, l))}</span></li>`).join('')}</ol>
+  <ol class="visual-steps">${H.approach.map((s, i) => `<li><span class="vs-n">${i + 1}</span><b>${esc(T(s.t, l))}</b><span>${esc(T(s.d, l))}</span></li>`).join('')}</ol>
 </div></section>
 <section class="sec"><div class="wrap about-grid">
   <div>
-    <h2 class="sec-title">${esc(T(H.aboutTitle, l))}</h2>
+    <h2 class="sec-title hand">${esc(T(H.aboutTitle, l))}</h2>
     <p class="prose">${esc(T(H.aboutText, l))}</p>
-    <a class="btn ghost" href="${url(l, 'about')}">${esc(T(H.aboutCta, l))} ${ico.arrow}</a>
+    <a class="btn gold" href="${url(l, 'about')}" data-cta="home_about">${esc(T(H.aboutCta, l))} ${ico.arrow}</a>
   </div>
-  <div class="about-photo"><img src="/images/karma-about.webp" width="760" height="900" loading="lazy" alt="${esc(T(site.about.photoAlt, l))}"></div>
+  <div class="about-art"><span class="blob-y" aria-hidden="true"></span><img src="/images/karma-about.webp" width="760" height="900" loading="lazy" alt="${esc(T(site.about.photoAlt, l))}"><span class="bubble hand">${esc(T(H.bubble, l))}</span>${ico.heart}</div>
 </div></section>
+<section class="sec" style="padding:0 0 3rem"><div class="wrap"><ul class="stats">${H.stats.map((s) => `<li><span class="st-ico">${ico.statIcons[s.icon] || ''}</span><span><b>${esc(fillT(T(s.big, l)))}</b><small>${esc(fillT(T(s.small, l)))}</small></span></li>`).join('')}</ul></div></section>
 <section class="sec alt"><div class="wrap">
   <div class="row-head"><h2 class="sec-title">${esc(T(H.insightsTitle, l))}</h2><a class="btn ghost" href="${url(l, 'insights')}">${esc(T(site.work.viewAll, l))} ${ico.arrow}</a></div>
-  <div class="grid3">${insights.slice(0, 3).map((a) => `<a class="tile art-card" href="${url(l, 'insights', a.slug)}"><h3>${esc(T(a.title, l))}</h3><p>${esc(T(a.summary, l))}</p><p class="meta-line">${a.min} ${esc(T(site.insights.min, l))}</p></a>`).join('')}</div>
+  <div class="grid3">${insights.slice(0, 3).map((a) => `<a class="tile art-card" href="${url(l, 'insights', a.slug)}"><span class="ac-min">${a.min} ${esc(T(site.insights.min, l))}</span><h3>${esc(T(a.title, l))}</h3><p>${esc(T(a.summary, l))}</p><span class="more">${esc(T(H.readMore, l))} ${ico.arrow}</span></a>`).join('')}</div>
 </div></section>
 ${ctaBand(l)}`;
     add(l, 'home', url(l), layout(l, 'home', {
@@ -441,6 +466,7 @@ ${ctaBand(l)}`;
   <p style="margin-top:1rem"><span class="chip">${esc(T(c.tag, l))}</span></p>
   <h1>${esc(T(c.title, l))}</h1><p class="lead">${esc(T(c.summary, l))}</p>
   ${lay === 'report' ? '' : factsHTML}
+  ${c.brief ? `<div class="cs-brief"><div><span>${esc(T(site.home.caseLabels.problem, l))}</span><p>${esc(T(c.brief.ch, l))}</p></div><div><span>${esc(T(site.home.caseLabels.did, l))}</span><p>${esc(T(c.brief.did, l))}</p></div><div class="cb-res"><span>${esc(T(site.home.caseLabels.result, l))}</span><div class="rc-kpis">${c.brief.res.map((r) => `<div><b>${esc(T(r.v, l))}</b><small>${esc(T(r.l, l))}</small></div>`).join('')}</div></div><p class="cb-take">${esc(T(c.brief.take, l))}</p></div>` : ''}
   ${isRes ? '' : `<div class="notice concept">${esc(T(W.conceptBanner, l))}</div>`}</div></section>
 <section class="sec" style="padding-top:0"><div class="wrap cs-body lay-${lay}">${lay === 'report' ? `<aside class="cs-aside">${factsHTML}</aside>` : ''}<div class="cs-main">${parts}</div></div></section>
 <section class="sec alt"><div class="wrap"><h2 class="sec-title">${esc(T(W.next, l))}</h2><div class="cards" style="margin-top:1.2rem">${others.map((o) => caseCard(o, l)).join('')}</div></div></section>
@@ -571,16 +597,6 @@ ${ctaBand(l)}`;
       const p = url(l, 'marketing-management');
       add(l, 'marketing-management', p, layout(l, 'marketing-management', { title: `${T(F.title, l)} | ${T(site.name, l)}`, desc: T(F.description, l), body, altPath: alt('marketing-management'), ld: [svcLD(F, 'Monthly marketing management', p), faqLD(F), breadcrumb(l, [[T(site.nav.management, l), p]])] }));
     }
-    // thank you
-    {
-      const Th = site.thanks;
-      const types = ['consultation', 'audit', 'proposal', 'consulting', 'management', 'general'];
-      const body = `<section class="page-head"><div class="wrap" data-thanks="1"><h1>${esc(T(Th.title, l))}</h1>
-${types.map((t) => `<div class="thx" data-type="${t}"${t === 'general' ? '' : ' hidden'}><p class="lead">${esc(T(Th.lead[t], l))}</p><h2 class="h3">${esc(T(Th.next, l))}</h2><ol class="steps">${T(Th.steps[t], l).map((x) => `<li>${esc(x)}</li>`).join('')}</ol></div>`).join('')}
-<p class="form-hint" style="margin-top:1rem">${esc(T(Th.hint, l))}</p><p class="ref" hidden>${esc(T(Th.ref, l))}: <b id="thx-ref"></b></p>
-<div class="cta-row"><a class="btn" id="thx-wa" href="#" hidden data-whatsapp="1" data-cta="thanks_whatsapp">${esc(T(Th.wa, l))}</a>${site.booking.mode === 'calendar' && site.booking.bookingUrl ? `<a class="btn ghost" id="thx-book" href="${esc(site.booking.bookingUrl)}" target="_blank" rel="noopener" data-booking="1" data-cta="thanks_book" hidden>${esc(T(Th.book, l))}</a>` : ''}<a class="btn ghost" href="${url(l)}">${esc(T(Th.home, l))}</a></div></div></section>`;
-      add(l, 'thank-you', url(l, 'thank-you'), layout(l, 'thank-you', { title: `${T(Th.title, l)} | ${T(site.name, l)}`, desc: T(Th.description, l), body, altPath: alt('thank-you'), noindex: true }));
-    }
     // privacy
     {
       const Pv = site.privacy;
@@ -594,7 +610,6 @@ ${types.map((t) => `<div class="thx" data-type="${t}"${t === 'general' ? '' : ' 
     const C = site.contact, L = site.links;
     const direct = [
       L.email && `<a href="mailto:${esc(L.email)}" data-contact="email">${esc(L.email)}</a>`,
-      L.whatsapp && `<a href="${waHref()}" rel="noopener" target="_blank" data-whatsapp="1" data-cta="contact_whatsapp">WhatsApp</a>`,
       L.hub && `<a href="${esc(L.hub)}" rel="noopener" target="_blank">${l === 'ar' ? 'كل روابطي' : 'All my links'}</a>`,
     ].filter(Boolean).join(' · ');
     const body = `${pageHead(T(C.title, l), T(C.lead, l))}
