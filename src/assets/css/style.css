@@ -636,7 +636,7 @@ html[lang=ar] .hero .hr-copy h1{font-size:clamp(2.4rem,6vw,4.6rem);line-height:1
 .nav-cta{display:inline-flex;align-items:center;gap:.5rem}
 .nav-cta svg{flex:none}
 /* bottom strip */
-.hr-strip{list-style:none;margin:-2.6rem 0 0;padding:1.1rem 1.6rem;display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;align-items:center;background:rgba(251,246,234,.92);border:1px solid var(--gold-line);border-radius:18px;position:relative;z-index:3;box-shadow:0 8px 30px rgba(41,40,32,.08);backdrop-filter:blur(6px)}
+.hr-strip{color:var(--charcoal);list-style:none;margin:-2.6rem 0 0;padding:1.1rem 1.6rem;display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;align-items:center;background:rgba(251,246,234,.92);border:1px solid var(--gold-line);border-radius:18px;position:relative;z-index:3;box-shadow:0 8px 30px rgba(41,40,32,.08);backdrop-filter:blur(6px)}
 .hr-strip li{display:flex;align-items:center;gap:.9rem;font-weight:600;font-size:1.05rem;position:relative;justify-content:center}
 .hr-strip li+li::before{content:"";position:absolute;inset-inline-start:-.6rem;top:50%;width:6px;height:6px;border-radius:50%;background:var(--gold-line);transform:translateY(-50%)}
 .hr-ico{flex:none;width:46px;height:46px;color:var(--gold)}
