@@ -195,7 +195,7 @@ ${noindex ? '<meta name="robots" content="noindex">' : ''}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Kalam:wght@700&family=Aref+Ruqaa:wght@700&display=swap">
-<link rel="stylesheet" href="/assets/css/style.css?v=2">
+<link rel="stylesheet" href="/assets/css/style.css?v=3">
 <script>document.documentElement.className+=' js';try{var t=localStorage.getItem('ks-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 ${gaHead}
 ${pxHead}

@@ -689,7 +689,7 @@ html[lang=ar] .hero .hr-copy h1{font-size:clamp(2.1rem,4.4vw,3.7rem);line-height
 @media(max-width:1000px){.nav-cta{display:none!important}}
 .hr-in:first-of-type{grid-template-columns:1.2fr .8fr}
 @media(min-width:861px){.cta-row{flex-wrap:nowrap}.btn.gold,.btn.outline{padding:.9rem 1.25rem;font-size:.98rem}}
-@media(max-width:860px){.hr-in:first-of-type{padding-bottom:2.4rem}}
+@media(max-width:860px){.hr-in:first-of-type{padding-bottom:2.4rem;grid-template-columns:1fr}}
 
 /* ============ playful layer (from the reference): icons, stickers, tilted cards, stats, wave band ============ */
 :root{--f-hand:'Kalam','Segoe Print',cursive}
@@ -856,3 +856,6 @@ html[lang=ar] .rc-rows span,html[lang=ar] .rc-res-h,html[lang=ar] .cs-brief span
 .rc-kpis b{font-size:clamp(1.15rem,1.45vw,1.45rem);overflow-wrap:anywhere;line-height:1.15}
 .rc-res{padding:.9rem 1rem}
 .cs-brief .rc-kpis b{font-size:1.5rem}
+
+/* Mobile hero (2026-11-18): same order as desktop — copy first, photo below — and hide the sticky note so no text covers the photo */
+@media(max-width:860px){.hr-art{order:0}.hero .sticky{display:none!important}}
