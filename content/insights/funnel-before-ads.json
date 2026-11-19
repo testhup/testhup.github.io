@@ -1,25 +1,40 @@
 {
   "slug": "funnel-before-ads",
+  "order": 8,
   "emoji": "🪜",
-  "min": 2,
+  "min": 4,
   "title": {
     "en": "Fix the funnel before you raise the budget",
     "ar": "أصلح مسار التحويل قبل رفع الميزانية"
   },
   "summary": {
-    "en": "More traffic into a leaking funnel just leaks faster.",
-    "ar": "زيادة الزيارات في مسار متسرّب تزيد التسرّب فقط."
+    "en": "More budget sends more people into the same journey. If the journey loses them, you lose more of them, faster. Fix the journey first.",
+    "ar": "الميزانية الأكبر ترسل عدداً أكبر من الناس في الرحلة نفسها. وإذا كانت الرحلة تفقدهم، فستفقد عدداً أكبر وبسرعة أكبر. أصلح الرحلة أولاً."
   },
   "body": {
     "en": [
-      "When results stall, the instinct is to spend more. But a funnel that loses most people at the landing page or the first reply will lose more people at a higher budget.",
-      "Walk the journey as a customer: the ad, the page on a phone, the first message, the follow-up. Note where you would give up.",
-      "Then fix the biggest drop first. Often it is a slow reply, not a creative problem."
+      "When results slow down, the first idea is usually to spend more on ads. Before you do, look at the journey your customer takes. In marketing, people call this journey a funnel. It is simply the path from the first time someone sees your ad to the moment they book or buy. If that path loses people, more money will only send more people into the same losing path.",
+      "Walk the whole journey yourself, on your phone, as a customer. Start with the ad. Then open the page it leads to. Then send a message or fill in the form. Then wait for the reply. At each step, ask one question: would I continue, or would I give up here? Write down every point where you hesitate. Those points are where your money is going.",
+      "Most journeys lose people in a few common places. The page loads slowly on a phone. The page talks about the business instead of answering the visitor's question. There is no clear next step, so the visitor leaves. Or the visitor sends a message and waits hours for a reply. By then, they have moved on. None of these problems is fixed by a bigger budget.",
+      "Take a simple example. Imagine one hundred people click your ad, and only two of them book. Raising the budget might bring two hundred clicks, and four bookings. You spent twice as much for the same weak result. But if you first fix the page and the reply, and four out of every hundred book, the same budget brings twice the bookings. Fixing the journey is often cheaper than feeding it.",
+      "A bigger budget can also make the problem harder to see. More clicks bring more messages, and a slow reply system falls further behind. The team feels busy, the report shows more leads, and yet bookings stay flat. Everyone works harder, and nothing improves. That is the sign of a journey problem, not a budget problem.",
+      "To find the biggest drop, follow the numbers step by step. How many people clicked? How many opened the page? How many sent a message? How many got a reply? How many booked? The step with the biggest fall is your first fix. If you do not have these numbers, ask the people who answer the messages. They usually know exactly where the journey breaks.",
+      "Fix one thing at a time, starting with the biggest drop. If replies are slow, fix the reply process before you touch the ads. If the page confuses people, simplify the page. One fix at a time also teaches you what worked. If you change everything at once, you will never know which change helped.",
+      "A good page does a small number of things well. It answers the visitor's main question in the first seconds. It says clearly what the next step is: send a message, call, or book. It works well on a phone, because that is where most visitors arrive. And it does not ask for too much. Every extra question in a form is a reason to leave.",
+      "The reply matters as much as the page. A quick, helpful first reply keeps the conversation alive. It answers the question, gives one clear next step, and makes booking easy. A slow reply, or a long copied message that answers nothing, ends the conversation before it starts. In many businesses, the reply is the cheapest fix with the biggest effect.",
+      "So before you raise the budget, do this. Test your own journey on your phone. Write down where you would give up. Fix the biggest drop first, and watch what changes. Only then decide about the budget. Money works best when the journey is ready for it. The budget is the last step, not the first."
     ],
     "ar": [
-      "عندما تتوقف النتائج يكون الميل إلى الإنفاق أكثر. لكن المسار الذي يفقد معظم الناس عند صفحة الهبوط أو الرد الأول سيفقد عدداً أكبر مع ميزانية أعلى.",
-      "امشِ في الرحلة كعميل: الإعلان، والصفحة على الهاتف، والرسالة الأولى، والمتابعة. وسجّل أين كنت ستتوقف.",
-      "ثم أصلح أكبر نقطة تسرّب أولاً. وغالباً تكون ردّاً بطيئاً لا مشكلة في الإبداع."
+      "عندما تتباطأ النتائج، تكون الفكرة الأولى غالباً هي إنفاق المزيد على الإعلانات. وقبل أن تفعل ذلك، انظر إلى الرحلة التي يمر بها عميلك. في التسويق، يسمّي الناس هذه الرحلة مسار التحويل. وهي ببساطة الطريق من أول مرة يرى فيها الشخص إعلانك حتى لحظة الحجز أو الشراء. وإذا كانت هذه الرحلة تفقد الناس، فإن زيادة الميزانية ترسل عدداً أكبر من الناس ليفقدوا بالطريقة نفسها.",
+      "امشِ في الرحلة كاملة بنفسك، على هاتفك، كأنك عميل. ابدأ بالإعلان. ثم افتح الصفحة التي يقود إليها. ثم أرسل رسالة أو املأ النموذج. ثم انتظر الرد. وفي كل خطوة اسأل نفسك سؤالاً واحداً: هل سأكمل، أم سأتوقف هنا؟ وسجّل كل نقطة تتردد عندها. هذه النقاط هي المكان الذي يضيع فيه مالك.",
+      "تفقد معظم الرحلات الناس في أماكن شائعة قليلة. الصفحة تفتح ببطء على الهاتف. أو الصفحة تتحدث عن الشركة بدل أن تجيب عن سؤال الزائر. أو لا توجد خطوة تالية واضحة، فيغادر الزائر. أو يرسل الزائر رسالة وينتظر ساعات حتى يأتيه الرد. وعندها يكون قد انتقل إلى مكان آخر. ولا واحدة من هذه المشكلات يحلّها رفع الميزانية.",
+      "خذ مثالاً بسيطاً. تخيّل أن مئة شخص نقروا على إعلانك، وحجز منهم شخصان فقط. رفع الميزانية قد يجلب مئتي نقرة وأربعة حجوزات. أنفقت ضعف المال لتحصل على النتيجة الضعيفة نفسها. لكن إذا أصلحت الصفحة والرد أولاً، وحجز أربعة من كل مئة، فإن الميزانية نفسها تجلب ضعف الحجوزات. إصلاح الرحلة أرخص غالباً من ضخ المال فيها.",
+      "الميزانية الأكبر قد تجعل المشكلة أصعب في الرؤية أيضاً. النقرات الأكثر تجلب رسائل أكثر، ونظام الرد البطيء يتأخر أكثر. ويشعر الفريق بالانشغال، ويُظهر التقرير عملاء محتملين أكثر، ومع ذلك تبقى الحجوزات كما هي. يعمل الجميع بجهد أكبر، ولا يتحسن شيء. هذه علامة على مشكلة في الرحلة، لا في الميزانية.",
+      "ولتجد أكبر نقطة ضعف، تتبّع الأرقام خطوة بخطوة. كم شخصاً نقر؟ وكم شخصاً فتح الصفحة؟ وكم شخصاً أرسل رسالة؟ وكم شخصاً تلقى رداً؟ وكم شخصاً حجز؟ الخطوة التي يحدث فيها أكبر انخفاض هي أول ما تصلحه. وإذا لم تكن لديك هذه الأرقام، اسأل من يردون على الرسائل. فهم يعرفون غالباً أين تنكسر الرحلة بالضبط.",
+      "أصلح شيئاً واحداً في كل مرة، وابدأ بأكبر نقطة ضعف. إذا كانت الردود بطيئة، أصلح طريقة الرد قبل أن تلمس الإعلانات. وإذا كانت الصفحة تربك الناس، بسّط الصفحة. وإصلاح شيء واحد في كل مرة يعلّمك أيضاً ما الذي نجح. أما إذا غيّرت كل شيء دفعة واحدة، فلن تعرف أبداً أي تغيير ساعد.",
+      "الصفحة الجيدة تفعل أشياء قليلة بشكل جيد. تجيب عن سؤال الزائر الرئيسي في الثواني الأولى. وتقول بوضوح ما الخطوة التالية: أرسل رسالة، أو اتصل، أو احجز. وتعمل بشكل جيد على الهاتف، لأن معظم الزوار يأتون منه. ولا تطلب الكثير. فكل سؤال إضافي في النموذج سبب إضافي للمغادرة.",
+      "الرد مهم بقدر أهمية الصفحة. الرد الأول السريع والمفيد يُبقي المحادثة حيّة. يجيب عن السؤال، ويعطي خطوة تالية واحدة واضحة، ويجعل الحجز سهلاً. أما الرد البطيء، أو الرسالة الطويلة المنسوخة التي لا تجيب عن شيء، فينهي المحادثة قبل أن تبدأ. وفي أعمال كثيرة، يكون الرد هو الإصلاح الأرخص والأكبر أثراً.",
+      "إذن، قبل أن ترفع الميزانية، افعل هذا. جرّب رحلتك بنفسك على هاتفك. وسجّل أين كنت ستتوقف. وأصلح أكبر نقطة ضعف أولاً، وراقب ما يتغير. وبعد ذلك فقط قرر بشأن الميزانية. فالمال يعمل بأفضل شكل عندما تكون الرحلة جاهزة له. والميزانية هي الخطوة الأخيرة، لا الأولى."
     ]
   }
 }

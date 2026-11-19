@@ -1365,6 +1365,200 @@ content:
       - name: ar
         label: العربية
         type: string
+    - name: heroAud
+      label: Hero Aud
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: offerLead
+      label: Offer Lead
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: offer
+      label: Offer
+      type: object
+      list: true
+      fields:
+      - name: icon
+        label: Icon
+        type: string
+      - name: t
+        label: T
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: d
+        label: D
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: text
+        - name: ar
+          label: العربية
+          type: text
+    - name: proof
+      label: Proof
+      type: object
+      list: true
+      fields:
+      - name: big
+        label: Big
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: unit
+        label: Unit
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: who
+        label: Who
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: text
+        label: Text
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: text
+        - name: ar
+          label: العربية
+          type: text
+    - name: sectorsTitle
+      label: Sectors Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: sectorsLead
+      label: Sectors Lead
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: sectorsAll
+      label: Sectors All
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: sectors
+      label: Sectors
+      type: object
+      list: true
+      fields:
+      - name: id
+        label: Id
+        type: string
+      - name: icon
+        label: Icon
+        type: string
+      - name: t
+        label: T
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+      - name: d
+        label: D
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: text
+        - name: ar
+          label: العربية
+          type: text
+      - name: case
+        label: Case
+        type: object
+        fields:
+        - name: en
+          label: English
+          type: string
+        - name: ar
+          label: العربية
+          type: string
+    - name: approachLead
+      label: Approach Lead
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: finalTitle
+      label: Final Title
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: ar
+        label: العربية
+        type: string
+    - name: finalSub
+      label: Final Sub
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: text
+      - name: ar
+        label: العربية
+        type: text
 - name: site_about
   label: 👤 About page text
   type: file
@@ -5363,6 +5557,9 @@ content:
   - name: slug
     label: Slug
     type: string
+  - name: order
+    label: Order
+    type: number
   - name: emoji
     label: Emoji
     type: string

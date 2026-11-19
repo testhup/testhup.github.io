@@ -1,0 +1,40 @@
+{
+  "slug": "evaluate-your-marketing-partner",
+  "order": 1,
+  "emoji": "🔍",
+  "min": 4,
+  "title": {
+    "en": "How to evaluate your marketing agency or freelancer",
+    "ar": "كيف تقيّم شركة التسويق أو المستقل الذي تتعامل معه"
+  },
+  "summary": {
+    "en": "Clear goals, honest reporting, and a monthly decision. How to review the work fairly, and when to stay or move on.",
+    "ar": "أهداف واضحة، وتقارير صادقة، وقرار كل شهر. كيف تراجع العمل بعدل، ومتى تبقى ومتى تغيّر."
+  },
+  "body": {
+    "en": [
+      "Every month, you pay for marketing. And every month, a question sits quietly in the back of your mind: is this working? The reports arrive, full of numbers. The posts go out. The ads run. And still, you are not sure what the money brought. That uncertainty is common. It is also fixable, with a fair way to review the work.",
+      "A fair review starts before the work starts, with a goal written down. What should success look like in three months? How many real enquiries? How many bookings? Be specific, and agree on it together. 'More awareness' is not a goal you can review. A goal you can count is a goal you can judge. Without it, every review becomes a matter of feeling.",
+      "Give the work fair time. Marketing needs time to test, to learn what your market responds to, and to fix what does not work. Judging everything in the first days is unfair, to the marketer and to yourself. But fair time must be agreed, not open-ended. Agree on the test period, what will be tested, and when you will review the results together. Time without a review date is not patience. It is drift.",
+      "Review once a month, with three questions. What changed? Why did it change? And what do we do next? Bring your own numbers to the meeting: bookings, calls, walk-ins, and what the front desk heard. Marketing numbers alone tell half the story. Your business numbers tell the other half. The review is where the two halves meet.",
+      "Good reporting is easy to recognize. It uses few numbers, and those numbers connect to bookings or revenue. It says plainly what did not work, and what was learned. It ends with a clear suggestion for next month. And you understand it without needing a dictionary. If you finish the report more confused than when you started, the report has failed, even if the work was good.",
+      "There are warning signs worth noticing. You have no access to your own ad accounts or pages. The reports are full of numbers you cannot understand, and no one explains them. You hear promises of guaranteed results, which no honest marketer can promise. Results fall, and the explanation is always someone else's fault. Or questions are met with defensiveness instead of answers. One sign alone may mean little. Several together mean something.",
+      "There are also good signs. The marketer explains things in plain words, and welcomes your questions. You have access to your own accounts, and you know where the money goes. Mistakes are admitted early, with a plan to fix them. Ideas arrive without being asked. And the marketer asks about your bookings and your clients, not only about clicks. That last sign matters most. It means they care about your business, not only about their report.",
+      "Raise concerns calmly, and early. Say what you see, in numbers: 'Enquiries rose, but bookings did not. What do you think is happening?' That question opens a conversation. Waiting in silence for months, then ending the work in anger, helps no one. A good partner will welcome the honest conversation. How they respond to a hard question tells you more than any report.",
+      "So when do you stay, and when do you move on? Stay when learning is visible: tests run, lessons are shared, and the numbers move in the agreed direction, even slowly. Consider moving on when months pass with no learning, no honesty about failures, and no decisions. But remember that changing has a cost too. A new person needs time to learn your business, your market, and your clients. Change for a clear reason, not out of frustration alone.",
+      "For the next month, do three things. Write down one goal you can count. Ask for the three questions in the next report. And set a review date, in the calendar, with your own numbers ready. Reviewing marketing is not about catching someone out. It is about making the next decision well. A fair review protects your money, and it protects a good partner too."
+    ],
+    "ar": [
+      "في كل شهر، تدفع مقابل التسويق. وفي كل شهر، يجلس سؤال بهدوء في ذهنك: هل يعمل هذا؟ وتصل التقارير مليئة بالأرقام. وتُنشر المنشورات. وتعمل الإعلانات. ومع ذلك، لست متأكداً مما جلبه المال. وهذا الشك شائع. وهو قابل للحل أيضاً، بطريقة عادلة لمراجعة العمل.",
+      "والمراجعة العادلة تبدأ قبل بدء العمل، بهدف مكتوب. كيف يجب أن يبدو النجاح بعد ثلاثة أشهر؟ وكم استفساراً حقيقياً؟ وكم حجزاً؟ كن محدداً، واتفقا على ذلك معاً. فعبارة «وعي أكبر» ليست هدفاً يمكنك مراجعته. والهدف الذي يمكنك عدّه هو هدف يمكنك الحكم عليه. ومن دونه، تصبح كل مراجعة مسألة شعور.",
+      "وأعطِ العمل وقتاً عادلاً. فالتسويق يحتاج إلى وقت ليختبر، وليتعلم ما يستجيب له سوقك، وليصلح ما لا يعمل. والحكم على كل شيء في الأيام الأولى ظلم، للمسوّق ولك. لكن الوقت العادل يجب أن يكون متفقاً عليه، لا مفتوحاً بلا نهاية. اتفقا على فترة الاختبار، وما الذي سيُختبر، ومتى ستراجعان النتائج معاً. فالوقت دون موعد للمراجعة ليس صبراً. بل هو ترك الأمور تسير وحدها.",
+      "وراجع مرة كل شهر، بثلاثة أسئلة. ما الذي تغيّر؟ ولماذا تغيّر؟ وماذا نفعل بعد ذلك؟ وأحضر أرقامك إلى الاجتماع: الحجوزات، والمكالمات، والزوار، وما سمعه موظفو الاستقبال. فأرقام التسويق وحدها تحكي نصف القصة. وأرقام عملك تحكي النصف الآخر. والمراجعة هي المكان الذي يلتقي فيه النصفان.",
+      "والتقرير الجيد سهل التعرف عليه. يستخدم أرقاماً قليلة، وهذه الأرقام مرتبطة بالحجوزات أو الإيرادات. ويقول بوضوح ما لم ينجح، وما الذي تعلّمه الفريق. وينتهي باقتراح واضح للشهر التالي. وتفهمه دون أن تحتاج إلى قاموس. وإذا أنهيت التقرير وأنت أكثر حيرة مما بدأت، فقد فشل التقرير، حتى لو كان العمل جيداً.",
+      "وهناك علامات تحذير تستحق الانتباه. لا يمكنك الوصول إلى حساباتك الإعلانية أو صفحاتك. أو التقارير مليئة بأرقام لا تفهمها، ولا أحد يشرحها. أو تسمع وعوداً بنتائج مضمونة، وهي وعود لا يستطيع أي مسوّق صادق أن يقطعها. أو تنخفض النتائج، ويكون السبب دائماً خطأ شخص آخر. أو تُقابل الأسئلة بالدفاع عن النفس بدل الإجابة عنها. وعلامة واحدة وحدها قد لا تعني الكثير. لكن عدة علامات معاً تعني شيئاً.",
+      "وهناك أيضاً علامات جيدة. يشرح المسوّق الأمور بكلمات بسيطة، ويرحّب بأسئلتك. ويمكنك الوصول إلى حساباتك، وتعرف أين يذهب المال. ويُعترف بالأخطاء مبكراً، مع خطة لإصلاحها. وتصل الأفكار دون أن تُطلب. ويسأل المسوّق عن حجوزاتك وعملائك، لا عن النقرات فقط. وهذه العلامة الأخيرة هي الأهم. فهي تعني أنه يهتم بعملك، لا بتقريره فقط.",
+      "وأخبره بمخاوفك بهدوء، ومبكراً. وقل ما تراه، بالأرقام: «زادت الاستفسارات، لكن الحجوزات لم تزد. ما رأيك في ما يحدث؟» فهذا السؤال يفتح محادثة. أما الانتظار في صمت لأشهر، ثم إنهاء العمل بغضب، فلا يساعد أحداً. والشريك الجيد يرحّب بالمحادثة الصادقة. وطريقة رده على سؤال صعب تخبرك أكثر من أي تقرير.",
+      "إذن، متى تبقى، ومتى تنتقل إلى غيره؟ ابقَ عندما يكون التعلّم واضحاً: اختبارات تُجرى، ودروس تُشارك، والأرقام تتحرك في الاتجاه المتفق عليه، ولو ببطء. وفكّر في التغيير عندما تمر أشهر دون تعلّم، ودون صدق بشأن الإخفاقات، ودون قرارات. لكن تذكر أن التغيير له تكلفة أيضاً. فالشخص الجديد يحتاج إلى وقت ليتعلم عملك وسوقك وعملاءك. وغيّر لسبب واضح، لا بدافع الإحباط وحده.",
+      "وفي الشهر التالي، افعل ثلاثة أشياء. اكتب هدفاً واحداً يمكنك عدّه. واطلب الأسئلة الثلاثة في التقرير التالي. وحدد موعداً للمراجعة، في التقويم، وأرقامك جاهزة. فمراجعة التسويق ليست محاولة للإيقاع بأحد. بل هي طريقة لاتخاذ القرار التالي بشكل جيد. والمراجعة العادلة تحمي مالك، وتحمي الشريك الجيد أيضاً."
+    ]
+  }
+}

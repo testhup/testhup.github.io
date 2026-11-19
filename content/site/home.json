@@ -1,12 +1,12 @@
 {
  "home": {
   "title": {
-   "en": "Karma Shawky | Growth & Digital Marketing Consultant",
-   "ar": "كارما شوقي | مستشارة نمو وتسويق رقمي"
+   "en": "Karma Shawky | Social Media Specialist & Digital Marketing Consultant",
+   "ar": "كارما شوقي | أخصائية سوشيال ميديا وتسويق رقمي"
   },
   "description": {
-   "en": "Karma Shawky is a growth and marketing strategy consultant and marketing manager for businesses in Egypt, Saudi Arabia and the GCC: consulting, marketing audits and monthly marketing management.",
-   "ar": "كارما شوقي مستشارة نمو واستراتيجية تسويق ومديرة تسويق لأعمال في مصر والسعودية ودول الخليج: استشارات ومراجعات تسويقية وإدارة تسويق شهرية."
+   "en": "I run your social media and ads — and bring you real customers. For clinics, restaurants, real estate, and businesses in Egypt and the Gulf.",
+   "ar": "أدير السوشيال ميديا والإعلانات لعملك، وأجذب لك عملاء حقيقيين. للعيادات والمطاعم والعقارات والشركات في مصر والخليج."
   },
   "hello": {
    "en": "Hi, I'm Karma!",
@@ -21,8 +21,8 @@
    "ar": "إلى نموٍّ حقيقي للأعمال."
   },
   "highlight": {
-   "en": "growth systems",
-   "ar": "نمو"
+   "en": "social media and ads",
+   "ar": "السوشيال ميديا والإعلانات"
   },
   "sub": {
    "en": "Growth & Digital Marketing Consultant",
@@ -41,8 +41,8 @@
    "ar": "استراتيجية بشخصية."
   },
   "bitTitle": {
-   "en": "A little bit of everything",
-   "ar": "قليل من كل شيء"
+   "en": "A quick look around",
+   "ar": "جولة سريعة"
   },
   "bits": [
    {
@@ -65,8 +65,8 @@
      "ar": "طريقة تفكيري"
     },
     "sub": {
-     "en": "Ideas & insights",
-     "ar": "أفكار وملاحظات"
+     "en": "Ideas to help your marketing",
+     "ar": "أفكار تساعدك في التسويق"
     }
    },
    {
@@ -77,8 +77,8 @@
      "ar": "ماذا أقدّم"
     },
     "sub": {
-     "en": "Strategy & growth",
-     "ar": "استراتيجية ونمو"
+     "en": "Plans that grow your business",
+     "ar": "خطط تنمّي عملك"
     }
    },
    {
@@ -103,16 +103,16 @@
    "ar": "كل المشاريع"
   },
   "aboutTitle": {
-   "en": "About Me",
-   "ar": "نبذة عني"
+   "en": "About me",
+   "ar": "تعرّف عليّ"
   },
   "aboutText": {
-   "en": "Growth consultant and marketing manager, working with businesses in Egypt and the Gulf since 2018. I start from profit, not from the ad account, and I lead the execution until the results show.",
-   "ar": "مستشارة نمو ومديرة تسويق، أعمل مع أعمال في مصر والخليج منذ 2018. أبدأ من الربح لا من حساب الإعلانات، وأقود التنفيذ حتى تظهر النتائج."
+   "en": "I'm Karma Shawky, a social media specialist and digital marketing consultant. I have worked with businesses in Egypt and the Gulf since 2018, and I start from the result you want — not from the ads alone.",
+   "ar": "أنا كارما شوقي، أخصائية سوشيال ميديا وتسويق رقمي. أعمل مع أعمال في مصر والخليج منذ 2018، وأبدأ من النتيجة التي تريدها، لا من الإعلانات وحدها."
   },
   "aboutCta": {
-   "en": "Learn more about me",
-   "ar": "اعرف المزيد عني"
+   "en": "More about me",
+   "ar": "المزيد عني"
   },
   "bubble": {
    "en": "Profit first.",
@@ -165,12 +165,12 @@
    }
   ],
   "ctaBandTitle": {
-   "en": "Let’s turn your marketing into growth you can measure",
-   "ar": "لنحوّل تسويقك إلى نمو يمكن قياسه"
+   "en": "Let’s turn your marketing into results you can actually see",
+   "ar": "لنحوّل تسويقك إلى نتائج واضحة تراها بنفسك"
   },
   "ctaBandSub": {
-   "en": "Start with a conversation about your business. I tell you what I would do, what is worth the spend and what is not.",
-   "ar": "ابدأ بحديث عن عملك. أخبرك بما سأفعله، وما يستحق الإنفاق، وما لا يستحق."
+   "en": "Start with a simple conversation about your business. I’ll tell you what I would do, what is worth spending on, and what is not.",
+   "ar": "ابدأ بحديث بسيط عن عملك. أخبرك بما سأفعله، وما يستحق أن تنفق عليه، وما لا يستحق."
   },
   "ctaBandBtn": {
    "en": "Book a consultation",
@@ -186,15 +186,15 @@
   },
   "sitesTitle": {
    "en": "Websites I built",
-   "ar": "مواقع نفّذتها"
+   "ar": "مواقع صممتها"
   },
   "sitesLead": {
-   "en": "Live sites I planned and built",
-   "ar": "مواقع منشورة خططت لها ونفذتها"
+   "en": "{sites} websites I designed and built for businesses in Saudi Arabia, the UAE, and Egypt.",
+   "ar": "{sites} مواقع صممتها ونفذتها لأعمال في السعودية والإمارات ومصر."
   },
   "positioning": {
-   "en": "I don’t just manage marketing. I build growth systems.",
-   "ar": "لا أكتفي بإدارة التسويق، بل أبني منظومات نمو."
+   "en": "I run your social media and ads — and bring you real customers",
+   "ar": "أدير السوشيال ميديا والإعلانات لعملك، وأجذب لك عملاء حقيقيين"
   },
   "heroSub": {
    "en": "Strategy, performance and reporting for businesses in Egypt, Saudi Arabia and the GCC.",
@@ -311,76 +311,76 @@
    "ar": "احجز استشارة مجانية"
   },
   "ctaAudit": {
-   "en": "Request a marketing audit",
+   "en": "Ask for a marketing audit",
    "ar": "اطلب مراجعة تسويقية"
   },
   "ctaProposal": {
-   "en": "Request a custom proposal",
-   "ar": "اطلب عرض تعاون مخصّصاً"
+   "en": "Ask for a custom proposal",
+   "ar": "اطلب عرض تعاون مخصص لعملك"
   },
   "challengesTitle": {
-   "en": "Business challenges I help solve",
-   "ar": "تحديات تجارية أساعد في حلها"
+   "en": "Common problems I help you solve",
+   "ar": "مشاكل شائعة أساعدك على حلها"
   },
   "challenges": [
    {
     "t": {
-     "en": "We spend on marketing, but cannot see what it returns",
-     "ar": "ننفق على التسويق، لكننا لا نرى ما يعود منه"
+     "en": "You spend on marketing, but you can’t see what it brings back",
+     "ar": "تنفق على التسويق، ولا تعرف ما الذي يعود عليك منه"
     },
     "d": {
-     "en": "I connect ad spend to leads, sales and margin, so budget decisions rest on numbers that matter.",
-     "ar": "أربط الإنفاق الإعلاني بالعملاء المحتملين والمبيعات والهامش، فتُبنى قرارات الميزانية على أرقام ذات معنى."
+     "en": "I link what you spend on ads to the enquiries, sales and profit it brings, so you can see where your money goes and what is worth keeping.",
+     "ar": "أربط ما تنفقه على الإعلانات بمن يتواصلون معك، وبالمبيعات والربح، لتعرف أين يذهب مالك وما الذي يستحق الاستمرار."
     },
-    "href": "audit",
+    "href": "book",
     "cta": {
-     "en": "Request a marketing audit",
-     "ar": "اطلب مراجعة تسويقية"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    },
    {
     "t": {
-     "en": "Leads arrive, but too few become customers",
-     "ar": "يصلنا عملاء محتملون، لكن قلة منهم تتحول إلى عملاء"
+     "en": "You get plenty of enquiries, but few of them become real customers",
+     "ar": "تصلك استفسارات كثيرة، لكن قليلاً منها يتحول إلى عميل حقيقي"
     },
     "d": {
-     "en": "I look at lead quality, follow-up speed and the sales conversation, not just cost per lead.",
-     "ar": "أنظر في جودة العملاء المحتملين وسرعة المتابعة ومحادثة البيع، لا في تكلفة العميل المحتمل وحدها."
+     "en": "I look at the quality of the enquiries, how fast you reply, and how you handle them — not just what each one costs.",
+     "ar": "أنظر في جودة الاستفسارات وسرعة الرد عليها وطريقة التعامل معها، لا في تكلفتها فقط."
     },
-    "href": "audit",
+    "href": "book",
     "cta": {
-     "en": "Request a marketing audit",
-     "ar": "اطلب مراجعة تسويقية"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    },
    {
     "t": {
-     "en": "Every channel is run separately and nobody owns the plan",
-     "ar": "كل قناة تُدار وحدها ولا أحد يملك الخطة كاملة"
+     "en": "Each part of your marketing works on its own, and no one sees the full picture",
+     "ar": "كل جزء من التسويق يعمل وحده، ولا أحد يرى الصورة كاملة"
     },
     "d": {
-     "en": "I set one plan and one set of numbers, and coordinate the team, agency or freelancers behind it.",
-     "ar": "أضع خطة واحدة وأرقاماً واحدة، وأنسّق الفريق أو الوكالة أو المستقلين الذين ينفّذونها."
+     "en": "I set one plan and one way to measure results, and coordinate the team, agency or freelancers who carry it out.",
+     "ar": "أضع خطة واحدة وطريقة واحدة لقياس النتائج، وأنسّق الفريق والوكالة والمستقلين لتنفيذها."
     },
-    "href": "marketing-management",
+    "href": "book",
     "cta": {
-     "en": "See monthly management",
-     "ar": "تعرّف على الإدارة الشهرية"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    },
    {
     "t": {
-     "en": "We want to enter a new market and do not know where to start",
-     "ar": "نريد دخول سوق جديدة ولا نعرف من أين نبدأ"
+     "en": "You want to enter a new market and don’t know where to start",
+     "ar": "تريد دخول سوق جديدة، ولا تعرف من أين تبدأ"
     },
     "d": {
-     "en": "I help define the offer, the channels and the first tests for a market like Saudi Arabia or the wider GCC.",
-     "ar": "أساعد في تحديد العرض والقنوات والاختبارات الأولى لسوق مثل السعودية أو دول الخليج."
+     "en": "I help you define what you will offer, where you will promote it, and the first steps to test in a market like Saudi Arabia or the Gulf.",
+     "ar": "أساعدك على تحديد ما ستقدمه، وأين ستعلن عنه، وأول خطوات التجربة في سوق مثل السعودية أو دول الخليج."
     },
-    "href": "proposal",
+    "href": "book",
     "cta": {
-     "en": "Request a custom proposal",
-     "ar": "اطلب عرض تعاون مخصّصاً"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    },
    {
@@ -392,75 +392,75 @@
      "en": "I turn reporting into a monthly decision: what changed, why, and what to do next.",
      "ar": "أحوّل التقارير إلى قرار شهري: ما الذي تغيّر، ولماذا، وماذا نفعل بعده."
     },
-    "href": "marketing-management",
+    "href": "book",
     "cta": {
-     "en": "See monthly management",
-     "ar": "تعرّف على الإدارة الشهرية"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    },
    {
     "t": {
-     "en": "Our marketing depends on a vendor we cannot evaluate",
-     "ar": "يعتمد تسويقنا على جهة لا نستطيع تقييمها"
+     "en": "You depend on someone else for your marketing, and you can’t judge their work",
+     "ar": "يعتمد تسويقك على شخص آخر، ولا تستطيع الحكم على عمله"
     },
     "d": {
-     "en": "I review the work, set clear goals and give you an independent view of what is working.",
-     "ar": "أراجع العمل وأضع أهدافاً واضحة وأقدّم لك رأياً مستقلاً فيما ينجح."
+     "en": "I review the work myself, set clear goals, and tell you honestly what is working and what is not.",
+     "ar": "أراجع العمل بنفسي، وأضع أهدافاً واضحة، وأخبرك بصراحة بما ينجح وما لا ينجح."
     },
-    "href": "consulting",
+    "href": "book",
     "cta": {
-     "en": "See paid consulting",
-     "ar": "تعرّف على الاستشارات"
+     "en": "Book a free consultation",
+     "ar": "احجز استشارة مجانية"
     }
    }
   ],
   "pillarsTitle": {
-   "en": "Consulting & services",
-   "ar": "الاستشارات والخدمات"
+   "en": "What I do for you",
+   "ar": "ماذا أقدم لك"
   },
   "approachTitle": {
-   "en": "How I approach a business",
-   "ar": "كيف أتعامل مع أي عمل"
+   "en": "How we work together",
+   "ar": "كيف نعمل معاً"
   },
   "approach": [
    {
     "t": {
-     "en": "Understand the business",
-     "ar": "فهم العمل"
+     "en": "We get to know your business",
+     "ar": "نتعرف على عملك"
     },
     "d": {
-     "en": "Offer, margins, customers and how money is actually made.",
-     "ar": "العرض والهوامش والعملاء وكيف يتحقق الدخل فعلاً."
+     "en": "What you offer, who your customers are, and what you want to reach.",
+     "ar": "ما الذي تقدمه، ومن عملاؤك، وما الذي تريد الوصول إليه."
     }
    },
    {
     "t": {
-     "en": "Diagnose with data",
-     "ar": "التشخيص بالبيانات"
+     "en": "We prepare the plan and content",
+     "ar": "نجهز الخطة والمحتوى"
     },
     "d": {
-     "en": "Ads, funnel, tracking and follow-up, read together.",
-     "ar": "الإعلانات ومسار التحويل والتتبّع والمتابعة، تُقرأ معاً."
+     "en": "A clear plan, with content and ads ready to launch.",
+     "ar": "خطة واضحة، ومحتوى وإعلانات جاهزة للإطلاق."
     }
    },
    {
     "t": {
-     "en": "Decide the priorities",
-     "ar": "تحديد الأولويات"
+     "en": "We launch the ads",
+     "ar": "نطلق الإعلانات"
     },
     "d": {
-     "en": "A short list of moves, ranked by business impact.",
-     "ar": "قائمة قصيرة من الخطوات مرتبة حسب أثرها على العمل."
+     "en": "We publish the content and run the campaigns on the right platforms.",
+     "ar": "ننشر المحتوى ونشغّل الحملات على المنصات المناسبة."
     }
    },
    {
     "t": {
-     "en": "Lead execution and review",
-     "ar": "قيادة التنفيذ والمراجعة"
+     "en": "We follow the results and improve them",
+     "ar": "نتابع النتائج ونحسّنها"
     },
     "d": {
-     "en": "Run it against agreed goals and review it every month.",
-     "ar": "التنفيذ وفق أهداف متفق عليها ومراجعة كل شهر."
+     "en": "A clear monthly report. We improve what works and stop what doesn't.",
+     "ar": "تقرير شهري واضح، ونحسّن ما يعمل ونوقف ما لا يعمل."
     }
    }
   ],
@@ -469,8 +469,8 @@
    "ar": "رؤى وأفكار"
   },
   "heroDesc": {
-   "en": "I design smart marketing strategies and a scalable structure that deliver sustainable growth and measurable results.",
-   "ar": "أصمم استراتيجيات تسويقية ذكية وبنية قابلة للتوسع تحقق نموًا مستدامًا ونتائج قابلة للقياس."
+   "en": "I build a clear marketing plan with you, help you put it into action step by step, and follow the results together.",
+   "ar": "أضع لك خطة تسويق واضحة، وأساعدك على تنفيذها خطوة بخطوة، ونتابع النتائج معاً."
   },
   "heroCtaPrimary": {
    "en": "Book a free consultation",
@@ -550,16 +550,16 @@
    }
   ],
   "heroNote": {
-   "en": "The first consultation is free.",
-   "ar": "الاستشارة الأولى مجانية."
+   "en": "Marketing since 2018. Your first consultation is free.",
+   "ar": "خبرة في التسويق منذ 2018، والاستشارة الأولى مجانية."
   },
   "casesTitle": {
-   "en": "Selected case studies",
-   "ar": "دراسات حالة مختارة"
+   "en": "Real results",
+   "ar": "نتائج حقيقية"
   },
   "casesLead": {
-   "en": "Real accounts, real reports. Every number comes from the monthly reports.",
-   "ar": "حسابات حقيقية وتقارير حقيقية. كل رقم مأخوذ من التقارير الشهرية."
+   "en": "Every number here comes from a real monthly report.",
+   "ar": "كل رقم هنا مأخوذ من تقرير شهري حقيقي."
   },
   "caseLabels": {
    "problem": {
@@ -582,6 +582,276 @@
   "readMore": {
    "en": "Read",
    "ar": "اقرأ"
+  },
+  "heroAud": {
+   "en": "For clinics, restaurants, real estate, and businesses in Egypt and the Gulf",
+   "ar": "للعيادات والمطاعم والعقارات والشركات في مصر والخليج"
+  },
+  "offerLead": {
+   "en": "Six services, all serving one goal: real customers for your business.",
+   "ar": "ست خدمات، وكلها تخدم هدفاً واحداً: عملاء حقيقيون لعملك."
+  },
+  "offer": [
+   {
+    "icon": "📱",
+    "t": {
+     "en": "Social media management",
+     "ar": "إدارة السوشيال ميديا"
+    },
+    "d": {
+     "en": "Content, designs, Reels, and regular posting for your Instagram, Facebook, and TikTok.",
+     "ar": "محتوى وتصاميم وريلز ونشر منتظم لحساباتك على إنستجرام وفيسبوك وتيك توك."
+    }
+   },
+   {
+    "icon": "🎯",
+    "t": {
+     "en": "Ads and lead generation",
+     "ar": "الإعلانات وتوليد العملاء"
+    },
+    "d": {
+     "en": "Meta and Google Ads that bring real enquiries and bookings — not just likes.",
+     "ar": "إعلانات ميتا وجوجل تجلب استفسارات وحجوزات حقيقية، لا إعجابات فقط."
+    }
+   },
+   {
+    "icon": "🌐",
+    "t": {
+     "en": "Website design",
+     "ar": "تصميم المواقع"
+    },
+    "d": {
+     "en": "I design a clear, fast website that shows your business and turns visitors into customers.",
+     "ar": "أصمم موقعاً واضحاً وسريعاً يعرض عملك ويحوّل الزائر إلى عميل."
+    }
+   },
+   {
+    "icon": "🔍",
+    "t": {
+     "en": "Whole-business audit",
+     "ar": "مراجعة شاملة لعملك"
+    },
+    "d": {
+     "en": "I review your whole business — marketing, website, and how you sell — and tell you what to fix first.",
+     "ar": "أراجع عملك كله: التسويق والموقع وطريقة البيع، وأقول لك ما الذي يحتاج إلى إصلاح أولاً."
+    }
+   },
+   {
+    "icon": "📊",
+    "t": {
+     "en": "Strategy and analytics",
+     "ar": "الاستراتيجية والتحليل"
+    },
+    "d": {
+     "en": "Marketing plans, landing pages, and monthly reports — and we improve the results every month.",
+     "ar": "خطط تسويق وصفحات هبوط وتقارير شهرية، ونحسّن النتائج كل شهر."
+    }
+   },
+   {
+    "icon": "💬",
+    "t": {
+     "en": "Consulting and monthly management",
+     "ar": "الاستشارات والإدارة الشهرية"
+    },
+    "d": {
+     "en": "Independent advice and monthly management of your marketing, coordinating your team, agencies, and freelancers.",
+     "ar": "استشارة مستقلة وإدارة شهرية لتسويقك، وأنسّق الفريق والوكالات والمستقلين."
+    }
+   }
+  ],
+  "proof": [
+   {
+    "big": {
+     "en": "346",
+     "ar": "346"
+    },
+    "unit": {
+     "en": "",
+     "ar": ""
+    },
+    "who": {
+     "en": "WhatsApp conversations in May 2026",
+     "ar": "محادثة واتساب في مايو 2026"
+    },
+    "text": {
+     "en": "Dr. Tariq Hatamleh, ENT surgeon — from $209.68 of ad spend, at $0.40 per conversation, and 287.6K Instagram views in July.",
+     "ar": "د. طارق حتاملة، جراح أنف وأذن وحنجرة — بإنفاق إعلاني 209.68$، وتكلفة 0.40$ للمحادثة، و287.6 ألف مشاهدة على إنستجرام في يوليو."
+    }
+   },
+   {
+    "big": {
+     "en": "184.8K",
+     "ar": "184.8"
+    },
+    "unit": {
+     "en": "",
+     "ar": "ألف"
+    },
+    "who": {
+     "en": "Instagram views in June 2026",
+     "ar": "مشاهدة على إنستجرام في يونيو 2026"
+    },
+    "text": {
+     "en": "Smokey Woods Burgery, a burger restaurant in Jordan — 65.9K reach, 3.7K interactions, and Facebook link clicks up 332%.",
+     "ar": "سموكي وودز برجري، مطعم برجر في الأردن — وصول 65.9 ألف، وتفاعلات 3.7 ألف، ونقرات روابط فيسبوك بزيادة 332%."
+    }
+   },
+   {
+    "big": {
+     "en": "109",
+     "ar": "109"
+    },
+    "unit": {
+     "en": "",
+     "ar": ""
+    },
+    "who": {
+     "en": "Leads in July 2026, and 2 confirmed sales",
+     "ar": "عميل محتمل في يوليو 2026، ومبيعتان مؤكدتان"
+    },
+    "text": {
+     "en": "Veralex, a company-formation service in Saudi Arabia — EGP 10,368.77 total spend, EGP 95.13 average cost per lead, and SAR 41,000 in revenue.",
+     "ar": "فيرالكس، خدمة تأسيس شركات في السعودية — إجمالي الإنفاق 10,368.77 جنيه، ومتوسط التكلفة 95.13 جنيه للعميل، والإيراد 41,000 ريال."
+    }
+   }
+  ],
+  "sectorsTitle": {
+   "en": "Who I work with",
+   "ar": "من أعمل معهم"
+  },
+  "sectorsLead": {
+   "en": "All my clients, grouped by sector.",
+   "ar": "كل عملائي، مقسّمون حسب المجال."
+  },
+  "sectorsAll": {
+   "en": "All clients:",
+   "ar": "كل العملاء:"
+  },
+  "sectors": [
+   {
+    "id": "healthcare",
+    "icon": "🏥",
+    "t": {
+     "en": "Healthcare",
+     "ar": "المجال الطبي"
+    },
+    "d": {
+     "en": "I bring enquiries and bookings to clinics and medical centers.",
+     "ar": "أجلب استفسارات وحجوزات للعيادات والمراكز الطبية."
+    },
+    "case": {
+     "en": "Case study: Dr. Tariq Hatamleh — 346 WhatsApp conversations in May 2026.",
+     "ar": "دراسة حالة: د. طارق حتاملة — 346 محادثة واتساب في مايو 2026."
+    }
+   },
+   {
+    "id": "food",
+    "icon": "🍔",
+    "t": {
+     "en": "Restaurants & food",
+     "ar": "المطاعم والأكل والمشروبات"
+    },
+    "d": {
+     "en": "Content and ads that make your restaurant known and bring more orders.",
+     "ar": "محتوى وإعلانات تجعل مطعمك معروفاً وتجلب طلبات أكثر."
+    },
+    "case": {
+     "en": "Case study: Smokey Woods Burgery — 184.8K Instagram views in June 2026.",
+     "ar": "دراسة حالة: سموكي وودز برجري — 184.8 ألف مشاهدة على إنستجرام في يونيو 2026."
+    }
+   },
+   {
+    "id": "realestate",
+    "icon": "🏢",
+    "t": {
+     "en": "Real estate",
+     "ar": "العقارات"
+    },
+    "d": {
+     "en": "Marketing that brings serious enquiries for property projects and design work.",
+     "ar": "تسويق يجلب استفسارات جادة للمشاريع العقارية وأعمال التصميم والديكور."
+    },
+    "case": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "edu",
+    "icon": "🎓",
+    "t": {
+     "en": "Education & training",
+     "ar": "التعليم والتدريب"
+    },
+    "d": {
+     "en": "Ad campaigns that bring new registrations for training programs.",
+     "ar": "حملات إعلانية تجلب تسجيلات جديدة لبرامج التدريب."
+    },
+    "case": {
+     "en": "Case study: NAWA — a healthcare training academy in Saudi Arabia.",
+     "ar": "دراسة حالة: نوا — أكاديمية تدريب صحي في السعودية."
+    }
+   },
+   {
+    "id": "business",
+    "icon": "💼",
+    "t": {
+     "en": "Business & services",
+     "ar": "أعمال وخدمات"
+    },
+    "d": {
+     "en": "Marketing for business services that brings new clients and follows them through to the sale.",
+     "ar": "تسويق لخدمات الأعمال يجلب عملاء جدداً ويتابعهم حتى إتمام البيع."
+    },
+    "case": {
+     "en": "Case study: Veralex — 109 leads and 2 confirmed sales in July 2026.",
+     "ar": "دراسة حالة: فيرالكس — 109 عميل محتمل ومبيعتان مؤكدتان في يوليو 2026."
+    }
+   },
+   {
+    "id": "retail",
+    "icon": "🛍️",
+    "t": {
+     "en": "Retail & stores",
+     "ar": "التجزئة والمتاجر"
+    },
+    "d": {
+     "en": "Content and ads that introduce people to your store and bring visits and orders.",
+     "ar": "محتوى وإعلانات تعرّف الناس بمتجرك وتجلب زيارات وطلبات."
+    },
+    "case": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "personal",
+    "icon": "👤",
+    "t": {
+     "en": "Personal brands",
+     "ar": "علامات شخصية"
+    },
+    "d": {
+     "en": "Account management and a strong presence for personal brands.",
+     "ar": "إدارة حسابات وبناء حضور قوي للعلامات الشخصية."
+    },
+    "case": {
+     "en": "",
+     "ar": ""
+    }
+   }
+  ],
+  "approachLead": {
+   "en": "Four clear steps — you always know what happens next.",
+   "ar": "أربع خطوات واضحة، تعرف في كل خطوة ما الذي سيحدث."
+  },
+  "finalTitle": {
+   "en": "Want to start?",
+   "ar": "هل تريد أن نبدأ؟"
+  },
+  "finalSub": {
+   "en": "Your first consultation is free. We talk about your business, and I tell you what I would do and what is worth spending on.",
+   "ar": "الاستشارة الأولى مجانية. نتحدث عن عملك، وأخبرك بما سأفعله وما الذي يستحق أن تنفق عليه."
   }
  }
 }

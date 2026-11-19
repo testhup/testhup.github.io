@@ -1,0 +1,40 @@
+{
+  "slug": "manager-freelancer-or-agency",
+  "order": 4,
+  "emoji": "🧭",
+  "min": 4,
+  "title": {
+    "ar": "مدير تسويق أم مستقل أم وكالة؟ كيف تختار ما يناسب عملك",
+    "en": "A marketing manager, a freelancer, or an agency? How to choose what fits your business"
+  },
+  "summary": {
+    "ar": "كل نموذج يناسب مرحلة مختلفة. ما الذي يجيده كل نموذج، وأين يجد صعوبة، وكيف تطابق الاختيار مع عملك.",
+    "en": "Each model fits a different stage. What each one does well, where each one struggles, and how to match the choice to your business."
+  },
+  "body": {
+    "ar": [
+      "في مرحلة ما، يواجه كل عمل ينمو الخيار نفسه: توظيف مدير تسويق، أو العمل مع مستقل، أو التوقيع مع وكالة. وكل خيار يبدو معقولاً. ولكل خيار من يؤيده بقوة. وكل خيار يناسب مرحلة مختلفة من العمل. والاختيار الخاطئ نادراً ما يكون مقدم خدمة سيئاً. بل هو غالباً مقدم خدمة جيد في نموذج خاطئ.",
+      "والمستقل يمنحك شخصاً واحداً، بشكل مباشر. فأنت تتحدث إلى الشخص الذي ينفذ العمل. والقرارات تتحرك بسرعة، والتواصل يظل بسيطاً، والتكلفة تكون غالباً أقل من الوكالة. ولعمل صغير له قناة واحدة واضحة وميزانية متواضعة، يكون هذا كافياً غالباً. والخطر هو القدرة: فالشخص الواحد لديه يدان اثنتان ومجموعة مهارات واحدة، ولا بديل له عندما تقاطعه الحياة.",
+      "والوكالة تمنحك فريقاً. فالتصميم والكتابة والإعلانات والتقارير يمكن أن تجتمع كلها تحت سقف واحد. ولعمل يدير عدة قنوات في وقت واحد، يكون هذا التنوع مهماً. والمقايضة هي الانتباه: فحسابك يتشارك الفريق مع حسابات أخرى، والشخص الذي باع لك العمل قد لا يكون الشخص الذي ينفذه. واسأل من سيتولى حسابك يوماً بعد يوم، وكم حساباً يتولى.",
+      "ومدير التسويق يمنحك ملكية. فشخص واحد يحمل الخطة والأرقام والقرارات، شهراً بعد شهر. ويتعلم عملك بعمق، ويجلس قريباً من المبيعات والاستقبال، ويبني معرفة تبقى. والمقايضة هي الاتساع: فالشخص الواحد لا يمكن أن يكون خبيراً في كل شيء، والمدير يحتاج مع ذلك إلى مصممين وكتاب ومتخصصين في الإعلانات حوله. والدور يعمل بأفضل شكل عندما يستطيع المدير توجيه الآخرين.",
+      "وهناك أيضاً نماذج مختلطة، وهي شائعة. مدير يوجّه مستقلين. أو وكالة للإعلانات، مع مستقل للمحتوى. أو مستشار يضع الخطة، بينما ينفذها فريقك. والنماذج المختلطة تعمل عندما يملك شخص واحد الصورة الكاملة. وتفشل عندما يعمل كل جزء وحده، ولا أحد يربط الأجزاء. فالملكية أهم من الاسم.",
+      "ولتختار، أجب عن أربعة أسئلة بصدق. في أي مرحلة يقف العمل: بداية أم نمو أم استقرار؟ وما الميزانية الحقيقية، بما في ذلك الإنفاق الإعلاني؟ وما السرعة المطلوبة، وكم يمكنك أن تشرف؟ وكيف يبدو النجاح بعد ستة أشهر؟ فالإجابات تضيّق المجال بسرعة. فالعمل الناشئ الذي يختبر قناة واحدة يحتاج إلى شيء مختلف عن العيادة التي تدير خمس قنوات.",
+      "واحذر عدم التطابق الشائع: شراء فريق عندما تحتاج إلى عقل، أو توظيف عقل عندما تحتاج إلى أيدٍ. فإذا لم يكن أحد يملك الخطة، فإن إضافة منفذين أكثر تضيف نشاطاً أكثر، لا اتجاهاً أكثر. وإذا كانت الخطة واضحة وكان عنق الزجاجة هو الإنتاج، فإن مديراً وحده لن ينتج ما يكفي. وحدد عنق الزجاجة أولاً، ثم اشترِ النموذج الذي يزيله.",
+      "وتخيل، على سبيل المثال الافتراضي، عيادة لها عرض واضح وفريق صغير. يوقّع صاحبها مع وكالة كبيرة، وينتقل الحساب بين موظفين جدد. ولا شيء خاطئ تماماً، ومع ذلك لا شيء يتحرك. والميزانية نفسها، عندما تُنفق على مدير بدوام جزئي ومستقل واحد، تمنح العيادة خطة وشخصاً يملكها وأيدي لتنفيذها. والميزانية لم تتغير. بل تغيّر النموذج.",
+      "وأياً كان ما تختاره، احمِ ثلاثة أشياء. الوصول إلى حساباتك وصفحاتك وبياناتك، من اليوم الأول. وهدفاً مكتوباً يمكنك عدّه، يُراجع شهرياً. وموعداً للمراجعة، تحكم فيه على النموذج نفسه، لا على الأشخاص فيه فقط. فالنماذج، مثل مقدمي الخدمة، يمكن تغييرها. وموعد المراجعة هو ما يجعل الاختيار صادقاً.",
+      "واختر النموذج الذي يناسب المرحلة التي تقف فيها، لا المرحلة التي تحلم بها. مستقل للتركيز، أو وكالة للتنوع، أو مدير للملكية، أو مزيج يملكه شخص واحد. وراجع الاختيار بعد بضعة أشهر، وأرقامك في يدك. فالنموذج الصحيح يمنحك هدوءاً: العمل يتحرك، والأرقام واضحة، وتعرف من تتصل به."
+    ],
+    "en": [
+      "At some point, every growing business faces the same choice: hire a marketing manager, work with a freelancer, or sign with an agency. Each option sounds reasonable. Each has people who swear by it. And each fits a different stage of a business. The wrong choice is rarely a bad provider. It is usually a good provider in the wrong model.",
+      "A freelancer gives you one person, directly. You speak to the person who does the work. Decisions move fast, communication stays simple, and the cost is usually lower than an agency. For a small business with one clear channel and a modest budget, this is often enough. The risk is capacity: one person has one set of hands, one set of skills, and no cover when life interrupts.",
+      "An agency gives you a team. Design, copy, ads, and reporting can all sit under one roof. For a business running several channels at once, that range matters. The trade is attention: your account shares the team with other accounts, and the person who sold you the work may not be the person who does it. Ask who will handle your account day to day, and how many accounts they handle.",
+      "A marketing manager gives you ownership. One person carries the plan, the numbers, and the decisions, month after month. They learn your business deeply, sit close to sales and the front desk, and build knowledge that stays. The trade is breadth: one person cannot be expert in everything, and a manager still needs designers, writers, or ad specialists around them. The role works best when the manager can direct others.",
+      "There are also mixed models, and they are common. A manager who directs freelancers. An agency for ads, with a freelancer for content. A consultant who sets the plan, while your team executes it. Mixed models work when one person owns the whole picture. They fail when every part works alone and no one connects the pieces. Ownership matters more than the label.",
+      "To choose, answer four questions honestly. What stage is the business in: starting, growing, or established? What is the real budget, including ad spend? How fast must things move, and how much can you supervise? And what does success look like in six months? The answers narrow the field quickly. A startup testing one channel needs something different from a clinic running five.",
+      "Watch for the common mismatch: buying a team when you need a brain, or hiring a brain when you need hands. If no one owns the plan, adding more executors adds more activity, not more direction. If the plan is clear and the bottleneck is production, a manager alone will not produce enough. Name the bottleneck first, then buy the model that removes it.",
+      "Imagine, as a hypothetical example, a clinic with a clear offer and a small team. The owner signs with a large agency, and the account passes between juniors. Nothing is wrong, exactly, yet nothing moves. The same budget, spent on a part-time manager plus one freelancer, gives the clinic a plan, a person who owns it, and hands to execute it. The budget did not change. The model did.",
+      "Whatever you choose, protect three things. Access to your own accounts, pages, and data, from the first day. A written goal you can count, reviewed monthly. And a review date, when you judge the model itself, not only the people in it. Models, like providers, can be changed. The review date is what keeps the choice honest.",
+      "Choose the model that fits the stage you are in, not the stage you dream of. A freelancer for focus, an agency for range, a manager for ownership, or a mix with one owner. Review the choice after a few months, with your own numbers in hand. The right model feels quiet: the work moves, the numbers are clear, and you know who to call."
+    ]
+  }
+}

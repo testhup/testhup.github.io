@@ -20,8 +20,8 @@
      "ar": "استراتيجية النمو والتسويق"
     },
     "d": {
-     "en": "Where to grow, with what offer, through which channels, and in what order.",
-     "ar": "أين ينمو العمل، وبأي عرض، وعبر أي قنوات، وبأي ترتيب."
+     "en": "Where your business should grow, what to offer, where to promote it, and what to do first.",
+     "ar": "أين ينمو عملك، وماذا تقدم، وأين تعلن عنه، وماذا تفعل أولاً."
     },
     "items": {
      "en": [
@@ -41,8 +41,8 @@
     },
     "href": "proposal",
     "cta": {
-     "en": "Request a custom proposal",
-     "ar": "اطلب عرض تعاون مخصّصاً"
+     "en": "Ask for a custom proposal",
+     "ar": "اطلب عرض تعاون مخصص لعملك"
     },
     "for": {
      "en": "Owners planning growth, a launch or a new market.",
@@ -90,8 +90,8 @@
      "ar": "إدارة التسويق"
     },
     "d": {
-     "en": "Ongoing strategic leadership of your marketing, against goals we agree.",
-     "ar": "قيادة استراتيجية مستمرة لتسويقك، وفق أهداف نتفق عليها."
+     "en": "I lead your marketing month by month, against goals we agree together.",
+     "ar": "أقود تسويقك شهراً بعد شهر، وفق أهداف نتفق عليها معاً."
     },
     "items": {
      "en": [
@@ -113,7 +113,7 @@
      "ar": "تعرّف على الإدارة الشهرية"
     },
     "for": {
-     "en": "Businesses that want one accountable lead for their marketing.",
+     "en": "Businesses that want one person in charge of their marketing.",
      "ar": "لأعمال تريد مسؤولاً واحداً عن تسويقها."
     }
    },
@@ -124,8 +124,8 @@
      "ar": "الأداء وتحسين النمو"
     },
     "d": {
-     "en": "Finding what leaks, and fixing it in order of impact.",
-     "ar": "اكتشاف مواضع التسرّب ومعالجتها بحسب أثرها."
+     "en": "Finding what is not working, and fixing the most important things first.",
+     "ar": "اكتشاف ما لا يعمل بشكل جيد، وإصلاح الأهم أولاً."
     },
     "items": {
      "en": [
@@ -143,12 +143,12 @@
     },
     "href": "audit",
     "cta": {
-     "en": "Request a marketing audit",
+     "en": "Ask for a marketing audit",
      "ar": "اطلب مراجعة تسويقية"
     },
     "for": {
-     "en": "Businesses whose ads bring activity but unclear returns.",
-     "ar": "لأعمال تحقق إعلاناتها نشاطاً دون عائد واضح."
+     "en": "Businesses whose ads bring clicks and messages, but no clear return.",
+     "ar": "لأعمال تجلب إعلاناتها نقرات ورسائل، دون عائد واضح."
     }
    }
   ],

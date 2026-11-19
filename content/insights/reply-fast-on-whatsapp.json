@@ -1,0 +1,40 @@
+{
+  "slug": "reply-fast-on-whatsapp",
+  "order": 11,
+  "emoji": "💬",
+  "min": 4,
+  "title": {
+    "en": "Why a fast reply on WhatsApp wins the client",
+    "ar": "لماذا يكسب الرد السريع على واتساب العميل"
+  },
+  "summary": {
+    "en": "People message several businesses at the same time. The quick, clear, helpful reply is usually the one they answer.",
+    "ar": "الناس يراسلون أكثر من جهة في الوقت نفسه. والرد السريع الواضح المفيد هو الذي يجيبون عليه غالباً."
+  },
+  "body": {
+    "en": [
+      "Think about the moment someone sends you a message on WhatsApp. They are interested right now. They have a question, a problem, or a need, and your business is on their mind. That moment is short. If the reply comes hours later, the moment has often passed. The person is busy, or already talking to someone else.",
+      "Most people do not message one business and wait. They message several, and they continue with whoever answers first with something useful. This is not rude. It is normal. When you need a dentist, a service, or a price, you ask around. The business that replies quickly and clearly earns the conversation. The rest earn silence.",
+      "Speed alone is not enough. A fast reply that says only 'hello' helps no one. Neither does a long copied message that answers nothing. The reply must do three small things: greet the person, answer the question they asked, and give one clear next step. Short and useful beats fast and empty, every time.",
+      "A good first reply is simple. It uses the person's name if you know it. It answers the question directly, without making them read a long list. And it ends with one next step: a booking link, two available times, or one helpful question. One step, not five. The easier you make the next move, the more likely they are to take it.",
+      "Being fast every day needs organization, not heroics. Write saved answers for the questions you hear most: prices, location, working hours, how to book. Keep them short, and adjust the words to the person in front of you. A saved answer should sound like a person, not like a machine. If it sounds copied, rewrite it until it sounds like you.",
+      "Give one person the job of watching the messages. When everyone is responsible, no one is responsible. That person needs the answers, the booking calendar, and the power to confirm a time. When the conversation passes to someone else, pass the notes with it, so the client never has to repeat their story. Repeating the story is where many clients quietly give up.",
+      "Outside working hours, a short automatic greeting helps. It should say when you will reply, and what the person can send in the meantime: their name, and what they need. That way, the morning starts with useful messages, not with 'hello' and silence. And when you return, reply to those messages first, before the new ones.",
+      "Follow up, but without pressure. One polite reminder is good service. It can repeat the available times, or answer a question left open. Two or three reminders start to feel like chasing. If the person does not answer, leave the door open with a kind last message, and stop. Respect is also part of the reply.",
+      "Here is a small story. Two clinics run the same kind of ad. The first replies quickly, with a clear answer and two available times. The second replies much later, with a long message about its services. The patient books with the first, not because it is better, but because it was there when the patient was ready. In many markets, the reply is the difference between two good businesses.",
+      "This week, test your own replies. Send your business a message, as a customer, and watch what happens. How long did the reply take? Did it answer your question? Was the next step clear? Then write five saved answers, name one person to own the inbox, and set a simple greeting for the hours you are closed. Small organization, every day, wins more clients than any single ad."
+    ],
+    "ar": [
+      "فكّر في اللحظة التي يرسل فيها شخص رسالة إليك على واتساب. هو مهتم الآن. لديه سؤال، أو مشكلة، أو حاجة، وعملك في ذهنه. وهذه اللحظة قصيرة. وإذا جاء الرد بعد ساعات، تكون اللحظة قد مرّت غالباً. فالشخص مشغول، أو يتحدث مع جهة أخرى.",
+      "ومعظم الناس لا يراسلون جهة واحدة وينتظرون. بل يراسلون عدة جهات، ويكملون مع من يجيب أولاً بشيء مفيد. وهذا ليس قلة أدب. بل هو أمر طبيعي. فعندما تحتاج إلى طبيب أسنان، أو خدمة، أو سعر، فإنك تسأل في أكثر من مكان. والجهة التي ترد بسرعة ووضوح تكسب المحادثة. والباقون يكسبون الصمت.",
+      "والسرعة وحدها لا تكفي. فالرد السريع الذي يقول «مرحباً» فقط لا يساعد أحداً. وكذلك الرسالة الطويلة المنسوخة التي لا تجيب عن شيء. ويجب أن يفعل الرد ثلاثة أشياء صغيرة: أن يحيّي الشخص، وأن يجيب عن السؤال الذي سأله، وأن يعطي خطوة تالية واحدة واضحة. فالقصير المفيد يفوز على السريع الفارغ، في كل مرة.",
+      "والرد الأول الجيد بسيط. يستخدم اسم الشخص إذا كنت تعرفه. ويجيب عن السؤال مباشرة، دون أن يجعله يقرأ قائمة طويلة. وينتهي بخطوة تالية واحدة: رابط للحجز، أو موعدين متاحين، أو سؤال واحد مفيد. خطوة واحدة، لا خمس خطوات. وكلما جعلت الخطوة التالية أسهل، زاد احتمال أن يتخذها.",
+      "والسرعة كل يوم تحتاج إلى تنظيم، لا إلى بطولة. اكتب إجابات محفوظة للأسئلة التي تسمعها كثيراً: الأسعار، والموقع، وساعات العمل، وطريقة الحجز. واجعلها قصيرة، وعدّل كلماتها لتناسب الشخص أمامك. فيجب أن تبدو الإجابة المحفوظة كأنها من إنسان، لا من آلة. وإذا بدت منسوخة، فأعد كتابتها حتى تبدو كأنها منك.",
+      "وكلّف شخصاً واحداً بمتابعة الرسائل. فعندما يكون الجميع مسؤولين، لا يكون أحد مسؤولاً. وهذا الشخص يحتاج إلى الإجابات، وتقويم الحجوزات، وصلاحية تأكيد الموعد. وعندما تنتقل المحادثة إلى شخص آخر، انقل الملاحظات معها، حتى لا يضطر العميل إلى تكرار قصته. فتكرار القصة هو النقطة التي يتوقف عندها كثير من العملاء بهدوء.",
+      "وخارج ساعات العمل، تساعد رسالة ترحيب تلقائية قصيرة. يجب أن تقول متى سترد، وما الذي يمكن أن يرسله الشخص في هذه الأثناء: اسمه، وما يحتاجه. وبهذه الطريقة، يبدأ الصباح برسائل مفيدة، لا بكلمة «مرحباً» وصمت. وعندما تعود، رد على هذه الرسائل أولاً، قبل الرسائل الجديدة.",
+      "وتابع، لكن دون ضغط. فتذكير واحد مهذب خدمة جيدة. ويمكن أن يكرر المواعيد المتاحة، أو يجيب عن سؤال بقي مفتوحاً. أما التذكيران أو الثلاثة، فيبدون كالمطاردة. وإذا لم يجب الشخص، فاترك الباب مفتوحاً برسالة أخيرة لطيفة، وتوقف. فالاحترام جزء من الرد أيضاً.",
+      "وإليك قصة صغيرة. عيادتان تعرضان النوع نفسه من الإعلانات. الأولى ترد بسرعة، بإجابة واضحة وموعدين متاحين. والثانية ترد بعد وقت طويل، برسالة طويلة عن خدماتها. ويحجز المريض مع الأولى، لا لأنها أفضل، بل لأنها كانت موجودة عندما كان المريض جاهزاً. وفي أسواق كثيرة، يكون الرد هو الفرق بين عملين جيدين.",
+      "وفي هذا الأسبوع، اختبر ردودك بنفسك. أرسل رسالة إلى عملك، كأنك عميل، وراقب ما يحدث. كم استغرق الرد؟ وهل أجاب عن سؤالك؟ وهل كانت الخطوة التالية واضحة؟ ثم اكتب خمس إجابات محفوظة، وكلّف شخصاً واحداً بصندوق الرسائل، واضبط رسالة ترحيب بسيطة للساعات التي تكون فيها مغلقاً. فالتنظيم الصغير، كل يوم، يكسب عملاء أكثر من أي إعلان واحد."
+    ]
+  }
+}

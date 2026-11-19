@@ -1,25 +1,40 @@
 {
   "slug": "lead-quality-over-volume",
+  "order": 10,
   "emoji": "🧲",
-  "min": 2,
+  "min": 4,
   "title": {
     "en": "Why a cheap lead can be the most expensive one",
     "ar": "لماذا قد يكون العميل المحتمل الرخيص هو الأغلى"
   },
   "summary": {
-    "en": "Cost per lead looks great until nobody books.",
-    "ar": "تبدو تكلفة العميل المحتمل رائعة حتى لا يحجز أحد."
+    "en": "A low cost per lead means little if the leads never book. Count bookings, not just names.",
+    "ar": "تكلفة منخفضة للعميل المحتمل لا تعني الكثير إذا لم يحجز أحد. احسب الحجوزات، لا الأسماء فقط."
   },
   "body": {
     "en": [
-      "Cost per lead is the easiest number to report and the easiest to misread. A campaign can lower it by attracting people who were only curious.",
-      "The fix starts after the click. Ask what share of leads were reachable, interested and able to pay. Then change the ad, the page or the form to filter earlier.",
-      "If the sales team or front desk says the leads are bad, believe them and look at the data together."
+      "Cost per lead is the easiest number to report, and the easiest to misread. It is simply the money spent on ads divided by the number of people who left their details. A low number looks like success. But a name on a list is not a customer. The real question is always the same: how many of these people booked, and how many showed up?",
+      "A campaign can lower its cost per lead by attracting people who were only curious. A broad message, a vague promise, or a form that asks nothing will fill the list quickly. The report looks wonderful. The front desk, meanwhile, spends its day calling people who do not answer, do not remember the ad, or cannot afford the service. Cheap names are expensive days.",
+      "The cost of a bad lead is not only the ad money. It is the time of the person who replies, the follow-up messages, the empty appointment slots, and the slow loss of trust between marketing and the front desk. When the team stops believing the leads, they stop following up quickly, and even the good leads cool down. One weak link pulls the rest down with it.",
+      "The fix starts after the click. For every group of leads, ask three questions. How many were reachable? How many were truly interested? And how many were able to pay? A lead that fails any of the three is not a bad person. They are simply not your customer right now. Knowing which question fails tells you what to fix.",
+      "If people cannot be reached, the problem may be the form, the timing, or the reply speed. If they are reachable but not interested, the ad may promise more than the page delivers. If they are interested but cannot pay, the ad may be reaching the wrong audience, or hiding the price question until too late. Each answer points to a different fix. Guessing wastes money. Asking saves it.",
+      "Filter earlier, but gently. The ad should say clearly who the service is for. The page should answer the honest questions people have, including a sense of the price range, so the wrong people filter themselves out. The form can ask one or two useful questions, such as what the person needs or when they want to start. But be careful: a long form scares away good people too. Filter with information, not with obstacles.",
+      "Listen to the people who talk to the leads. If the sales team or the front desk says the leads are bad, believe them, and look at the data together. They hear the truth first: the wrong questions, the wrong expectations, the wrong budget. A short weekly conversation between marketing and the front desk teaches more than a monthly chart. Marketing and sales are one journey, not two departments arguing over numbers.",
+      "Measure what matters instead. Count the cost per real enquiry, not just per name. Count the cost per booking, and how many booked clients actually arrive. These numbers are harder to collect, because they need the front desk and marketing to share information. That sharing is the work. Without it, everyone reports success while the appointment book stays empty.",
+      "Here is a simple comparison. One campaign brings one hundred names and five bookings. Another brings forty names and eight bookings. The first looks cheaper per lead. The second is cheaper per booking, and it wastes far less of the team's time. Which campaign would you keep? The answer is obvious once you count bookings instead of names. Always ask for the number that ends in a booking.",
+      "Volume is not always wrong. A new business, or a new branch, may need many conversations to learn what the market wants. Awareness has its place. The mistake is judging every campaign by cost per lead alone. This month, follow your leads all the way to the booking. Ask the three questions. Change one filter. And decide with numbers that connect to revenue, not with numbers that only look good in a report."
     ],
     "ar": [
-      "تكلفة العميل المحتمل أسهل رقم يُعرض وأسهله سوءَ فهم. قد تخفّضه الحملة بجذب أشخاص كان دافعهم الفضول فقط.",
-      "يبدأ الحل بعد النقرة. اسأل كم نسبة العملاء الذين أمكن الوصول إليهم وكانوا مهتمين وقادرين على الدفع. ثم عدّل الإعلان أو الصفحة أو النموذج ليفرز مبكراً.",
-      "إذا قال فريق المبيعات أو الاستقبال إن العملاء غير مناسبين، فصدّقهم وراجعوا البيانات معاً."
+      "تكلفة العميل المحتمل أسهل رقم يُعرض، وأسهله سوءَ فهم. وهي ببساطة المال الذي أُنفق على الإعلانات مقسوماً على عدد الأشخاص الذين تركوا بياناتهم. والرقم المنخفض يبدو نجاحاً. لكن الاسم في قائمة ليس عميلاً. والسؤال الحقيقي يبقى نفسه دائماً: كم من هؤلاء الأشخاص حجزوا، وكم منهم حضروا فعلاً؟",
+      "قد تخفّض الحملة تكلفة العميل المحتمل بجذب أشخاص كان دافعهم الفضول فقط. فالرسالة الواسعة، أو الوعد الغامض، أو النموذج الذي لا يسأل عن شيء، تملأ القائمة بسرعة. ويبدو التقرير رائعاً. وفي الوقت نفسه، يقضي موظفو الاستقبال يومهم في الاتصال بأشخاص لا يردون، أو لا يتذكرون الإعلان، أو لا يستطيعون دفع ثمن الخدمة. فالأسماء الرخيصة أيام عمل غالية.",
+      "وتكلفة العميل غير المناسب ليست مال الإعلان فقط. بل هي وقت من يرد، ورسائل المتابعة، ومواعيد الحجز الفارغة، وفقدان الثقة البطيء بين التسويق والاستقبال. وعندما يتوقف الفريق عن تصديق العملاء المحتملين، يتوقف عن المتابعة بسرعة، وحتى العملاء الجيدون يفقدون حماسهم. فحلقة ضعيفة واحدة تسحب الباقي معها إلى الأسفل.",
+      "ويبدأ الحل بعد النقرة. ولكل مجموعة من العملاء المحتملين، اسأل ثلاثة أسئلة. كم منهم أمكن الوصول إليهم؟ وكم منهم كان مهتماً فعلاً؟ وكم منهم كان قادراً على الدفع؟ والعميل الذي يفشل في أي سؤال من الثلاثة ليس شخصاً سيئاً. بل هو ببساطة ليس عميلك الآن. ومعرفة السؤال الذي يفشل فيه تخبرك بما يجب إصلاحه.",
+      "فإذا تعذّر الوصول إلى الناس، فقد تكون المشكلة في النموذج، أو في التوقيت، أو في سرعة الرد. وإذا أمكن الوصول إليهم لكنهم غير مهتمين، فقد يكون الإعلان يعد بأكثر مما تقدمه الصفحة. وإذا كانوا مهتمين لكنهم لا يستطيعون الدفع، فقد يكون الإعلان يصل إلى الجمهور الخطأ، أو يؤجل سؤال السعر حتى وقت متأخر جداً. وكل إجابة تشير إلى إصلاح مختلف. والتخمين يضيّع المال. أما السؤال فيوفّره.",
+      "وفرز مبكراً، لكن بلطف. يجب أن يقول الإعلان بوضوح لمن هذه الخدمة. ويجب أن تجيب الصفحة عن الأسئلة الصادقة التي تدور في ذهن الناس، بما في ذلك فكرة عن نطاق السعر، حتى يستبعد الأشخاص غير المناسبين أنفسهم. ويمكن أن يسأل النموذج سؤالاً أو سؤالين مفيدين، مثل ما الذي يحتاجه الشخص أو متى يريد أن يبدأ. لكن انتبه: النموذج الطويل يخيف الأشخاص الجيدين أيضاً. فرز بالمعلومات، لا بالعقبات.",
+      "واستمع إلى من يتحدثون مع العملاء المحتملين. فإذا قال فريق المبيعات أو موظفو الاستقبال إن العملاء غير مناسبين، فصدّقهم، وراجعوا البيانات معاً. فهم يسمعون الحقيقة أولاً: الأسئلة الخطأ، والتوقعات الخطأ، والميزانية الخطأ. ومحادثة قصيرة كل أسبوع بين التسويق والاستقبال تعلّم أكثر من رسم بياني شهري. فالتسويق والمبيعات رحلة واحدة، لا قسمان يتجادلان حول الأرقام.",
+      "وقِس ما يهم بدلاً من ذلك. احسب تكلفة الاستفسار الحقيقي، لا تكلفة الاسم فقط. واحسب تكلفة الحجز، وكم من العملاء الذين حجزوا حضروا فعلاً. وهذه الأرقام أصعب في الجمع، لأنها تحتاج إلى أن يتبادل الاستقبال والتسويق المعلومات. وهذا التبادل هو العمل نفسه. ومن دونه، يعلن الجميع النجاح بينما يبقى دفتر المواعيد فارغاً.",
+      "وإليك مقارنة بسيطة. حملة تجلب مئة اسم وخمسة حجوزات. وحملة أخرى تجلب أربعين اسماً وثمانية حجوزات. الأولى تبدو أرخص لكل عميل محتمل. والثانية أرخص لكل حجز، وتضيّع وقتاً أقل بكثير من وقت الفريق. فأي حملة ستبقي عليها؟ الإجابة واضحة عندما تحسب الحجوزات بدل الأسماء. اطلب دائماً الرقم الذي ينتهي بحجز.",
+      "والعدد الكبير ليس خطأ دائماً. فالعمل الجديد، أو الفرع الجديد، قد يحتاج إلى محادثات كثيرة ليتعلم ما يريده السوق. وللتعريف بالعمل مكانه. والخطأ هو الحكم على كل حملة بتكلفة العميل المحتمل وحدها. وفي هذا الشهر، تتبّع عملاءك المحتملين حتى الحجز. واسأل الأسئلة الثلاثة. وغيّر عامل فرز واحداً. وقرر بأرقام مرتبطة بالإيرادات، لا بأرقام تبدو جميلة في التقرير فقط."
     ]
   }
 }

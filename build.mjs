@@ -14,7 +14,7 @@ const jsonIn = (d) => fs.readdirSync(path.join(ROOT, d)).filter((f) => f.endsWit
 const site = { ...Object.assign({}, ...jsonIn('content/site').map(([, v]) => v)), ...rd('content/settings.json') };
 const clients = rd('content/clients.json');
 const cases = readDir('content/case-studies').sort((a, b) => a.order - b.order);
-const insights = readDir('content/insights');
+const insights = readDir('content/insights').sort((a, b) => a.order - b.order);
 const snapshots = rd('content/snapshots.json');
 const websites = rd('content/websites.json');
 const funnels = Object.fromEntries(jsonIn('content/funnels'));
@@ -195,7 +195,7 @@ ${noindex ? '<meta name="robots" content="noindex">' : ''}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Kalam:wght@700&family=Aref+Ruqaa:wght@700&display=swap">
-<link rel="stylesheet" href="/assets/css/style.css?v=3">
+<link rel="stylesheet" href="/assets/css/style.css?v=4">
 <script>document.documentElement.className+=' js';try{var t=localStorage.getItem('ks-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 ${gaHead}
 ${pxHead}
@@ -223,7 +223,7 @@ ${body}
   <div class="ftr-soc">${socIcons}</div>
 </div><div class="wrap"><small class="ftr-copy">© ${new Date().getFullYear()} ${esc(T(site.name, l))}. ${esc(T(site.footer.copy, l))}</small></div></footer>
 ${consentBar}
-<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/main.js?v=1" defer></script>
 </body>
 </html>`;
 }
@@ -250,7 +250,8 @@ function logoItem(c, l) {
   const pic = c.logo
     ? `<img src="${c.logo}" width="120" height="120" loading="lazy" alt="${esc(nm(c, l))}">`
     : `<div class="wm" aria-hidden="true">${esc(nm(c, l))}</div>`;
-  return `<figure class="logo">${pic}<figcaption>${esc(nm(c, l))}<small>${esc(T(c.industry, l))}${c.markets.length ? ' · ' + esc(markets(c, l)) : ''}</small></figcaption></figure>`;
+  const cap = c.logo ? `<figcaption>${esc(nm(c, l))}<small>${esc(T(c.industry, l))}${c.markets.length ? ' · ' + esc(markets(c, l)) : ''}</small></figcaption>` : '';
+  return `<figure class="logo${c.tier === 'featured' ? ' hot' : ''}">${pic}${cap}</figure>`;
 }
 const logoGrid = (l, list) => `<div class="logos">${list.map((c) => logoItem(c, l)).join('')}</div>`;
 const PAL = ['#E9C34E', '#C8BBA5', '#E4D2A1', '#F3DFA9'];
@@ -293,6 +294,7 @@ function formHTML(l, { id, type }) {
   return `<a class="wa-card" id="${id}" href="${href}" target="_blank" rel="noopener" data-whatsapp="1" data-lead="${type}" data-cta="${type}_whatsapp"><span class="wa-ico">${WA_SVG}</span><span class="wa-txt"><b>${esc(T(W.cta, l))}</b><small>${esc(T(W.hint[type] || W.hint.general, l))}</small></span><span class="wa-go">${ico.arrow}</span></a>`;
 }
 const ctaBand = (l) => `<section class="cta-band"><svg class="cb-wave" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 60V28C140 -4 290 -4 440 22s300 34 440 10 230-28 320-14v42z" fill="currentColor"/></svg><div class="wrap cb-in"><div class="cb-copy"><h2 class="hand">${esc(T(site.home.ctaBandTitle, l))}</h2><p>${esc(T(site.home.ctaBandSub, l))}</p><div class="cta-row"><a class="btn dark" href="${url(l, 'book')}" data-cta="band_book">${esc(T(site.home.ctaBook, l))} ${ico.arrow}</a><a class="btn ghost dark-ghost" href="${url(l, 'audit')}" data-cta="band_audit">${esc(T(site.home.ctaAudit, l))}</a><a class="btn ghost dark-ghost" href="${url(l, 'proposal')}" data-cta="band_proposal">${esc(T(site.home.ctaProposal, l))}</a></div></div><div class="cb-art" aria-hidden="true">${ico.plane}<div class="cb-cup">${ico.cup}<img src="/images/logo.png" width="44" height="44" alt=""></div></div></div></section>`;
+const finalCta = (l) => `<section class="cta-band"><svg class="cb-wave" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 60V28C140 -4 290 -4 440 22s300 34 440 10 230-28 320-14v42z" fill="currentColor"/></svg><div class="wrap cb-in"><div class="cb-copy"><h2 class="hand">${esc(T(site.home.finalTitle, l))}</h2><p>${esc(T(site.home.finalSub, l))}</p><div class="cta-row"><a class="btn dark" href="${url(l, 'book')}" data-cta="home_final_book">${esc(T(site.home.heroCtaPrimary, l))} ${ico.arrow}</a></div></div><div class="cb-art" aria-hidden="true">${ico.plane}<div class="cb-cup">${ico.cup}<img src="/images/logo.png" width="44" height="44" alt=""></div></div></div></section>`;
 const faqBlock = (F, l) => `<h2>${esc(T(F.faqTitle, l))}</h2>${F.faq.map((q) => `<details><summary>${esc(T(q.q, l))}</summary><p>${esc(T(q.a, l))}</p></details>`).join('')}`;
 const ulPlain = (arr, l) => `<ul class="plain big">${T(arr, l).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>`;
 const waHref = (extra = '') => (site.links.whatsapp ? `https://wa.me/${site.links.whatsapp.replace(/\D/g, '')}${extra}` : '');
@@ -311,62 +313,57 @@ for (const l of LANGS) {
     const S = site.services;
     const marketsN = new Set(clients.flatMap((c) => c.markets)).size;
     const fillT = (s) => String(s).replace('{brands}', brandN).replace('{markets}', marketsN).replace('{sites}', websites.length);
+    const countBig = (s) => { const m = /^(\+?)(\d+)([\s\S]*)$/.exec(String(s)); return m ? `${esc(m[1])}<span class="count" data-count="${m[2]}">${m[2]}</span>${esc(m[3])}` : esc(s); };
     const body = `
 <section class="hero">
-  <svg class="hr-arcs" viewBox="0 0 400 300" aria-hidden="true" focusable="false"><path d="M400 20C330 20 280 70 270 140" fill="none" stroke="#C9A24D" stroke-width="1.2" opacity=".55"/><path d="M400 60C350 60 310 100 300 150" fill="none" stroke="#C9A24D" stroke-width="1.2" opacity=".35"/></svg>
   <div class="hr-in">
     <div class="hr-copy">
-      <h1>${goldPhrase(T(H.positioning, l), T(H.highlight, l))}${ico.spark}</h1>
+      <p class="hr-eyebrow">${esc(T(H.hello, l))}</p>
+      <h1>${hlPhrase(T(H.positioning, l), T(H.highlight, l))}${ico.spark}</h1>
       <span class="hr-rule" aria-hidden="true"></span>
-      <p class="hr-desc">${esc(T(H.heroDesc, l))}</p>
-      <div class="cta-row"><a class="btn gold" href="${url(l, 'book')}" data-cta="hero_book">${ico.cal}<span>${esc(T(H.heroCtaPrimary, l))}</span></a><a class="btn outline" href="${url(l, 'work')}" data-cta="hero_results"><span>${esc(T(H.heroCtaSecondary, l))}</span>${ico.arrow}</a></div>
+      <p class="hr-aud">${esc(T(H.heroAud, l))}</p>
       <p class="hr-note">${esc(T(H.heroNote, l))}</p>
+      <div class="cta-row"><a class="btn gold" href="${url(l, 'book')}" data-cta="hero_book">${ico.cal}<span>${esc(T(H.heroCtaPrimary, l))}</span></a><a class="btn outline" href="#results" data-cta="hero_results"><span>${esc(T(H.heroCtaSecondary, l))}</span>${ico.arrow}</a></div>
     </div>
     <div class="hr-art">
       <div class="hr-orb" aria-hidden="true"></div>
-      ${ico.crown}
-      <div class="sticky hand">${esc(T(H.sticky, l))}</div>
       <img class="hr-photo" src="/images/karma-hero.webp" width="820" height="1020" alt="${esc(T(site.name, l))}, ${esc(T(site.role, l))}" fetchpriority="high">
-      ${ico.bars}
     </div>
   </div>
-  <div class="hr-in"><ul class="hr-strip">${H.heroStrip.map((s) => `<li><span class="hr-ico">${ico.heroIcons[s.icon] || ''}</span><span>${esc(T(s.t, l))}</span></li>`).join('')}</ul></div>
 </section>
-<section class="sec bits-sec"><div class="wrap">
-  <h2 class="hand bits-title">${esc(T(H.bitTitle, l))}</h2>
-  <div class="bits">${H.bits.map((x) => `<a class="bit" href="${url(l, x.href)}" data-cta="home_bit_${x.href}"><span class="bit-ico">${ico.bitIcons[x.ik] || ''}</span><b>${esc(T(x.title, l))}</b><span class="bit-sub">${esc(T(x.sub, l))}</span><span class="bit-go">${ico.arrow}</span></a>`).join('')}</div>
-</div></section>
-<section class="sec"><div class="wrap">
-  <h2 class="sec-title">${esc(T(H.challengesTitle, l))}</h2>
-  <div class="chal2">${H.challenges.map((c, i) => `<article class="ch-card"><span class="ch-n">0${i + 1}</span><h3>${esc(T(c.t, l))}</h3><p>${esc(T(c.d, l))}</p><a class="more" href="${url(l, c.href)}" data-cta="home_challenge_${i + 1}">${esc(T(c.cta, l))} ${ico.arrow}</a></article>`).join('')}</div>
-</div></section>
+<section class="sec" style="padding:0 0 3rem"><div class="wrap"><ul class="stats">${H.stats.map((s) => `<li><span class="st-ico">${ico.statIcons[s.icon] || ''}</span><span><b>${countBig(fillT(T(s.big, l)))}</b><small>${esc(fillT(T(s.small, l)))}</small></span></li>`).join('')}</ul></div></section>
 <section class="sec alt"><div class="wrap">
   <h2 class="sec-title">${esc(T(H.pillarsTitle, l))}</h2>
-  <div class="pillars">${S.pillars.map((p, i) => `<article class="pillar"><span class="n">0${i + 1}</span><h3>${esc(T(p.t, l))}</h3><p>${esc(T(p.d, l))}</p><p class="p-for"><b>${esc(T(S.forLabel, l))}</b> ${esc(T(p.for, l))}</p><a class="btn outline sm" href="${url(l, p.href)}" data-cta="home_pillar_${p.k}">${esc(T(p.cta, l))} ${ico.arrow}</a></article>`).join('')}</div>
+  <p class="lead" style="margin-top:.6rem">${esc(T(H.offerLead, l))}</p>
+  <div class="svc6">${H.offer.map((o) => `<article class="svc6-item"><span class="o-ico" aria-hidden="true">${esc(o.icon)}</span><h3>${esc(T(o.t, l))}</h3><p>${esc(T(o.d, l))}</p></article>`).join('')}</div>
+</div></section>
+<section class="sec alt"><div class="wrap">
+  <h2 class="sec-title">${esc(T(H.sitesTitle, l))}</h2>
+  <p class="lead" style="margin-top:.6rem">${esc(fillT(T(H.sitesLead, l)))}</p>
+  <div class="grid2" style="margin-top:1.2rem">${websites.map((w, i) => `<a class="site-row" href="${esc(w.url)}" target="_blank" rel="noopener">${w.logo ? `<img src="${w.logo}" width="56" height="56" loading="lazy" alt="">` : `<span class="sico big" style="background:${PAL[i % PAL.length]}" aria-hidden="true">${esc(T(w.name, 'en').trim().charAt(0))}</span>`}<div><h3>${esc(T(w.name, l))}</h3><p>${esc(T(w.desc, l))}</p><small dir="ltr">${esc(w.url.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, ''))}</small></div></a>`).join('')}</div>
+</div></section>
+<section class="sec" id="results"><div class="wrap">
+  <h2 class="sec-title">${esc(T(H.casesTitle, l))}</h2>
+  <p class="lead" style="margin-top:.6rem">${esc(T(H.casesLead, l))}</p>
+  <div class="proof">${H.proof.map((p) => `<div class="proof-card"><b>${esc(T(p.big, l))}${T(p.unit, l) ? ` <small>${esc(T(p.unit, l))}</small>` : ''}</b><p class="proof-who">${esc(T(p.who, l))}</p><p>${esc(T(p.text, l))}</p></div>`).join('')}</div>
+</div></section>
+<section class="sec alt"><div class="wrap">
+  <h2 class="sec-title">${esc(T(H.sectorsTitle, l))}</h2>
+  <p class="lead" style="margin-top:.6rem">${esc(T(H.sectorsLead, l))}</p>
+  <div class="sectors">${H.sectors.map((g) => `<div class="sector"><div class="sec-ico" aria-hidden="true">${esc(g.icon)}</div><h3>${esc(T(g.t, l))}</h3><p>${esc(T(g.d, l))}</p>${T(g.case, l) ? `<p class="sec-case">${esc(T(g.case, l))}</p>` : ''}<p class="sec-all"><b>${esc(T(H.sectorsAll, l))}</b></p>${logoGrid(l, clients.filter((c) => c.group === g.id))}</div>`).join('')}</div>
 </div></section>
 <section class="sec"><div class="wrap">
-  <div class="row-head"><div><h2 class="sec-title">${esc(T(H.casesTitle, l))}</h2><p class="lead" style="margin-top:.6rem">${esc(T(H.casesLead, l))}</p></div><a class="btn ghost" href="${url(l, 'work')}">${esc(T(H.viewAll, l))} ${ico.arrow}</a></div>
-  <div class="rcases">${cases.filter((c) => c.kind === 'results' && c.brief).map((c) => caseCardRich(c, l)).join('')}</div>
-  <p class="strip-label" style="margin-top:2rem">${esc(T(H.selectedClients, l))}</p><div class="logo-strip">${clients.filter((c) => c.logo).sort((a, b) => ({ featured: 0, highlight: 1, client: 2 }[a.tier] - { featured: 0, highlight: 1, client: 2 }[b.tier])).slice(0, 10).map((c) => `<img src="${c.logo}" width="72" height="72" loading="lazy" alt="${esc(nm(c, l))}" title="${esc(nm(c, l))}">`).join('')}<a class="strip-more" href="${url(l, 'work', 'clients')}">${esc(T(H.allClients, l))} ${ico.arrow}</a></div>
-</div></section>
-<section class="sec alt"><div class="wrap">
   <h2 class="sec-title">${esc(T(H.approachTitle, l))}</h2>
+  <p class="lead" style="margin-top:.6rem">${esc(T(H.approachLead, l))}</p>
   <ol class="visual-steps">${H.approach.map((s, i) => `<li><span class="vs-n">${i + 1}</span><b>${esc(T(s.t, l))}</b><span>${esc(T(s.d, l))}</span></li>`).join('')}</ol>
 </div></section>
-<section class="sec"><div class="wrap about-grid">
-  <div>
-    <h2 class="sec-title hand">${esc(T(H.aboutTitle, l))}</h2>
-    <p class="prose">${esc(T(H.aboutText, l))}</p>
-    <a class="btn gold" href="${url(l, 'about')}" data-cta="home_about">${esc(T(H.aboutCta, l))} ${ico.arrow}</a>
-  </div>
-  <div class="about-art"><span class="blob-y" aria-hidden="true"></span><img src="/images/karma-about.webp" width="760" height="900" loading="lazy" alt="${esc(T(site.about.photoAlt, l))}"><span class="bubble hand">${esc(T(H.bubble, l))}</span>${ico.heart}</div>
-</div></section>
-<section class="sec" style="padding:0 0 3rem"><div class="wrap"><ul class="stats">${H.stats.map((s) => `<li><span class="st-ico">${ico.statIcons[s.icon] || ''}</span><span><b>${esc(fillT(T(s.big, l)))}</b><small>${esc(fillT(T(s.small, l)))}</small></span></li>`).join('')}</ul></div></section>
 <section class="sec alt"><div class="wrap">
-  <div class="row-head"><h2 class="sec-title">${esc(T(H.insightsTitle, l))}</h2><a class="btn ghost" href="${url(l, 'insights')}">${esc(T(site.work.viewAll, l))} ${ico.arrow}</a></div>
-  <div class="grid3">${insights.slice(0, 3).map((a) => `<a class="tile art-card" href="${url(l, 'insights', a.slug)}"><span class="ac-min">${a.min} ${esc(T(site.insights.min, l))}</span><h3>${esc(T(a.title, l))}</h3><p>${esc(T(a.summary, l))}</p><span class="more">${esc(T(H.readMore, l))} ${ico.arrow}</span></a>`).join('')}</div>
+  <div class="about-simple">
+    <h2 class="sec-title">${esc(T(H.aboutTitle, l))}</h2>
+    <p class="prose" style="margin-top:.8rem">${esc(T(H.aboutText, l))}</p>
+  </div>
 </div></section>
-${ctaBand(l)}`;
+${finalCta(l)}`;
     add(l, 'home', url(l), layout(l, 'home', {
       title: T(H.title, l), desc: T(H.description, l), body, altPath: alt(),
       ld: [personLD(l), { '@context': 'https://schema.org', '@type': 'WebSite', name: T(site.name, l), url: BASE + url(l), inLanguage: l }],

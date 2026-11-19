@@ -1,0 +1,40 @@
+{
+  "slug": "cheapest-offer-costs-more",
+  "order": 3,
+  "emoji": "💰",
+  "min": 4,
+  "title": {
+    "ar": "لماذا قد يكلفك العرض الأرخص أكثر",
+    "en": "Why the cheapest offer can cost you more"
+  },
+  "summary": {
+    "ar": "من السهل مقارنة رسم منخفض. لكن التكلفة الحقيقية تظهر لاحقاً، في استفسارات غير مناسبة، وأشهر ضائعة، وبداية من جديد.",
+    "en": "A low fee is easy to compare. The real cost shows up later, in unsuitable enquiries, wasted months, and starting over from the beginning."
+  },
+  "body": {
+    "ar": [
+      "عندما تصل العروض، يكون العرض الأرخص سهل الإعجاب. فالرقم صغير، والقرار يبدو آمناً، والخطر يبدو منخفضاً. لكن رسم التسويق ليس مثل منتج على رف، حيث يكلف المنتج نفسه أقل في متجر آخر. فالرسم يشتري وقتاً وانتباهاً واختباراً وحكماً. وعندما ينخفض الرسم كثيراً، فإن شيئاً في هذه القائمة ينخفض معه غالباً.",
+      "والتكلفة الأولى هي الانتباه. فالتسويق الجيد يحتاج إلى ساعات: تعلّم عملك، وقراءة الأرقام، والكتابة لعملائك، وإصلاح ما لا يعمل. والرسم المنخفض جداً يترك مساحة صغيرة لهذه الساعات. والعمل يحدث مع ذلك، لكنه يحدث بسرعة، مع قوالب وكلمات منسوخة وتفكير قليل في سوقك. وتدفع أقل، وتتلقى تفكيراً أقل.",
+      "والتكلفة الثانية هي الاستفسارات غير المناسبة. فالاستهداف الواسع والرسائل العامة تجلب أشخاصاً كان دافعهم الفضول فقط، أو أشخاصاً لا يستطيعون تحمل تكلفة خدمتك. ويجيب فريقك عنهم جميعاً، بأدب، واحداً واحداً. ويمتلئ التقويم بالمحادثات، بينما تظل الحجوزات ثابتة. والرسم بدا منخفضاً. والساعات التي قضاها فريقك لم تكن مجانية.",
+      "والتكلفة الثالثة هي فقدان التعلّم. فالاختبار يحتاج إلى صبر: جرّب شيئاً واحداً، واقرأ النتيجة، وجرّب التالي. والحساب المتعجل يتخطى هذه الدورة. وتعمل الحملات، وتتحرك الأرقام، ولا يستطيع أحد أن يقول ما الذي نجح أو لماذا. وتمر الأشهر، وتحمل تقارير، دون معرفة. ويبدأ مقدم الخدمة التالي من البداية، دون دروس مستفادة من التجربة.",
+      "والتكلفة الرابعة هي البداية من جديد. فعندما ينتهي العمل الرخيص، فإنه ينتهي غالباً مع القليل مما يمكن الاحتفاظ به: لا بيانات واضحة، ولا رسائل مختبرة، ولا سجل لما جُرّب. ويجب على مقدم الخدمة الجديد أن يعيد بناء الأساس قبل بناء النتائج. وإعادة البناء هذه تأخذ وقتاً ومالاً. وهي رسم ثانٍ، يُدفع ثمناً للقرار الأول.",
+      "وهذا لا يعني أن العرض الأغلى هو الأفضل. فالسعر وحده لا يثبت شيئاً، في أي اتجاه. فبعض المسوّقين الممتازين يتقاضون رسوماً متواضعة، وبعض مقدمي الخدمة المرتفعي الأسعار يقدمون القليل. والسؤال ليس هل الرسم منخفض أم مرتفع. بل ما الذي يشمله الرسم، وهل يطابق ذلك ما يحتاجه عملك.",
+      "وقارن العروض على النقاط نفسها. كم ساعة من العمل الحقيقي كل شهر؟ ومن يكتب، ومن يراجع، ومن يجيب عن أسئلتك؟ وما الذي سيُختبر، وكيف ستُعرض النتائج؟ ومن يملك الحسابات والبيانات؟ واكتب الإجابات جنباً إلى جنب. فالعروض التي بدت متباعدة كثيراً تقف متقاربة غالباً، عندما يصبح النطاق واضحاً.",
+      "وتخيل، على سبيل المثال الافتراضي، مسارين على مدى ستة أشهر. الأول يكلف قليلاً كل شهر، ويجلب استفسارات كثيرة وحجوزات قليلة، وينتهي دون سجل واضح. والثاني يكلف أكثر، ويجلب استفسارات أقل وحجوزات أكثر، مع سجل شهري لما تعلّمه الفريق. والمسار الأرخص أنفق مالاً أقل ووقتاً أكثر. والوقت، لعمل صغير، هو المورد الأندر.",
+      "واطرح سؤالاً مباشراً واحداً قبل أن تقرر: ما الذي ستتوقف عن فعله، إذا كان الرسم بهذا الانخفاض؟ والإجابة الصادقة تسمي المقايضة: اختبارات أقل، أو ردود أبطأ، أو محتوى أبسط، أو تقارير أقل. والإجابة غير الصادقة تعد بكل شيء بأقل سعر. وكل عرض له مقايضة. والعروض الجيدة تسميها.",
+      "واختر العرض الذي تفهمه، برسم يمكنك الاستمرار في دفعه. واقرأ النطاق، لا الرقم وحده. واسأل ما المشمول، وما المستثنى، وماذا يحدث عندما تنخفض النتائج. فالرسم العادل يشتري وقتاً وتفكيراً. والوقت والتفكير، عندما يُطبَّقان على المشكلة الصحيحة، هما ما يحوّل الإنفاق التسويقي إلى حجوزات."
+    ],
+    "en": [
+      "When offers arrive, the cheapest one is easy to like. The number is small, the decision feels safe, and the risk seems low. But a marketing fee is not like a product on a shelf, where the same item costs less in one shop. The fee buys time, attention, testing, and judgment. When the fee falls very low, something in that list usually falls with it.",
+      "The first cost is attention. Good marketing needs hours: learning your business, reading the numbers, writing for your clients, and fixing what does not work. A very low fee leaves little room for those hours. The work still happens, but it happens quickly, with templates, copied words, and little thought about your market. You pay less, and you receive less thought.",
+      "The second cost is unsuitable enquiries. Broad targeting and generic messages bring people who were only curious, or who cannot afford your service. Your team answers them all, politely, one by one. The calendar fills with conversations, while bookings stay flat. The fee looked low. The hours your team spent were not free.",
+      "The third cost is lost learning. Testing needs patience: try one thing, read the result, and try the next. A rushed account skips that cycle. Campaigns run, numbers move, and no one can say what worked or why. Months pass, and you hold reports, but no knowledge. The next provider starts from the beginning, because nothing was learned.",
+      "The fourth cost is starting over. When cheap work ends, it often ends with little to keep: no clear data, no tested messages, no record of what was tried. The new provider must rebuild the foundation before building results. That rebuild takes time and money. It is a second fee, paid for the first decision.",
+      "This does not mean the most expensive offer is the best. Price alone proves nothing, in either direction. Some excellent marketers charge modest fees, and some expensive providers deliver little. The question is not whether the fee is low or high. The question is what the fee includes, and whether that matches what your business needs.",
+      "Compare offers on the same points. How many hours of real work each month? Who writes, who reviews, and who answers your questions? What will be tested, and how will results be reported? Who owns the accounts and the data? Write the answers side by side. Offers that looked far apart often stand close together, once the scope is clear.",
+      "Imagine, as a hypothetical example, two paths over six months. The first costs little each month, brings many enquiries, and few bookings, and ends with no clear record. The second costs more, brings fewer enquiries, and more bookings, with a monthly record of what was learned. The cheaper path spent less money and more time. Time, for a small business, is the scarcer resource.",
+      "Ask one direct question before you decide: what will you stop doing, if the fee is this low? An honest answer names the trade: fewer tests, slower replies, simpler content, or less reporting. A dishonest answer promises everything at the lowest price. Every offer has a trade. The good ones name it.",
+      "Choose the offer you understand, at a fee you can sustain. Read the scope, not only the number. Ask what is included, what is excluded, and what happens when results fall. A fair fee buys time and thought. And time and thought, applied to the right problem, are what turn marketing spend into bookings."
+    ]
+  }
+}

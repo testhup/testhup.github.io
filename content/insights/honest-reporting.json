@@ -1,25 +1,40 @@
 {
   "slug": "honest-reporting",
+  "order": 9,
   "emoji": "📑",
-  "min": 2,
+  "min": 4,
   "title": {
     "en": "A marketing report should end with a decision",
     "ar": "ينبغي أن ينتهي تقرير التسويق بقرار"
   },
   "summary": {
-    "en": "Reports that list metrics without a recommendation waste everyone's time.",
-    "ar": "التقارير التي تسرد المؤشرات دون توصية تضيّع وقت الجميع."
+    "en": "A report is useful only when it ends with a clear decision about what to do next.",
+    "ar": "التقرير لا ينفع إلا عندما ينتهي بقرار واضح عن الخطوة التالية."
   },
   "body": {
     "en": [
-      "A good monthly report answers three questions: what changed, why, and what we do next.",
-      "Keep the few numbers that connect to revenue or bookings. Put the rest in an appendix.",
-      "Say plainly what did not work. It builds more trust than a clean chart."
+      "Most monthly marketing reports are long lists of numbers. The business owner reads them, nods, and changes nothing. The next month brings a similar report, with similar numbers, and the same questions. A report like that wastes everyone's time, even when every number in it is correct.",
+      "A good report answers three questions. What changed? Why did it change? And what do we do next? Everything else is detail. If the report cannot answer these three questions in plain words, it is not finished yet, no matter how neat it looks.",
+      "Start with the numbers that connect to money: bookings, real enquiries, and what each booking cost. These are the numbers that decide whether the marketing is working. Likes, views, and reach can be useful background, but on their own they do not become patients or customers.",
+      "Keep the report short. The owner should understand the month in a few minutes. Put the summary first: what happened, what it means, and what you suggest next. Put the detailed tables after that, for anyone who wants them. A short report that is read beats a long report that is skipped.",
+      "Say plainly what did not work. Every month has something that failed: an ad that brought the wrong people, a page that confused visitors, a week when replies were slow. Hiding it does not make it go away. Naming it, with the reason and the lesson, builds more trust than a clean chart ever will. It also stops the same mistake from repeating next month.",
+      "Compare fairly. A holiday month is not the same as a normal month. A month with a special offer is not the same as a month without one. Say what was different, so the comparison is honest. And use the same definitions every month. If 'lead' means one thing this month and another thing next month, the numbers cannot be trusted.",
+      "End every report with a decision. Suggest two or three clear options: continue what works, change what does not, or stop what wastes money. For each option, say what it costs, what you expect to learn, and what you will measure. The owner should be able to say yes or no, not sit and wonder what the report wants from them.",
+      "If you receive reports and they confuse you, ask three questions. What changed this month, in one sentence? Why? And what do you suggest we do next? A good marketer welcomes these questions. If the answers are unclear, the problem is the report, not you.",
+      "Here is what a good report can do. Imagine a clinic whose ads bring many messages but few bookings. The report shows the gap plainly, and the reason: most messages wait hours for a reply. The decision is clear: fix the reply process before spending more on ads. One honest report changed the plan, and the next month's bookings showed the difference. That is what a report is for.",
+      "For your next report, try this. Ask for the three questions, the few numbers that connect to bookings, and one clear decision. If you write the reports, start with the decision and work backwards. A report is not a record of the past. It is a tool for the next decision. If it does not help you decide, it needs to change."
     ],
     "ar": [
-      "يجيب التقرير الشهري الجيد عن ثلاثة أسئلة: ما الذي تغيّر، ولماذا، وماذا سنفعل بعد ذلك.",
-      "احتفظ بالأرقام القليلة المرتبطة بالإيرادات أو الحجوزات، وضع الباقي في ملحق.",
-      "قل بوضوح ما لم ينجح. فهذا يبني ثقة أكبر من رسم بياني نظيف."
+      "معظم تقارير التسويق الشهرية قوائم طويلة من الأرقام. يقرأها صاحب العمل، ويهز رأسه، ولا يغيّر شيئاً. ويأتي الشهر التالي بتقرير مشابه، وأرقام مشابهة، والأسئلة نفسها. وتقرير كهذا يضيّع وقت الجميع، حتى لو كان كل رقم فيه صحيحاً.",
+      "التقرير الجيد يجيب عن ثلاثة أسئلة. ما الذي تغيّر؟ ولماذا تغيّر؟ وماذا نفعل بعد ذلك؟ وكل ما عدا ذلك تفاصيل. وإذا لم يستطع التقرير الإجابة عن هذه الأسئلة الثلاثة بكلمات بسيطة، فهو لم يكتمل بعد، مهما بدا مرتّباً.",
+      "ابدأ بالأرقام المرتبطة بالمال: الحجوزات، والاستفسارات الحقيقية، وتكلفة كل حجز. هذه هي الأرقام التي تقرر ما إذا كان التسويق يعمل. أما الإعجابات والمشاهدات والوصول، فقد تكون خلفية مفيدة، لكنها وحدها لا تتحول إلى مرضى أو عملاء.",
+      "اجعل التقرير قصيراً. يجب أن يفهم صاحب العمل ما حدث في الشهر في دقائق قليلة. ضع الملخص أولاً: ما الذي حدث، وما معناه، وما الذي تقترحه بعد ذلك. وضع الجداول المفصلة بعده، لمن يريدها. فالتقرير القصير الذي يُقرأ خير من التقرير الطويل الذي لا يقرأه أحد.",
+      "قل بوضوح ما لم ينجح. ففي كل شهر شيء يفشل: إعلان جلب الأشخاص الخطأ، أو صفحة أربكت الزوار، أو أسبوع كانت فيه الردود بطيئة. وإخفاء ذلك لا يجعله يختفي. أما ذكره مع السبب والدرس المستفاد، فيبني ثقة أكبر من أي رسم بياني نظيف. كما أنه يمنع تكرار الخطأ نفسه في الشهر التالي.",
+      "قارن بعدل. فشهر العطلة ليس كالشهر العادي. والشهر الذي فيه عرض خاص ليس كالشهر الذي لا عرض فيه. اذكر ما كان مختلفاً، لتكون المقارنة صادقة. واستخدم التعريفات نفسها كل شهر. فإذا كان معنى «عميل محتمل» شيئاً هذا الشهر وشيئاً آخر في الشهر التالي، فلن يمكن الوثوق بالأرقام.",
+      "أنهِ كل تقرير بقرار. واقترح خيارين أو ثلاثة خيارات واضحة: الاستمرار فيما ينجح، أو تغيير ما لا ينجح، أو إيقاف ما يضيّع المال. ولكل خيار، اذكر تكلفته، وما تتوقع أن تتعلمه منه، وما الذي ستقيسه. ويجب أن يستطيع صاحب العمل أن يقول نعم أو لا، لا أن يجلس متسائلاً ماذا يريد منه التقرير.",
+      "وإذا كانت التقارير التي تصلك تربكك، فاسأل ثلاثة أسئلة. ما الذي تغيّر هذا الشهر، في جملة واحدة؟ ولماذا؟ وماذا تقترح أن نفعل بعد ذلك؟ والمسوّق الجيد يرحّب بهذه الأسئلة. وإذا كانت الإجابات غير واضحة، فالمشكلة في التقرير، وليست فيك.",
+      "وهذا ما يمكن أن يفعله التقرير الجيد. تخيّل عيادة تجلب إعلاناتها رسائل كثيرة وحجوزات قليلة. يُظهر التقرير الفجوة بوضوح، ويُظهر السبب: معظم الرسائل تنتظر ساعات حتى يأتيها الرد. والقرار واضح: أصلح طريقة الرد قبل إنفاق المزيد على الإعلانات. تقرير صادق واحد غيّر الخطة، وأظهرت حجوزات الشهر التالي الفرق. هذا هو الغرض من التقرير.",
+      "وفي تقريرك التالي، جرّب هذا. اطلب الأسئلة الثلاثة، والأرقام القليلة المرتبطة بالحجوزات، وقراراً واحداً واضحاً. وإذا كنت أنت من يكتب التقارير، فابدأ بالقرار واعمل من هناك إلى الوراء. فالتقرير ليس سجلاً للماضي. بل هو أداة للقرار التالي. وإذا لم يساعدك على أن تقرر، فهو يحتاج إلى تغيير."
     ]
   }
 }

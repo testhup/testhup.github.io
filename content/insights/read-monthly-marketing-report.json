@@ -1,0 +1,40 @@
+{
+  "slug": "read-monthly-marketing-report",
+  "order": 6,
+  "emoji": "📊",
+  "min": 4,
+  "title": {
+    "ar": "كيف تقرأ تقرير التسويق الشهري وتعرف أن عملك يسير في الاتجاه الصحيح",
+    "en": "How to read the monthly marketing report and know your business is moving in the right direction"
+  },
+  "summary": {
+    "ar": "لا تحتاج إلى أن تصبح مسوّقاً. ثلاثة أسئلة، وأرقام قليلة مهمة، ومقارنة عادلة، تحول أي تقرير إلى قرار.",
+    "en": "You do not need to become a marketer. Three questions, a few numbers that matter, and a fair comparison turn any report into a decision."
+  },
+  "body": {
+    "ar": [
+      "يصل التقرير الشهري، وتتعب العينان. رسوم بيانية، ونسب مئوية، ومصطلحات لم تتعلمها، وقائمة طويلة من الأرقام دون قصة. وتهز رأسك في الاجتماع، وتغادر دون أن تعرف هل كان الشهر جيداً أم سيئاً. وهذا الشعور شائع، وهو ليس خطأك. فالتقرير يجب أن يقرأه صاحبه، بكلمات بسيطة، وأن ينتهي بقرار.",
+      "وابدأ بالقرار، لا بالبيانات. وقبل أن تفتح الرسوم البيانية، اسأل: ما القرار الذي يجب أن يساعدني هذا التقرير على اتخاذه؟ الاستمرار أم التغيير أم التوقف؟ فالتقرير الذي لا يستطيع دعم قرار هو زينة. واقرأ الملخص أولاً، إن وُجد. وإذا لم يكن هناك ملخص، فاطلب جملة واحدة في الأعلى: ما الذي حدث، وماذا سيحدث بعد ذلك.",
+      "واطرح السؤال الأول: ما الذي تغيّر؟ وقارن هذا الشهر بالشهر الماضي، على الأرقام نفسها. الاستفسارات، والحجوزات، والإيرادات، إن توفرت. وتجاهل، للحظة، كل ما سوى ذلك. فالتغير هو القصة. والتقرير الذي يعرض هذا الشهر فقط، دون مقارنة، يخفي القصة، حتى عندما تبدو الأرقام جيدة.",
+      "واطرح السؤال الثاني: لماذا تغيّر؟ فالتقرير الجيد يقدم سبباً، لا رقماً فقط. عرض جديد، أو جمهور متغير، أو أسبوع بطيء، أو صفحة معطلة. والأسباب يمكن إثباتها أو تخمينها، والتقرير الجيد يقول أيهما. فعبارة «نظن أن العرض ساعد» صادقة. وعبارة «العرض ساعد» دون دليل هي تخمين يرتدي بدلة.",
+      "واطرح السؤال الثالث: ماذا نفعل بعد ذلك؟ فكل تقرير يجب أن ينتهي بخطوة تالية واضحة: الاستمرار فيما نجح، أو إصلاح ما لم ينجح، أو اختبار شيء جديد واحد. والنهايات الغامضة، مثل «سنحسّن الأداء»، تعد بكل شيء ولا تلتزم بشيء. والخطوة التالية تسمي الإجراء والمسؤول وتاريخ مراجعته.",
+      "وراقب أرقاماً قليلة، وراقبها كل شهر. فبالنسبة لمعظم أعمال الخدمات، تكفي ثلاثة: الاستفسارات الحقيقية، والحجوزات التي تبعتها، وتكلفة كل حجز. وكل ما سوى ذلك خلفية. وعندما تظهر الأرقام القليلة نفسها كل شهر، تظهر الأنماط. وعندما تتغير الأرقام كل شهر، تصبح المقارنة مستحيلة، ويصبح الحكم مستحيلاً معها.",
+      "وتعامل مع الوصول والإعجابات كخلفية، لا كنتائج. فهي تُظهر أن الناس رأوا العمل، وأحياناً أنهم استمتعوا به. لكنها لا تُظهر أن أحداً حجز. فقد ينمو شهر في الوصول وينخفض في الحجوزات، وسيظل الوصول يبدو نجاحاً. وأبقِ هذه الأرقام في التقرير، لكن لا تضعها في الأعلى أبداً، ولا وحدها أبداً.",
+      "وقارن بعدل، أو لا تقارن على الإطلاق. فشهر العطلة ليس كالشهر العادي. والشهر الذي فيه عرض خاص ليس كالشهر الذي لا عرض فيه. والقناة الجديدة تحتاج إلى وقت قبل الحكم. واكتب السياق بجانب الأرقام، في سطر واحد. فالمقارنة العادلة تحمي العمل الجيد من الحكم الظالم، والعمل الضعيف من الاختباء خلف الأعذار.",
+      "وتخيل، على سبيل المثال الافتراضي، تقريرين للشهر نفسه. الأول عشرون صفحة من الرسوم البيانية، دون ملخص ودون اقتراح. والثاني صفحة واحدة: ثلاثة أرقام، وثلاث إجابات، وقرار واحد. ويقرأ صاحب العمل الثاني، ويفهمه، ويقرر في عشر دقائق. فالاختصار ليس سطحية. بل هو احترام.",
+      "واحتفظ بسجل من صفحة واحدة خاص بك، كل شهر. الأرقام الثلاثة، والإجابات الثلاث، والقرار. وبعد بضعة أشهر، ستحمل القصة الحقيقية لتسويقك، بكلماتك أنت. ولن تحتاج إلى أن تصبح مسوّقاً. بل ستحتاج فقط إلى أن تسأل، كل شهر، ما الذي تغيّر، ولماذا، وماذا سيحدث بعد ذلك."
+    ],
+    "en": [
+      "The monthly report arrives, and the eyes glaze over. Charts, percentages, terms you never learned, and a long list of numbers with no story. You nod in the meeting, and leave unsure whether the month was good or bad. That feeling is common, and it is not your fault. A report should be read by its owner, in plain words, and end with a decision.",
+      "Start with the decision, not the data. Before you open the charts, ask: what decision must this report help me make? Continue, change, or stop? A report that cannot support a decision is decoration. Read the summary first, if there is one. If there is no summary, ask for one sentence at the top: what happened, and what happens next.",
+      "Ask the first question: what changed? Compare this month with last month, on the same numbers. Enquiries, bookings, and revenue, if available. Ignore, for a moment, everything else. The change is the story. A report that shows only this month, with no comparison, hides the story, even when the numbers look good.",
+      "Ask the second question: why did it change? A good report offers a cause, not only a number. A new offer, a changed audience, a slow week, a broken page. Causes can be proven or guessed, and a good report says which. 'We think the offer helped' is honest. 'The offer helped' without evidence is a guess wearing a suit.",
+      "Ask the third question: what do we do next? Every report should end with a clear next step: continue what worked, fix what did not, or test one new thing. Vague endings, like 'we will optimize', promise everything and commit to nothing. A next step names the action, the owner, and the date it will be reviewed.",
+      "Watch few numbers, and watch them every month. For most service businesses, three are enough: real enquiries, bookings that followed, and the cost of each booking. Everything else is background. When the same few numbers appear every month, patterns emerge. When the numbers change each month, comparison becomes impossible, and so does judgment.",
+      "Treat reach and likes as background, not as results. They show that people saw the work, and sometimes that they enjoyed it. They do not show that anyone booked. A month can grow in reach and fall in bookings, and the reach will still look like success. Keep these numbers in the report, but never at the top, and never alone.",
+      "Compare fairly, or do not compare at all. A holiday month is not like a normal month. A month with a special offer is not like a month without one. A new channel needs time before judgment. Note the context next to the numbers, in one line. Fair comparison protects good work from unfair judgment, and weak work from hiding behind excuses.",
+      "Imagine, as a hypothetical example, two reports for the same month. The first is twenty pages of charts, with no summary and no suggestion. The second is one page: three numbers, three answers, and one decision. The owner reads the second, understands it, and decides in ten minutes. Short is not shallow. Short is respectful.",
+      "Keep a one-page record of your own, every month. The three numbers, the three answers, and the decision. After a few months, you will hold the real story of your marketing, in your own words. You will not need to become a marketer. You will only need to ask, every month, what changed, why, and what happens next."
+    ]
+  }
+}

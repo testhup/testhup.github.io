@@ -247,7 +247,7 @@
   /* ---------- scroll reveal (subtle) ---------- */
   (function () {
     if (!('IntersectionObserver' in w) || (w.matchMedia && w.matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
-    var sel = '.chal-item,.pillar,.case-card,.rhythm li,.tile.art-card,.cta-band .wrap>*,.about-grid>*,.pl,.cs-sec,.who div,.snap,.site-chip,.logo-strip,.sec-title';
+    var sel = '.chal-item,.pillar,.case-card,.rhythm li,.tile.art-card,.cta-band .wrap>*,.about-grid>*,.pl,.cs-sec,.who div,.snap,.site-chip,.logo-strip,.sec-title,.svc6-item,.proof-card,.sector,.site-row,.stats li,.about-simple';
     var items = d.querySelectorAll('main ' + sel);
     var io = new IntersectionObserver(function (es) {
       es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
@@ -259,6 +259,32 @@
       el.classList.add('reveal'); el.style.setProperty('--d', Math.min(n, 5) * 0.07 + 's');
       io.observe(el);
     });
+  })();
+
+  /* ---------- animated stat counters (homepage stats strip) ---------- */
+  (function () {
+    var els = d.querySelectorAll('.count');
+    if (!els.length) return;
+    if (w.matchMedia && w.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    if (!('IntersectionObserver' in w)) return;
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        var el = e.target; io.unobserve(el);
+        var target = parseInt(el.getAttribute('data-count') || '0', 10);
+        if (!target) return;
+        var start = null, dur = 900;
+        var step = function (ts) {
+          if (start === null) start = ts;
+          var p = Math.min((ts - start) / dur, 1);
+          el.textContent = Math.round(target * (1 - Math.pow(1 - p, 3)));
+          if (p < 1) requestAnimationFrame(step);
+          else el.textContent = target;
+        };
+        requestAnimationFrame(step);
+      });
+    }, { threshold: 0.4 });
+    els.forEach(function (el) { io.observe(el); });
   })();
 
   /* ---------- thank-you page ---------- */

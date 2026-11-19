@@ -1,0 +1,40 @@
+{
+  "slug": "questions-before-signing",
+  "order": 2,
+  "emoji": "❓",
+  "min": 4,
+  "title": {
+    "ar": "أسئلة تطرحها قبل توقيع عقد تسويق",
+    "en": "Questions to ask before signing a marketing contract"
+  },
+  "summary": {
+    "ar": "محادثة قصيرة قبل التوقيع قد توفر عليك أشهراً من الحيرة. ما الذي تسأل عنه، وكيف تبدو الإجابات الجيدة، وما العلامات التي تدفعك إلى الابتعاد.",
+    "en": "A short conversation before you sign can save months of confusion. What to ask, what good answers sound like, and the signs that tell you to walk away."
+  },
+  "body": {
+    "ar": [
+      "توقيع عقد تسويق يبدو تقدماً. فقد اخترت شخصاً، واتفقت على رسم، والعمل على وشك أن يبدأ. لكن التوقيع ليس هو القرار. القرار هو كل ما اتفقت عليه قبله: الهدف، والعمل، والتقارير، وما الذي يحدث عندما تنخفض النتائج. ومحادثة قصيرة قبل التوقيع قد توفر عليك أشهراً من الحيرة.",
+      "ابدأ بالهدف. واسأل: ما الذي نحاول تحقيقه بالضبط في الأشهر الثلاثة الأولى، وكيف سنعدّه؟ واستمع إلى رقم مرتبط بعملك: استفسارات حقيقية، أو حجوزات، أو مبيعات. واحذر الإجابات التي تظل غامضة، مثل «النمو» أو «الوعي»، دون رقم مرتبط بها. فالهدف الذي يمكنك عدّه هو هدف يمكنك مراجعته. وكل ما سوى ذلك أمل.",
+      "واسأل من سينفذ العمل، ومن يملك ماذا. هل الشخص الذي قابلته هو من سينفذ العمل، أم سينتقل العمل إلى شخص آخر؟ وهل سيكون لديك وصول إلى حساباتك الإعلانية وصفحاتك وبياناتك؟ ومن يملك المحتوى والجماهير والتقارير إذا انتهى العمل؟ الإجابات الجيدة مباشرة. أما الإجابات المراوغة هنا فتسبب أكبر ألم لاحقاً، عندما يصبح الوصول والملكية مهمين فجأة.",
+      "واسأل كيف تعمل التقارير. وكم مرة ستلتقيان؟ وما الذي سيعرضه التقرير، وبأي كلمات؟ والإجابة الجيدة تسمي إيقاعاً، غالباً شهرياً، وتعد بكلمات بسيطة: ما الذي تغيّر، ولماذا، وماذا سيحدث بعد ذلك. واطلب رؤية نموذج تقرير، مع حذف الأسماء. فإذا لم تفهم النموذج، فلن تفهم تقاريرك أنت أيضاً.",
+      "واسأل ماذا يحدث عندما تنخفض النتائج. فكل عمل يمر بأشهر بطيئة، وكل حملة تمر باختبارات ضعيفة. والسؤال ليس هل ستنخفض النتائج، بل ما الاستجابة عندما يحدث ذلك. والإجابة الجيدة تصف عملية: مراجعة الأرقام، ومعرفة السبب، وتغيير شيء واحد، والاختبار من جديد. أما الإجابة التي تلوم السوق أو الموسم أو عملاءك، في كل مرة، فتخبرك بما يحمله المستقبل.",
+      "واسأل عن التكلفة الكاملة، لا عن الرسم فقط. هل يشمل الرسم الإنفاق الإعلاني، أم أن الإنفاق منفصل؟ وهل هناك تكاليف للأدوات أو التصميم أو التصوير أو المحتوى؟ وماذا يحدث إذا أردت التوقف مؤقتاً، أو إنهاء العمل مبكراً؟ فالمفاجآت هنا تضر بالثقة أكثر من رسم أعلى يُذكر بوضوح من البداية. واكتب الصورة الكاملة في مكان واحد، قبل أن توقّع.",
+      "ولاحظ العلامات الحمراء. وعود بنتائج مضمونة، وهي وعود لا يستطيع أي مسوّق صادق أن يقطعها. أو ضغط للتوقيع اليوم، مع خصم ينتهي الليلة. أو عدم وصول إلى حساباتك. أو إجابات تتجنب الأسئلة البسيطة. أو خطة تبدو متماثلة لكل عمل، مع إضافة اسمك في الأعلى. وعلامة واحدة وحدها قد لا تعني الكثير. لكن عدة علامات معاً تعني شيئاً.",
+      "ولاحظ العلامات الخضراء أيضاً. أسئلة عن عملك وعملائك وهوامشك، قبل أي حديث عن القنوات. وكلمات صادقة عن الوقت: ما الذي يمكن اختباره بسرعة، وما الذي يحتاج إلى أشهر. وملكية واضحة للحسابات والبيانات. ونموذج تقرير يمكنك فهمه. وإجابة هادئة عن سؤال صعب. فهذه العلامات تصف شريكاً، لا مقدم خدمة فقط.",
+      "وتخيل، على سبيل المثال الافتراضي، عرضين على مكتبك. الأول يعد بنمو سريع، ويطرح أسئلة قليلة، ويريد توقيعاً هذا الأسبوع. والثاني يسأل عن حجوزاتك، ويشرح ما الذي سيُختبر أولاً، ويعرض موعداً للمراجعة بعد شهر واحد. الأول يبدو أسهل. والثاني أسهل في التعايش معه. والأسئلة التي تطرحها الآن هي التي تحدد التجربة التي تشتريها.",
+      "وقبل أن توقّع، افعل ثلاثة أشياء. اكتب الهدف وإيقاع التقارير وإجابات الملكية في صفحة واحدة، واطلب من مقدم الخدمة تأكيدها. وقارن العروض على النقاط نفسها، لا على الرسم وحده. وامنح نفسك يوماً هادئاً واحداً لتقرر. ومقدم الخدمة الجيد سيحترم التوقف. والتوقيع الصحيح يمنحك هدوءاً، لأنك تعرف ما اتفقت عليه، وكيف ستحكم عليه."
+    ],
+    "en": [
+      "Signing a marketing contract feels like progress. You have chosen someone, agreed a fee, and the work is about to start. But the signature is not the decision. The decision is everything you agreed before it: the goal, the work, the reporting, and what happens when results fall. A short conversation before you sign can save months of confusion.",
+      "Start with the goal. Ask: what exactly are we trying to achieve in the first three months, and how will we count it? Listen for a number connected to your business: real enquiries, bookings, or sales. Be careful with answers that stay vague, like 'growth' or 'awareness', with no number attached. A goal you can count is a goal you can review. Everything else is a hope.",
+      "Ask who will do the work, and who owns what. Will the person you met do the work, or will it pass to someone else? Will you have access to your own ad accounts, pages, and data? Who owns the content, the audiences, and the reports if the work ends? Good answers are direct. Evasive answers here cause the most pain later, when access and ownership suddenly matter.",
+      "Ask how reporting works. How often will you meet? What will the report show, and in what words? A good answer names a rhythm, usually monthly, and promises plain words: what changed, why, and what happens next. Ask to see a sample report, with names removed. If you cannot understand the sample, you will not understand your own reports either.",
+      "Ask what happens when results fall. Every business has slow months, and every campaign has weak tests. The question is not whether results will fall, but what the response will be. A good answer describes a process: review the numbers, find the cause, change one thing, and test again. An answer that blames the market, the season, or your clients, every time, tells you what the future holds.",
+      "Ask about the full cost, not only the fee. Does the fee include ad spend, or is that separate? Are there costs for tools, design, photography, or content? What happens if you want to pause, or to end the work early? Surprises here damage trust more than a higher fee stated plainly at the start. Write the full picture down, in one place, before you sign.",
+      "Notice the red flags. Promises of guaranteed results, which no honest marketer can make. Pressure to sign today, with a discount that expires tonight. No access to your own accounts. Answers that dodge simple questions. Or a plan that sounds identical for every business, with your name added at the top. One flag alone may mean little. Several together mean something.",
+      "Notice the green flags too. Questions about your business, your clients, and your margins, before any talk of channels. Honest words about time: what can be tested quickly, and what needs months. Clear ownership of accounts and data. A sample report you can understand. And a calm answer to a hard question. These signs describe a partner, not only a provider.",
+      "Imagine, as a hypothetical example, two offers on your desk. The first promises fast growth, asks few questions, and wants a signature this week. The second asks about your bookings, explains what will be tested first, and offers a review date after one month. The first feels easier. The second is easier to live with. The questions you ask now decide which experience you buy.",
+      "Before you sign, do three things. Write the goal, the reporting rhythm, and the ownership answers in one page, and ask the provider to confirm them. Compare offers on the same points, not on fee alone. And give yourself one quiet day to decide. A good provider will respect the pause. The right signature feels calm, because you know what you agreed, and how you will judge it."
+    ]
+  }
+}

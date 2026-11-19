@@ -859,3 +859,54 @@ html[lang=ar] .rc-rows span,html[lang=ar] .rc-res-h,html[lang=ar] .cs-brief span
 
 /* Mobile hero (2026-11-18): same order as desktop — copy first, photo below — and hide the sticky note so no text covers the photo */
 @media(max-width:860px){.hr-art{order:0}.hero .sticky{display:none!important}}
+
+/* ============ simplified homepage (2026-11-19) ============ */
+.hr-eyebrow{font-family:var(--f-display);font-size:1.3rem;margin:0 0 .2em;color:var(--ink)}
+.hr-aud{font-weight:800;font-size:1.12rem;margin:0 0 .6rem}
+.hr-copy .hr-note{margin:0 0 1.4rem}
+.hr-in:first-of-type{padding-bottom:1.2rem}
+@media(max-width:860px){.hr-in:first-of-type{padding-bottom:1rem}}
+/* six one-line services */
+.svc6{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1.4rem}
+.svc6-item{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:1.4rem;box-shadow:var(--shadow)}
+.svc6-item .o-ico{font-size:2rem;line-height:1}
+.svc6-item h3{font-size:1.35rem;margin:.4em 0 .2em}
+html[lang=ar] .svc6-item h3{font-size:1.5rem}
+.svc6-item p{margin:0;color:var(--ink2)}
+@media(max-width:860px){.svc6{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.svc6{grid-template-columns:1fr}}
+/* proof: real results */
+.proof{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1.4rem}
+.proof-card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:1.4rem;box-shadow:var(--shadow)}
+.proof-card b{display:block;font-family:var(--f-display);font-size:clamp(1.9rem,5vw,2.6rem);line-height:1.1;color:var(--charcoal)}
+.proof-card b small{font-size:.55em}
+.proof-card .proof-who{font-weight:800;color:var(--ink);margin:.4rem 0 .2rem}
+.proof-card p{margin:0;color:var(--ink2)}
+@media(max-width:860px){.proof{grid-template-columns:1fr}}
+/* clients by sector */
+.sectors{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin-top:1.4rem}
+.sector{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:1.4rem;box-shadow:var(--shadow);min-width:0}
+.sector .sec-ico{font-size:2rem;line-height:1}
+.sector h3{font-size:1.4rem;margin:.3em 0 .2em}
+html[lang=ar] .sector h3{font-size:1.5rem}
+.sector>p{margin:0 0 .5em;color:var(--ink2)}
+.sector .sec-case{font-weight:700;color:var(--ink)}
+.sector .sec-all{margin:.6rem 0 0;font-size:.95rem}
+@media(max-width:860px){.sectors{grid-template-columns:1fr}}
+.logo.hot img,.logo.hot .wm{border:2px solid var(--mustard);box-shadow:0 0 0 2px rgba(233,195,78,.35),var(--shadow)}
+/* about: one line */
+.about-simple{max-width:680px}
+.about-simple .prose{font-size:1.15rem}
+/* animated stat counters: tabular figures so the count-up does not jitter */
+.stats b .count{font-variant-numeric:tabular-nums}
+/* ============ motion (2026-11-19): hover lifts, hero doodle float, staggered hero entrance ============ */
+@media(prefers-reduced-motion:no-preference){
+  .svc6-item,.proof-card,.sector{transition:transform .25s,box-shadow .25s}
+  .svc6-item:hover,.proof-card:hover,.sector:hover{transform:translateY(-4px)}
+  .sector .logo{transition:transform .2s}
+  .sector .logo:hover{transform:translateY(-3px)}
+  .hr-copy>*:nth-child(5){animation-delay:.52s}
+  .hr-copy>*:nth-child(6){animation-delay:.64s}
+  @keyframes bob{from{transform:translateY(0)}to{transform:translateY(-5px)}}
+  .d-spark{animation:bob 3.5s ease-in-out infinite alternate}
+}
